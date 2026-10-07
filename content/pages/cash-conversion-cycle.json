@@ -1,0 +1,124 @@
+{
+  "slug": "cash-conversion-cycle",
+  "category": "blog",
+  "title": "The Cash Conversion Cycle Explained",
+  "seo_title": "The Cash Conversion Cycle Explained | Fidelity Funding",
+  "meta_description": "The cash conversion cycle shows how many days your cash is tied up. Learn the DIO + DSO - DPO formula, a worked example and ways to shorten the cycle.",
+  "primary_keyword": "cash conversion cycle",
+  "keywords": [
+    "cash conversion cycle formula",
+    "DIO DSO DPO",
+    "days inventory outstanding",
+    "days sales outstanding",
+    "days payable outstanding",
+    "shorten cash conversion cycle",
+    "working capital efficiency"
+  ],
+  "eyebrow": "Financial basics",
+  "dek": "The cash conversion cycle counts the days between paying for inventory and collecting from customers. Shorter is usually better.",
+  "intro": [
+    "You buy materials in March, build the product in April, ship it in May and get paid in July. Along the way you paid your suppliers in April. For months, your cash is sitting in inventory and invoices rather than in the bank. That stretch of time, and how to shorten it, is what the cash conversion cycle measures.",
+    "It sounds like finance-school jargon, but the idea is practical. If you know how many days your cash is tied up, you can see exactly where to release it, often without borrowing a dollar."
+  ],
+  "sections": [
+    {
+      "h2": "The formula",
+      "paragraphs": [
+        "The cash conversion cycle, or CCC, equals days inventory outstanding plus days sales outstanding minus days payable outstanding. In shorthand: DIO + DSO - DPO. Each piece captures one stage of the journey of a dollar through your business.",
+        "A shorter cycle means cash returns faster and you need less working capital to run the business. A longer one means more money is tied up and growth will pull harder on your resources."
+      ],
+      "bullets": [
+        "DIO: average days inventory sits before it is sold",
+        "DSO: average days customers take to pay after a sale",
+        "DPO: average days you take to pay your suppliers",
+        "CCC: DIO + DSO - DPO, the days your cash is tied up"
+      ]
+    },
+    {
+      "h2": "Calculating each piece",
+      "paragraphs": [
+        "DIO is average inventory divided by cost of goods sold, multiplied by the number of days in the period. DSO is average accounts receivable divided by credit sales, multiplied by the days. DPO is average accounts payable divided by cost of goods sold, multiplied by the days. Use the same period, such as a quarter or a year, for all three.",
+        "Your accounting software can usually provide the underlying figures. If you are not sure which numbers to use, your bookkeeper or CPA can help set up the calculation consistently, which matters more than perfection."
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Say a small wholesaler turns inventory in 50 days, collects from customers in 40 days and pays suppliers in 30 days. The cash conversion cycle is 50 + 40 - 30, or 60 days. For two months, every dollar spent on stock is out of reach. These numbers are hypothetical.",
+        "Now suppose the wholesaler tightens collections to 30 days and moves inventory in 45. The cycle drops to 45 + 30 - 30, or 45 days. On a business turning over a given daily cost of goods, 15 fewer days of cash tied up is a meaningful release of working capital, which could otherwise have required borrowing."
+      ]
+    },
+    {
+      "h2": "Service businesses and the cycle",
+      "paragraphs": [
+        "If you do not hold inventory, DIO is zero or close to it, and the cycle comes down to DSO minus DPO. A staffing firm that pays workers weekly but collects from clients in 45 days has a big gap on the labor side even without stock. A contractor that fronts materials and bills at milestones is in a similar position.",
+        "The principle holds: whenever you pay out before you are paid, you finance the difference yourself. The cycle helps quantify how much and for how long."
+      ]
+    },
+    {
+      "h2": "How to shorten the cycle",
+      "paragraphs": [
+        "Each component offers different levers, and some improve the number at little cost. Choose the ones that fit your customers and suppliers, because aggressive changes can damage relationships."
+      ],
+      "steps": [
+        "Reduce DIO by ordering closer to demand, trimming slow stock and improving forecasting.",
+        "Reduce DSO with prompt invoicing, clear terms, deposits and consistent follow-up.",
+        "Extend DPO carefully by negotiating longer supplier terms, without paying late.",
+        "Review customer mix for slow payers and adjust terms or pricing.",
+        "Track the three numbers monthly to see which moves most."
+      ]
+    },
+    {
+      "h2": "Common pitfalls in using the metric",
+      "paragraphs": [
+        "The cycle can mislead if the inputs are inconsistent. Mixing quarterly receivables with annual sales, or using revenue where cost of goods belongs, distorts the days. Averages can hide extremes too: one large slow customer can inflate DSO while most customers pay promptly. Seasonal businesses should compare like periods rather than adjacent months. Treat the output as a prompt for questions, not a final score, and look at the components separately. Which one is moving, and why, is usually more informative than the total."
+      ]
+    },
+    {
+      "h2": "When the cycle needs outside help",
+      "paragraphs": [
+        "Sometimes you cannot shorten the cycle fast enough, especially when you are growing or landing a large order. The gap between paying out and getting paid has to be funded somehow. Options include working capital funding, invoice-based products or inventory financing, each with different costs and fit.",
+        "A Fidelity Funding specialist can help you work out which part of the cycle creates the strain and which funding partners offer products suited to it. The better you can describe your cycle in days, the easier it is to match a structure to it. Terms and availability vary by funding partner and underwriting, and your accountant can advise on how any financing affects your books."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "CCC equals DIO + DSO - DPO, measured in days.",
+    "A shorter cycle frees cash and reduces the need to borrow.",
+    "Service businesses mostly manage DSO against DPO.",
+    "Improve collections, inventory turns and supplier terms in balance.",
+    "Fund the remaining gap with a product matched to where the strain sits."
+  ],
+  "faq": [
+    {
+      "q": "What is a good cash conversion cycle?",
+      "a": "It depends heavily on the industry. Retailers with fast-moving stock tend to have shorter cycles than manufacturers or distributors. The most useful comparison is your own history and businesses like yours. A shrinking cycle is generally a good sign, and a lengthening one deserves attention."
+    },
+    {
+      "q": "Can the cash conversion cycle be negative?",
+      "a": "Yes. If you collect from customers before you pay suppliers, DPO can exceed DIO plus DSO. Some businesses with prepaid sales or strong supplier terms operate this way. It means customers and suppliers are effectively financing your operations. Details vary by funding partner and product, so confirm the specifics before you decide."
+    },
+    {
+      "q": "How often should I calculate it?",
+      "a": "Monthly or quarterly is common, using consistent periods. More frequent tracking helps if you are growing fast or seasonal. Over time, trends in each component reveal where cash is getting stuck, which matters more than a single reading. It is worth confirming the exact terms in writing before you commit to anything."
+    },
+    {
+      "q": "Does stretching supplier payments always help?",
+      "a": "Not always. Negotiated, longer terms can help, but paying late can cost discounts, trigger fees or damage relationships and supply reliability. Extend DPO within agreed terms, and weigh any early-payment discount before deciding. A funding specialist can walk through how this applies to your own situation."
+    },
+    {
+      "q": "What funding fits a long cash conversion cycle?",
+      "a": "It depends on where the cycle is long. Slow receivables may suit invoice-based products, slow inventory may suit inventory financing, and general timing gaps may suit working capital options. A funding specialist can review your situation and discuss options, subject to underwriting."
+    }
+  ],
+  "related": [
+    "working-capital-formula",
+    "accounts-receivable-tips",
+    "invoice-factoring",
+    "inventory-financing",
+    "business-cash-flow-forecasting",
+    "working-capital-loans"
+  ],
+  "icon": "clock",
+  "read_minutes": 7
+}

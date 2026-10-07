@@ -1,0 +1,112 @@
+{
+  "slug": "buy-equipment",
+  "category": "use-cases",
+  "title": "Funding to Buy Equipment",
+  "seo_title": "Funding to Buy Equipment: Buy, Lease, Finance | Fidelity Funding",
+  "meta_description": "Compare buying, leasing and financing equipment. See how useful life, tax treatment and cash flow shape the choice and when equipment funding fits.",
+  "primary_keyword": "funding to buy equipment",
+  "keywords": [
+    "equipment buy vs lease",
+    "equipment financing",
+    "equipment lease",
+    "useful life of equipment",
+    "Section 179 deduction",
+    "used equipment financing",
+    "equipment purchase cash flow"
+  ],
+  "eyebrow": "Equipment funding",
+  "dek": "The machine pays for itself only if you can afford to get it. Weigh buying, leasing and financing on cost, flexibility and cash.",
+  "intro": [
+    "New equipment can raise capacity, cut labor, improve quality or open a line of work you could not take on before. It can also tie up a large amount of cash in an asset that loses value from the day it arrives. The best purchases are the ones where the extra profit is clear and the payment fits the cash flow.",
+    "Owners tend to choose between three paths: buy with cash, lease or finance. Each has different effects on your balance sheet, taxes and flexibility. This page breaks down the tradeoffs and shows how to run the numbers. Tax treatment varies, so confirm the details with your CPA."
+  ],
+  "sections": [
+    {
+      "h2": "Start with the return on the machine",
+      "paragraphs": [
+        "Ask what the equipment will actually change. Does it increase output per hour, reduce waste, cut subcontracting costs, allow a higher-priced service or replace a machine that keeps breaking down? Translate the answer into added gross profit per month.",
+        "Say a $48,000 machine adds $2,200 a month in gross profit by replacing outsourced work. Payback is about twenty-two months before financing costs. That is hypothetical, but if the useful life is ten years, the economics look more attractive than if the machine is obsolete in three.",
+        "Also consider capacity you will actually use. A machine sized for the business you hope to have in three years may sit half idle and cost more than one sized for today. Ask whether the vendor offers upgrade paths, add-on modules or trade-in value so you can grow into the equipment instead of buying it all at once."
+      ]
+    },
+    {
+      "h2": "Buying with cash",
+      "paragraphs": [
+        "Paying cash avoids interest and fees and gives you full ownership. The cost is liquidity: that cash is no longer available for payroll, inventory or emergencies. A business that is cash-rich but has thin reserves after the purchase is more fragile than it looks.",
+        "Cash makes the most sense for modest purchases when your reserves are healthy and the equipment has a long useful life. It is less sensible when it leaves you unable to absorb a slow month."
+      ]
+    },
+    {
+      "h2": "Leasing",
+      "paragraphs": [
+        "A lease typically offers lower payments than a loan and can be useful for equipment that becomes outdated quickly, such as technology. Structures vary. In some leases you return the equipment at the end, in others you can buy it for a fixed amount or for fair market value, and in some you own it after the last payment.",
+        "Read the lease for end-of-term obligations, maintenance responsibility, insurance requirements, early termination charges and any usage limits. Lower payments can hide a higher total cost.",
+        "Keep in mind that a business that leases many items can end up with a long list of fixed payments. Add them up periodically and compare the total with monthly gross profit. If fixed obligations are crowding out your margin for error, consider paying down or consolidating some of them."
+      ],
+      "bullets": [
+        "Total of all payments versus purchase price",
+        "End-of-term buyout or return conditions",
+        "Who pays for maintenance, insurance and taxes",
+        "Early termination and default terms",
+        "Tax treatment, which your CPA should confirm"
+      ]
+    },
+    {
+      "h2": "Equipment financing",
+      "paragraphs": [
+        "With equipment financing, you borrow to buy the asset, which usually secures the financing. You own the equipment and make payments over a set term, often matched to its useful life. Down payment, rate and term vary by credit, time in business, equipment type and age, and funding partner.",
+        "Some tax rules, such as the Section 179 deduction and bonus depreciation, may allow businesses to deduct part or all of qualifying equipment cost in the year of purchase. Limits and eligibility change over time, so ask your CPA how it applies to you.",
+        "Ask the lender or funding partner whether the financing covers soft costs like delivery and installation. Some programs include them in the amount financed, while others require you to pay them separately, which changes how much cash you need on day one."
+      ]
+    },
+    {
+      "h2": "New versus used, and hidden costs",
+      "paragraphs": [
+        "Used equipment can be a bargain, but get it inspected, check service records and confirm parts are still available. Financing terms for older equipment can be shorter or require more down.",
+        "Include installation, electrical or plumbing upgrades, training, permits, transport, insurance and the cost of downtime during switchover. Hidden costs often add a meaningful share to the purchase price.",
+        "Also negotiate with the vendor. Equipment prices, warranties, free training and service contracts are often more flexible than the sticker suggests, especially near quarter end or when you buy multiple units."
+      ]
+    },
+    {
+      "h2": "Working with Fidelity Funding",
+      "paragraphs": [
+        "Fidelity Funding is a broker that connects you with funding partners rather than lending directly. A short application with a soft credit pull begins the review, and a funding specialist goes through equipment financing, working capital and other options with you. Decisions can often come within hours, funding can sometimes arrive within about a day and nothing about approval or terms is guaranteed.",
+        "Bring the vendor quote with the model and price. When you know which asset you want, start your application and compare the choices."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Measure the machine by the added gross profit it creates.",
+    "Cash preserves ownership but can drain liquidity.",
+    "Compare total lease payments with purchase price and end-of-term terms.",
+    "Ask a CPA how equipment deductions apply to your situation."
+  ],
+  "faq": [
+    {
+      "q": "Is it better to lease or buy business equipment?",
+      "a": "It depends on how long you will use it, how quickly it becomes obsolete and your cash position. Leasing may lower payments but can cost more overall. Buying or financing builds ownership. Compare total costs and ask your CPA about tax effects. Run both numbers before signing."
+    },
+    {
+      "q": "Can I finance used equipment?",
+      "a": "Often yes, though terms can vary with the age and condition of the equipment. Funding partners may require inspection reports or a larger down payment. Approval and terms depend on underwriting and are not guaranteed. Terms vary by funding partner."
+    },
+    {
+      "q": "What is the Section 179 deduction?",
+      "a": "It is a federal tax provision that can allow businesses to deduct part or all of the cost of qualifying equipment in the year it is placed in service, subject to limits and rules that change. Confirm eligibility and amounts with your CPA. Do not rely on rules of thumb alone."
+    },
+    {
+      "q": "What costs are not in the equipment price?",
+      "a": "Delivery, installation, electrical or plumbing changes, permits, training, insurance and downtime during the switch can add up. Ask the vendor for an all-in estimate and build in a contingency so the total project cost does not surprise you. Request an all-in written estimate."
+    }
+  ],
+  "related": [
+    "equipment-financing",
+    "equipment-lease-vs-loan",
+    "restaurant-equipment-financing",
+    "medical-equipment-financing",
+    "construction-equipment-financing",
+    "manufacturing"
+  ],
+  "icon": "gear",
+  "read_minutes": 6
+}

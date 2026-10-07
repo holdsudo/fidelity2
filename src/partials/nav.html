@@ -1,0 +1,77 @@
+<header class="nav" id="nav">
+  <div class="container nav__inner">
+    <a class="nav__logo" href="/" aria-label="Fidelity Funding — home">
+      <img class="logo-light" src="/assets/img/logo-white.webp" alt="Fidelity Funding" width="277" height="82">
+      <img class="logo-dark" src="/assets/img/logo.webp" alt="" width="277" height="82">
+    </a>
+    <nav class="nav__links" aria-label="Primary">
+      <div class="mega-wrap">
+        <button class="mega-trigger" type="button" aria-expanded="false" aria-controls="mega">Explore <svg class="icon" aria-hidden="true" style="width:14px;height:14px;transform:rotate(90deg)"><use href="#i-chev-r"/></svg></button>
+        <div class="mega" id="mega">
+          <div class="container mega__grid">
+            <div class="mega__col">
+              <h5>Funding options</h5>
+              <a href="/funding/merchant-cash-advance/">{{i:cash}}<span><b>Merchant Cash Advance</b><small>Funding based on future sales</small></span></a>
+              <a href="/funding/small-business-loans/">{{i:briefcase}}<span><b>Small Business Loans</b><small>Working capital to grow</small></span></a>
+              <a href="/funding/equipment-financing/">{{i:gear}}<span><b>Equipment Financing</b><small>Vehicles, machinery, tech</small></span></a>
+              <a href="/funding/business-line-of-credit/">{{i:refresh}}<span><b>Line of Credit</b><small>Draw only what you need</small></span></a>
+              <a class="mega__all" href="/funding/" data-nav="funding">All {{count:funding}} funding options →</a>
+            </div>
+            <div class="mega__col">
+              <h5>Industries</h5>
+              <div class="mega__links">
+                <a href="/industries/trucking/">Trucking</a><a href="/industries/restaurants/">Restaurants</a><a href="/industries/construction/">Construction</a><a href="/industries/medical-practices/">Medical</a><a href="/industries/retail-stores/">Retail</a><a href="/industries/ecommerce/">E-commerce</a><a href="/industries/hvac/">HVAC</a><a href="/industries/auto-repair-shops/">Auto repair</a><a href="/industries/hair-salons/">Salons</a><a href="/industries/staffing-agencies/">Staffing</a>
+              </div>
+              <a class="mega__all" href="/industries/" data-nav="industries">All {{count:industries}} industries →</a>
+            </div>
+            <div class="mega__col">
+              <h5>Tools</h5>
+              <a href="/tools/funding-calculator/">{{i:dollar}}<span><b>Funding calculator</b><small>Payback, payments, cost</small></span></a>
+              <a href="/tools/compare-offers/">{{i:scale}}<span><b>Compare offers</b><small>Side-by-side true cost</small></span></a>
+              <a href="/tools/qualify/">{{i:target}}<span><b>60-second match</b><small>Find your best-fit option</small></span></a>
+              <a href="/tools/processing-fee-calculator/">{{i:card}}<span><b>Processing fee check</b><small>See what cards really cost</small></span></a>
+              <a class="mega__all" href="/tools/" data-nav="tools">All tools →</a>
+            </div>
+            <div class="mega__col mega__feature">
+              <a class="mega__pp" href="/card-processing/" data-nav="processing">
+                <span class="pp-badge">{{i:card}}</span>
+                <b>PayPilot by MCCPS</b>
+                <small>Our card-processing partner. Get a free statement review and modern terminals.</small>
+                <span class="link-arrow">Learn more {{i:arrow}}</span>
+              </a>
+              <a class="mega__blog" href="/blog/" data-nav="blog">{{i:book}}<span><b>The Blog</b><small>{{count:blog}} guides on cash flow &amp; funding</small></span></a>
+              <a class="mega__blog" href="/use-cases/" data-nav="use-cases">{{i:target}}<span><b>Use cases</b><small>{{count:use-cases}} ways businesses use funding</small></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a href="/funding/" data-nav="funding">Funding</a>
+      <a href="/industries/" data-nav="industries">Industries</a>
+      <a href="/blog/" data-nav="blog">Blog</a>
+      <a href="/card-processing/" data-nav="processing">Processing</a>
+      <a href="/contact/" data-nav="contact">Contact</a>
+    </nav>
+    <div class="nav__actions">
+      <button class="nav__ai" type="button" data-cmdk aria-label="Search or ask Fidelity AI">{{i:search}} Search <kbd>⌘K</kbd></button>
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" data-theme-toggle><svg class="icon i-moon" aria-hidden="true"><use href="#i-moon"/></svg><svg class="icon i-sun" aria-hidden="true"><use href="#i-sun"/></svg></button>
+      <a class="btn btn--primary btn--sm" href="/apply/" data-nav="apply">Get Funded</a>
+      <button class="nav__burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu"><span></span></button>
+    </div>
+  </div>
+  <div class="progress-bar" id="progress"></div>
+</header>
+<div class="mobile-menu" id="mobile-menu" aria-hidden="true">
+  <nav aria-label="Mobile">
+    <a class="mm-link" href="/">Home</a>
+    <a class="mm-link" href="/funding/">Funding</a>
+    <a class="mm-link" href="/industries/">Industries</a>
+    <a class="mm-link" href="/tools/">Tools</a>
+    <a class="mm-link" href="/blog/">Blog</a>
+    <a class="mm-link" href="/card-processing/">Processing</a>
+    <a class="mm-link" href="/contact/">Contact</a>
+  </nav>
+  <div class="mobile-menu__foot">
+    <a class="btn btn--white btn--lg" href="/apply/">Get Funded {{i:arrow}}</a>
+    <a class="btn btn--ghost-dark btn--lg" href="tel:+12126349121">{{i:phone}} (212) 634-9121</a>
+  </div>
+</div>

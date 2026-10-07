@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+
+Sitemap: https://fidelity2.joe-miz.com/sitemap.xml

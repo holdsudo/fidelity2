@@ -1,0 +1,119 @@
+{
+  "slug": "business-credit-score-basics",
+  "category": "blog",
+  "title": "Business Credit Scores: The Basics",
+  "seo_title": "Business Credit Scores Explained | Fidelity Funding",
+  "meta_description": "Business credit scores explained: how Dun & Bradstreet, Experian and Equifax score your company, what they look at, and how they affect funding options.",
+  "primary_keyword": "business credit score",
+  "keywords": [
+    "business credit score",
+    "Dun & Bradstreet PAYDEX",
+    "Experian business credit",
+    "Equifax business credit",
+    "D-U-N-S number",
+    "business vs personal credit",
+    "FICO SBSS"
+  ],
+  "eyebrow": "Credit basics",
+  "dek": "Your company can have a credit file separate from yours. Here is who keeps it, how it is scored, and what funders actually do with it.",
+  "intro": [
+    "Most owners know their personal FICO score down to the digit and have no idea whether their company has a credit file at all. Then a funding application asks for your EIN and D-U-N-S number, and the question comes up: what is my business credit score, and does it even matter?",
+    "It matters, but usually less than people fear and in different ways than they expect. This guide covers the three main bureaus, how their scores are built, how business and personal credit overlap for small companies, and what to do with the information when you are looking at funding."
+  ],
+  "sections": [
+    {
+      "h2": "Business credit is a separate file, with separate rules",
+      "paragraphs": [
+        "A business credit report is tied to your company, usually through its EIN and a D-U-N-S number, not to your Social Security number. It collects data from suppliers, vendors, lenders and public records: how fast you pay invoices, how much credit you use, whether liens or judgments exist, and how long you have been operating.",
+        "Unlike consumer credit, there is no single universal score and no law that guarantees you can see every report for free. Each bureau runs its own model, uses its own scale, and gets its own slice of data. A company can look excellent at one bureau and thin at another simply because its suppliers report to only one of them."
+      ]
+    },
+    {
+      "h2": "The three bureaus and how their scores read",
+      "paragraphs": [
+        "Dun & Bradstreet is the best-known name. Its PAYDEX score runs from 0 to 100 and is based almost entirely on payment behavior reported by trade references. Scores in the 80s and above generally indicate bills are paid on or before terms, while lower numbers indicate slow payment. D&B also issues risk and failure-style ratings that look at financial strength and the likelihood of delinquency.",
+        "Experian offers an Intelliscore Plus score on a 1 to 100 scale, with higher meaning lower predicted risk. It draws on payment history, credit utilization, company size and age, public records and industry data. Equifax runs a Business Credit Risk Score on a much wider range, plus a Payment Index from 0 to 100 that focuses on payment timing. Exact scales, names and cutoffs change over time, so check each bureau's current documentation instead of relying on a number you read years ago."
+      ],
+      "bullets": [
+        "Dun & Bradstreet: PAYDEX (0-100) built on trade payment data",
+        "Experian: Intelliscore Plus (1-100) blending payments, utilization and public records",
+        "Equifax: Business Credit Risk Score plus a Payment Index (0-100)",
+        "SBA small-loan programs may also use the FICO SBSS score, which blends business and personal data"
+      ]
+    },
+    {
+      "h2": "What actually moves the number",
+      "paragraphs": [
+        "Payment history dominates. Paying a supplier on day 10 of net-30 terms looks very different from paying on day 45, even though both are technically in good standing at your own bank. Beyond that, the common inputs are how much of your available credit you are using, how many years the business has existed, how many trade lines are reporting, and whether tax liens, judgments or collections show up in public records.",
+        "Size and industry also play a part. A two-person landscaping company and a regional distributor are measured against different peer groups, so a score that looks mediocre in the abstract may be perfectly normal for your category."
+      ]
+    },
+    {
+      "h2": "Where your personal credit still shows up",
+      "paragraphs": [
+        "For most small businesses, especially sole proprietorships, single-member LLCs and companies under a few years old, the business file is thin or empty. In that case funders lean on the owner. A personal guarantee is common, and the owner's personal credit is often reviewed alongside the company's finances.",
+        "That is why keeping the two worlds clean matters. If business debts are paid from a personal card, or the company has no bank history of its own, there is little to build a business score from and the owner's profile carries everything."
+      ]
+    },
+    {
+      "h2": "How funders really use business credit",
+      "paragraphs": [
+        "Different products weigh credit differently. Traditional bank and SBA loans usually care a great deal about scores, tax returns and time in business. Alternative products such as merchant cash advances and some short-term working capital are typically underwritten more heavily on bank deposits and revenue consistency, with credit as one input among several. Varies by funding partner and underwriting.",
+        "At Fidelity Funding, the initial review uses a soft credit pull, so looking at your options does not ding your score. A funding specialist can then explain which of your partners tend to focus on revenue and which look harder at credit, so you are not guessing."
+      ]
+    },
+    {
+      "h2": "A practical checklist for the next 30 days",
+      "paragraphs": [
+        "You do not need a perfect score to move forward, but a few quick checks prevent surprises. Treat the list below as housekeeping rather than a project."
+      ],
+      "steps": [
+        "Confirm your legal business name, address and phone match across your state filing, bank account and tax records.",
+        "Look up or request a free D-U-N-S number if you do not have one.",
+        "Pull your reports from each bureau and look for errors, old addresses or accounts that are not yours.",
+        "Dispute anything wrong in writing and keep copies.",
+        "Pay current supplier invoices early where cash allows, and ask whether they report to the bureaus.",
+        "Resolve open liens or judgments before applying, or be ready to explain them."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Business credit is its own file, tied to your EIN and D-U-N-S number, not your SSN.",
+    "Dun & Bradstreet, Experian and Equifax each use different scales and data, so scores will not match.",
+    "Payment timing to suppliers is the biggest driver of most business scores.",
+    "Many small companies are still underwritten partly on the owner's personal credit.",
+    "Alternative funding often weighs bank deposits more than business credit scores."
+  ],
+  "faq": [
+    {
+      "q": "What is a good business credit score?",
+      "a": "It depends on the bureau. On D&B's PAYDEX, scores in the 80s and above generally signal on-time payment. Experian and Equifax use different scales, so a good number at one is not comparable to another. Rather than chasing one number, look at payment history, utilization and any public records, and confirm current scoring ranges with each bureau."
+    },
+    {
+      "q": "Does checking my business credit hurt my score?",
+      "a": "Checking your own business reports is generally not harmful. Some lender inquiries on a business file can be recorded, and personal hard pulls can affect your personal score. Fidelity Funding's initial review uses a soft pull only, which does not affect your credit score, so you can explore options before committing."
+    },
+    {
+      "q": "Do I need a D-U-N-S number to get funding?",
+      "a": "Not for every product. It is often requested for larger loans, vendor accounts, government contracting and some trade credit. Many alternative working-capital options focus on bank statements and revenue instead. A D-U-N-S number is free to request and is useful to have on file if you plan to build business credit."
+    },
+    {
+      "q": "Can I get funding with no business credit history?",
+      "a": "Often yes, though options vary. If your company is new or has little reported activity, funding partners may look at the owner's credit, time in business and recent bank deposits. Terms and availability vary by funding partner and underwriting, and are never guaranteed, so a specialist review is the fastest way to see what fits."
+    },
+    {
+      "q": "How long does it take to build a business credit score?",
+      "a": "There is no fixed timeline. Scores generally need a handful of reporting trade lines and some months of consistent on-time payments before they become meaningful. Companies whose suppliers do not report may wait longer. Asking vendors whether they report to the bureaus is a practical first step."
+    }
+  ],
+  "related": [
+    "build-business-credit",
+    "separate-business-personal-finances",
+    "soft-pull-vs-hard-pull",
+    "personal-guarantee-explained",
+    "bad-credit-business-loans",
+    "improve-business-funding-approval-odds"
+  ],
+  "icon": "trend",
+  "read_minutes": 6
+}

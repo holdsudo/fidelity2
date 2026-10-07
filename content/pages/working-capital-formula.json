@@ -1,0 +1,125 @@
+{
+  "slug": "working-capital-formula",
+  "category": "blog",
+  "title": "Working Capital: Formula and Why It Matters",
+  "seo_title": "Working Capital Formula and Why It Matters | Fidelity Funding",
+  "meta_description": "Working capital equals current assets minus current liabilities. Learn the formula, a worked example, how to read the result and ways to improve it.",
+  "primary_keyword": "working capital formula",
+  "keywords": [
+    "how to calculate working capital",
+    "current assets minus current liabilities",
+    "working capital ratio",
+    "net working capital",
+    "positive vs negative working capital",
+    "improve working capital",
+    "working capital for small business"
+  ],
+  "eyebrow": "Financial basics",
+  "dek": "Working capital measures the short-term cushion your business has. Here is the formula, a clear example and what to do when the number looks thin.",
+  "intro": [
+    "Ask a banker, an accountant or a funder how healthy your business is in the short term, and sooner or later they will say working capital. It is one of the simplest measures in finance and one of the most useful, because it answers a plain question: if your near-term bills came due now, could you cover them with what you have or will soon collect?",
+    "The formula takes a minute to learn. The judgment about what it means for your particular business takes a little longer, and that is where most of the value lies."
+  ],
+  "sections": [
+    {
+      "h2": "The formula",
+      "paragraphs": [
+        "Working capital equals current assets minus current liabilities. Current assets are things you expect to turn into cash within about a year, and current liabilities are obligations you expect to pay within that same period. Both numbers come from your balance sheet.",
+        "A related measure, the current ratio, divides current assets by current liabilities. A ratio above 1 means current assets exceed current liabilities. Neither figure is a verdict on its own, but together they give a quick view of short-term liquidity."
+      ],
+      "bullets": [
+        "Current assets: cash, accounts receivable, inventory, prepaid expenses",
+        "Current liabilities: accounts payable, short-term debt, accrued payroll and taxes, current portion of long-term debt",
+        "Working capital: current assets minus current liabilities",
+        "Current ratio: current assets divided by current liabilities"
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Say a small distributor has $30,000 in cash, $55,000 in receivables and $65,000 in inventory, so current assets of $150,000. It owes $45,000 to suppliers, $20,000 in accrued payroll and taxes and $25,000 on short-term debt payments due this year, for current liabilities of $90,000. Working capital is $60,000, and the current ratio is about 1.67. These figures are hypothetical.",
+        "That sounds comfortable, but notice that $65,000 of it is inventory, which takes time to sell. If much of the stock is slow moving, the effective cushion is smaller than the headline. Which assets make up the total matters as much as the total."
+      ]
+    },
+    {
+      "h2": "Reading the result",
+      "paragraphs": [
+        "Positive working capital generally means you can meet near-term obligations, while negative working capital suggests you could be squeezed, unless your business model collects cash before it pays suppliers. Some businesses, such as certain restaurants or subscription companies, operate with low or negative working capital by design because customers pay immediately.",
+        "There is no universal target. A healthy level depends on your industry, your sales cycle and how quickly your assets convert to cash. Compare your figure over time and with similar businesses, and watch the direction as much as the level. Declining working capital in a growing business is a classic early warning."
+      ]
+    },
+    {
+      "h2": "Why growth can strain working capital",
+      "paragraphs": [
+        "Growth consumes cash before it produces it. A bigger order means buying more materials, paying more labor and waiting for payment, which stretches receivables and inventory. A business can be profitable and still run short of working capital when it grows quickly.",
+        "That is the situation in which working capital financing is usually considered. The goal is to bridge the timing between spending and collecting, with repayment coming from the revenue the growth creates. It is not a substitute for profitability, and it works best when the incoming cash is predictable."
+      ]
+    },
+    {
+      "h2": "Ways to improve it",
+      "paragraphs": [
+        "There are two directions: raise current assets that turn into cash, or reduce and delay current liabilities. The levers below are all practical, though each has trade-offs."
+      ],
+      "steps": [
+        "Invoice promptly and follow up on late receivables.",
+        "Offer small early-payment incentives or require deposits where it makes sense.",
+        "Trim slow-moving inventory and reorder more precisely.",
+        "Negotiate longer payment terms with suppliers without damaging relationships.",
+        "Refinance short-term debt into longer terms where possible.",
+        "Keep a cash reserve for the lean periods."
+      ]
+    },
+    {
+      "h2": "Two related measures worth knowing",
+      "paragraphs": [
+        "Alongside working capital and the current ratio, you may hear about the quick ratio, which leaves out inventory and prepaid items and compares cash, receivables and similar assets with current liabilities. It is a stricter test of how well you could cover short-term bills without selling stock. You may also see the cash conversion cycle, which measures how many days your money is tied up. Used together, these measures give a fuller picture than any one number, and your accountant can help you pick the ones that are most meaningful for your kind of business."
+      ]
+    },
+    {
+      "h2": "How funders look at it",
+      "paragraphs": [
+        "For many short-term products, funders focus on bank deposits and balances rather than a balance sheet, but the logic is the same: can the business generate enough cash to carry the payment? Larger, longer products often ask for financial statements and may look at working capital and ratios directly.",
+        "If you are unsure whether your working capital supports additional funding, talk it through with a Fidelity Funding specialist. They can help you gauge which product types might suit your position and where an extra obligation could create strain. Your CPA can help with the accounting details. Funding decisions depend on underwriting, and no outcome is guaranteed."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Working capital equals current assets minus current liabilities.",
+    "The mix of assets matters; inventory is less liquid than cash or receivables.",
+    "Some business models run lean on working capital by design.",
+    "Fast growth can strain working capital even when profitable.",
+    "Collect faster, pay smarter and keep a reserve to improve it."
+  ],
+  "faq": [
+    {
+      "q": "What is a good working capital ratio?",
+      "a": "It depends on the industry and business model. A current ratio above 1 means current assets exceed current liabilities, and many owners aim for a comfortable margin above that. Compare your own trend over time and with similar businesses, and consult your accountant for a target that fits."
+    },
+    {
+      "q": "Can working capital be negative?",
+      "a": "Yes. It means current liabilities exceed current assets. For some models, like those collecting cash before paying suppliers, it can be normal. For others it signals a short-term squeeze. Look at cash timing and your forecast to judge which situation you are in."
+    },
+    {
+      "q": "Is working capital the same as cash flow?",
+      "a": "No. Working capital is a snapshot of short-term assets minus liabilities at a point in time. Cash flow measures money moving in and out over a period. They are related, since changes in receivables, inventory and payables affect cash, but they answer different questions."
+    },
+    {
+      "q": "How can I raise working capital quickly?",
+      "a": "Collecting receivables faster, selling slow inventory, delaying nonessential spending and negotiating supplier terms can help. Outside working capital funding is another option for a temporary gap. Weigh the cost, and confirm tax and accounting effects with a CPA before making changes."
+    },
+    {
+      "q": "Do funders look at working capital?",
+      "a": "Some do, especially for larger or longer-term products that review financial statements. Short-term products tend to emphasize bank deposits and balances. Ask your specialist what a given partner reviews so you can prepare the right documents. Details vary by funding partner and product, so confirm the specifics before you decide."
+    }
+  ],
+  "related": [
+    "working-capital-loans",
+    "cash-conversion-cycle",
+    "business-cash-flow-forecasting",
+    "profit-vs-cash-flow",
+    "accounts-receivable-tips",
+    "debt-service-coverage-ratio"
+  ],
+  "icon": "book",
+  "read_minutes": 7
+}

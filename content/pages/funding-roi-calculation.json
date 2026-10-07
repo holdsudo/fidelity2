@@ -1,0 +1,109 @@
+{
+  "slug": "funding-roi-calculation",
+  "category": "blog",
+  "title": "How to Calculate the ROI of Business Funding",
+  "seo_title": "How to Calculate the ROI of Business Funding | Fidelity Funding",
+  "meta_description": "A simple model for judging whether business funding pays for itself: total cost, incremental profit, payback period and a worked example you can copy.",
+  "primary_keyword": "ROI of business funding",
+  "keywords": [
+    "business funding ROI",
+    "return on borrowed money",
+    "payback period",
+    "incremental gross profit",
+    "cost of capital small business",
+    "is a business loan worth it",
+    "funding break-even"
+  ],
+  "eyebrow": "Decision guide",
+  "dek": "A simple four-step model to decide whether borrowed money will earn more than it costs, with a worked example and the mistakes to avoid.",
+  "intro": [
+    "Before you take on funding, there is one question that matters more than the rate, the term or the funder: will this money earn more than it costs? Most owners answer it by feel. A back-of-the-envelope model is far better, and it takes about fifteen minutes with a spreadsheet.",
+    "The method below works for a loan, a merchant cash advance, a line of credit or any other source. It forces you to put numbers on cost, return and timing, and it shows you how wrong your assumptions can be before you sign. The examples are hypothetical, so plug in your own."
+  ],
+  "sections": [
+    {
+      "h2": "Step 1: Total the real cost of the money",
+      "paragraphs": [
+        "Start with the total you will repay, not the quoted rate. Add the principal, interest or factor cost, and every fee: origination, processing, broker or administrative charges, and any early-termination costs. The difference between what you receive and what you repay is your cost of capital in dollars.",
+        "Hypothetically, you receive $40,000 and repay $52,000 over eight months. The cost is $12,000. If $1,000 of that is fees deducted at funding, your net proceeds are $39,000 and the real cost relative to cash in hand is slightly higher. Use net proceeds in your calculations."
+      ]
+    },
+    {
+      "h2": "Step 2: Estimate the incremental gross profit, not revenue",
+      "paragraphs": [
+        "This is where most models go wrong. Funding should be judged on the extra gross profit it creates, not the extra sales. If the money buys inventory that sells for $90,000 and the inventory cost $40,000, with $15,000 of added shipping, fees and ad spend, the incremental gross profit is $35,000.",
+        "Include only what the funding changes. Revenue you would have earned anyway does not count. Ask: if I did not take this money, what would happen? The difference between the two worlds is the return."
+      ],
+      "bullets": [
+        "Extra revenue the funded activity generates.",
+        "Minus the direct costs of earning it: product, labor, shipping, fees, commissions.",
+        "Minus additional overhead the project requires.",
+        "Minus the revenue you would have earned without the funding."
+      ]
+    },
+    {
+      "h2": "Step 3: Compute ROI and payback period",
+      "paragraphs": [
+        "Return on investment here is simple: incremental gross profit minus total cost of capital, divided by the cost of capital. With $35,000 of incremental gross profit and $12,000 of funding cost, the net gain is $23,000, and dividing by $12,000 gives about 1.9, or 190 percent on the cost of the money.",
+        "You can also compare against the funds deployed: net gain divided by the amount invested in the project. Both views are useful. The payback period asks how long until cumulative incremental profit covers the total repayment. If profit arrives in month five but repayment is front-loaded in months one through eight, you have a cash flow problem even though the ROI is positive.",
+        "Here is a compact version of the whole calculation to keep on hand. List the total amount you will repay, subtract the net cash you receive to get the cost, estimate the extra gross profit month by month, and track the running total against your payments. The month where cumulative profit first exceeds cumulative payments is your break-even month. If it falls after your final payment, you are financing the project out of other cash. If it falls well before, you have a margin of safety. Doing this once on paper is far cheaper than discovering the answer after signing."
+      ]
+    },
+    {
+      "h2": "Step 4: Stress-test the assumptions",
+      "paragraphs": [
+        "Optimistic forecasts are the norm. Run three versions: a base case, a case where incremental profit comes in 30 percent lower, and a case where it arrives two months later. If the project only pays when everything goes right, the funding is a gamble.",
+        "In the lower case above, incremental profit falls from $35,000 to about $24,500. After the $12,000 cost, the gain is $12,500 and still positive. If a delay of two months pushes sales past the end of your repayment term, though, you may repay before you earn. Timing matters as much as size."
+      ]
+    },
+    {
+      "h2": "Don't forget the soft returns and the soft risks",
+      "paragraphs": [
+        "Some benefits are hard to price: avoiding a stockout that would lose a customer, keeping a key employee, winning a contract that opens other work. It is fine to note them, but do not let them rescue a project that fails on hard numbers.",
+        "Likewise, count the risks beyond the formula: personal guarantees, liens on business assets, the strain of daily or weekly payments and the opportunity cost of cash tied up in repayments. These are reasons to prefer a margin of safety."
+      ]
+    },
+    {
+      "h2": "Using the model in a funding conversation",
+      "paragraphs": [
+        "Bring your model when you talk to anyone about funding. It shows you understand your economics and helps a specialist match a structure to your timeline, such as a payment schedule that fits when the profit arrives. It also helps you compare offers, since you can drop each repayment schedule into the same sheet.",
+        "Fidelity Funding is a broker that connects owners with funding partners. After a short application and a soft credit pull for the initial review, a specialist can review your numbers and discuss options. Amounts, terms and timing vary by partner and underwriting, and nothing is guaranteed. Treat the call as a check on your assumptions as well as a search for money."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Judge funding on total dollars repaid, including fees, not just the rate.",
+    "Measure incremental gross profit, not revenue, and exclude what you would have earned anyway.",
+    "Compute both ROI and payback timing, since a good ROI can still strain cash.",
+    "Stress-test with lower and later results before committing.",
+    "Bring the model into every funding conversation and compare offers in the same sheet."
+  ],
+  "faq": [
+    {
+      "q": "What is a good ROI for business funding?",
+      "a": "There is no universal target. The return should comfortably exceed the total cost of the money with room for error, and the payback should arrive in time to cover repayments. A project that breaks even in the base case is risky. Many owners look for a cushion that survives a weaker forecast."
+    },
+    {
+      "q": "Should I use revenue or profit to calculate ROI?",
+      "a": "Use incremental gross profit, meaning the extra revenue minus the direct costs of earning it, and exclude what you would have earned without the funding. Revenue overstates the return, because it ignores product costs, labor, shipping, fees and advertising needed to produce it."
+    },
+    {
+      "q": "How do I include fees in the cost of funding?",
+      "a": "Add every charge to the interest or factor cost: origination, processing, administrative and any broker fees disclosed in the offer. Subtract fees taken at funding from your proceeds to get net cash received, and compare total repaid against that figure to see the true cost."
+    },
+    {
+      "q": "What if my project pays back slower than the repayment term?",
+      "a": "Then you will need other cash to make payments in the meantime. Consider a smaller amount, a longer term or a structure that scales with sales. Fidelity Funding can discuss options from funding partners; terms and approvals vary by partner and underwriting, and nothing is guaranteed."
+    }
+  ],
+  "related": [
+    "total-payback-vs-apr",
+    "how-to-compare-funding-offers",
+    "when-not-to-take-funding",
+    "profit-vs-cash-flow",
+    "gross-margin-vs-net-margin",
+    "factor-rate-explained"
+  ],
+  "icon": "trend",
+  "read_minutes": 7
+}

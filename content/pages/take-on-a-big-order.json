@@ -1,0 +1,113 @@
+{
+  "slug": "take-on-a-big-order",
+  "category": "use-cases",
+  "title": "Funding a Large Customer Order",
+  "seo_title": "Funding a Large Customer Order | Fidelity Funding",
+  "meta_description": "A big purchase order can strain cash before it pays you. Compare PO financing with working capital, plan costs and protect margin when funding a large order.",
+  "primary_keyword": "fund a large customer order",
+  "keywords": [
+    "purchase order financing",
+    "large order working capital",
+    "fulfill a big order",
+    "supplier deposits",
+    "order margin",
+    "net 60 customer terms",
+    "scale up production"
+  ],
+  "eyebrow": "Order funding",
+  "dek": "A huge order is good news until the bills arrive first. Know your margin, your timeline and which funding tool matches the deal.",
+  "intro": [
+    "The call you hoped for finally comes: a customer wants ten times your usual order. It could change your year. It could also break your cash flow, because you will probably have to buy materials, pay labor and maybe rent space or equipment long before the customer pays an invoice.",
+    "Owners often say yes quickly, then spend the next weeks scrambling. A calmer approach is to price the order properly, map the timeline of cash going out and coming in, and choose a funding tool that matches the specific deal. Here is how to think it through.",
+    "As always, nothing here guarantees funding. Availability and cost depend on your business, the customer and the funding partner."
+  ],
+  "sections": [
+    {
+      "h2": "Make sure the order is worth taking",
+      "paragraphs": [
+        "Start with the margin. Calculate the full cost of fulfilling the order: materials, labor including overtime, freight, packaging, subcontractors, extra insurance and any penalties for lateness. Then compare it to the price. A big order at a thin margin can consume capacity and cash while earning little.",
+        "Consider also the opportunity cost. If the order occupies your whole operation, regular customers may wait or leave. Decide in advance what you will pause and whether the temporary disruption is acceptable.",
+        "Do a quick capacity check with your team. Ask production, purchasing and delivery managers what they would need to meet the deadline, and where the first bottleneck will appear. People on the floor often spot problems before they reach the spreadsheet."
+      ]
+    },
+    {
+      "h2": "Check the customer and the paperwork",
+      "paragraphs": [
+        "Confirm the customer's credibility and payment history. A purchase order from an established buyer is a different thing than one from an unknown company. Check references, business registration and payment terms. Net-60 or net-90 terms stretch your funding need dramatically.",
+        "Put everything in writing: quantities, specifications, delivery dates, payment terms, acceptance criteria, cancellation and return rules. Ask a lawyer to review contracts with large amounts at stake, and consider requiring a deposit.",
+        "Consider whether the customer will want volume discounts, special packaging, rebates or extended terms later. These often appear after the first order, and they can quietly cut your margin on future business. Decide your limits before the negotiation, not during it."
+      ],
+      "bullets": [
+        "Verified buyer identity and payment history",
+        "Written purchase order with payment terms",
+        "Deposit or milestone payments if possible",
+        "Clear specifications and acceptance criteria",
+        "Cancellation and late-delivery terms"
+      ]
+    },
+    {
+      "h2": "Map the cash timeline",
+      "paragraphs": [
+        "List the dates cash leaves: supplier deposits, material purchases, payroll, freight. Then list the dates cash arrives: customer deposit, milestone payments, final payment. The biggest cumulative gap between the two lines is the amount you need to fund.",
+        "Say a $150,000 order costs $95,000 to produce, with suppliers wanting 50 percent upfront and the customer paying thirty days after delivery. You might need roughly $50,000 to start and the rest as production proceeds. This is hypothetical, but building the same table for your order will tell you the real number."
+      ]
+    },
+    {
+      "h2": "Purchase order financing versus working capital",
+      "paragraphs": [
+        "Purchase order financing is designed to pay suppliers directly so you can fulfill a confirmed order, and repayment generally comes from the customer's payment. It can be useful for resellers and distributors with creditworthy buyers, though costs can be high and eligibility depends on the transaction.",
+        "Working capital or a line of credit gives you flexible cash that you can use for materials, payroll and other costs. Invoice factoring can accelerate cash after you deliver. Each has a different cost and fit, and a funding specialist can compare them against your order.",
+        "If you plan to use several funding tools together, make sure the order of repayment is clear. Some financing arrangements require the customer to pay a particular account or restrict other liens on receivables. Reading the terms in advance prevents conflicts."
+      ]
+    },
+    {
+      "h2": "Protect yourself from execution risk",
+      "paragraphs": [
+        "Large orders add risk beyond cash: supplier delays, quality failures, capacity bottlenecks and customer disputes. Build in a schedule buffer, confirm supplier capacity in writing and inspect early production samples.",
+        "Plan for a worst case. If the customer pays late or rejects part of the order, can you still cover payroll and your regular obligations? If not, consider smaller shipments, deposits or a lower commitment.",
+        "After delivery, follow up promptly on invoicing and collections. Send the invoice the day the goods are accepted and confirm that it has reached the customer's accounts payable team."
+      ]
+    },
+    {
+      "h2": "How Fidelity Funding helps",
+      "paragraphs": [
+        "Fidelity Funding is a broker that connects you with funding partners, not a direct lender. After a short application and a soft credit pull, a funding specialist reviews options with you. Decisions can often come within hours and funding sometimes arrives within about a day after approval, although terms vary and nothing is guaranteed.",
+        "Bring the purchase order, your cost breakdown and the customer's payment terms. The strength of the buyer and the margin on the order can make a difference in the conversation. When you are ready, start your application."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Check the margin and the customer before saying yes.",
+    "Map every dollar out and in to find the real funding need.",
+    "Match the tool to the deal: PO financing, working capital or factoring.",
+    "Build buffers for delays and late payment."
+  ],
+  "faq": [
+    {
+      "q": "What is purchase order financing?",
+      "a": "It is a funding structure that helps pay suppliers so you can fulfill a confirmed customer order, with repayment typically coming from the customer's payment. Availability and cost depend on the buyer, the transaction and the funding partner. Confirm the details with the funder."
+    },
+    {
+      "q": "How much cash do I need for a large order?",
+      "a": "Build a timeline of all costs and all expected payments. The largest cumulative gap between the two is your funding need. Add a buffer for delays and late payment rather than relying on a round number or a best-case schedule. Add a cushion for delays and rework."
+    },
+    {
+      "q": "Should I ask the customer for a deposit?",
+      "a": "Often it is wise, especially for custom or very large orders. A deposit reduces your funding need and shows the customer is committed. Put the amount and schedule in the contract, and ask an attorney to review terms. Put the terms in a written agreement."
+    },
+    {
+      "q": "Can invoice factoring help after I deliver a big order?",
+      "a": "Factoring can accelerate cash on approved invoices from creditworthy customers, which helps when the customer pays on long terms. It does not help with costs before delivery. Combine it with other funding if you need money upfront. Eligibility varies by customer credit."
+    }
+  ],
+  "related": [
+    "purchase-order-financing",
+    "invoice-factoring",
+    "working-capital-loans",
+    "wholesale-distribution",
+    "manufacturing",
+    "bridge-cash-flow-gaps"
+  ],
+  "icon": "factory",
+  "read_minutes": 6
+}

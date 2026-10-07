@@ -1,0 +1,122 @@
+{
+  "slug": "contactless-and-tap-to-pay",
+  "category": "blog",
+  "title": "Contactless & Tap-to-Pay for Small Businesses",
+  "seo_title": "Contactless & Tap-to-Pay for Small Business | Fidelity Funding",
+  "meta_description": "Contactless and tap-to-pay for small businesses: how NFC payments work, hardware options, costs, security and what to ask when adding tap acceptance.",
+  "primary_keyword": "contactless payments small business",
+  "keywords": [
+    "contactless payments small business",
+    "tap to pay",
+    "NFC payments",
+    "Apple Pay Google Pay acceptance",
+    "tap to pay on phone",
+    "contactless terminal",
+    "mobile wallet payments"
+  ],
+  "eyebrow": "Payments",
+  "dek": "Customers increasingly expect to tap. Accepting it is usually cheap and fast to set up, and it can speed up your line.",
+  "intro": [
+    "Watch a busy coffee counter for ten minutes and you will see it: phones and cards held over a reader, a beep, and the next person stepping up. Tap payments have gone from novelty to default for many shoppers, and a terminal that makes them dip a card or hunt for a pen feels slow.",
+    "For a small business, adding contactless is rarely a big project. This guide explains how it works, what hardware you need, what it costs and how to keep it secure, without assuming you want a full POS overhaul."
+  ],
+  "sections": [
+    {
+      "h2": "How tap-to-pay works",
+      "paragraphs": [
+        "Contactless payments use near-field communication, or NFC, a short-range radio technology. When a customer holds a contactless card, phone or watch close to a compatible terminal, the device sends an encrypted, one-time payment code instead of the actual card number. The terminal passes that to your processor for authorization.",
+        "Mobile wallets such as Apple Pay and Google Pay add extra protection, since the customer typically unlocks their device with a fingerprint, face or passcode, and the card number is replaced by a token. From your side, the result looks like any other card sale, only faster.",
+        "Wallets also make receipts and loyalty programs easier to connect. When a customer taps with a phone, some systems can link the purchase to a digital receipt or reward, which gives small businesses a way to follow up without asking for more information at the counter."
+      ]
+    },
+    {
+      "h2": "What you need to accept it",
+      "paragraphs": [
+        "Most modern terminals already support contactless. If your reader was bought years ago and only has a chip slot and magnetic stripe, you will probably need to upgrade. There are several routes, depending on your size and how you sell."
+      ],
+      "bullets": [
+        "Countertop terminals with a built-in tap reader, for stores and restaurants",
+        "Wireless handhelds for tableside, curbside or delivery payments",
+        "Compact readers that connect to a phone or tablet for pop-ups and mobile services",
+        "Software-based tap on a compatible phone, which turns the phone itself into a reader",
+        "Integrated POS hardware that bundles tap with inventory and reporting"
+      ]
+    },
+    {
+      "h2": "The speed and experience benefits",
+      "paragraphs": [
+        "A tap often takes only a couple of seconds, compared with the extra time of inserting a card, waiting and removing it. In busy settings such as cafes, food trucks, fitness studios, parking and quick-service counters, shaving seconds off each transaction adds up over a shift. Fewer people handle PIN pads, which some customers prefer.",
+        "Tap can also help with impulse purchases. Say a customer is deciding on a $4 add-on at the register; a frictionless payment makes yes easier. This is a general observation, not a promise of increased sales.",
+        "Think about where the reader sits. A terminal placed too far from the customer, or at an awkward angle, defeats the speed benefit, because people hover and miss the reader. A small adjustment to placement, plus a clear sign near the reader, often makes a visible difference."
+      ]
+    },
+    {
+      "h2": "Costs: what changes and what does not",
+      "paragraphs": [
+        "In many cases contactless transactions are priced like other card-present sales, so your per-transaction rate may not change just because the customer tapped. Hardware is the main new cost: a basic reader can be modest, while a full terminal or POS costs more. Check whether the hardware is purchased or leased, and read the term, since leases can run for years.",
+        "Also ask about transaction limits. Some terminals or card issuers require a PIN or chip insertion above a certain amount, which varies by region and issuer."
+      ]
+    },
+    {
+      "h2": "Security and fraud considerations",
+      "paragraphs": [
+        "Tap payments are generally considered secure because each transaction uses a unique code. The risks that remain are practical: unattended terminals, stolen cards used for small purchases, and compromised devices. Keep terminals in view, update software, and use your processor's fraud tools.",
+        "Make sure receipts and your billing descriptor are clear, which helps reduce disputes. For broader security hygiene, see our guides on PCI compliance and reducing chargebacks.",
+        "Staff habits matter, too. If employees insert cards by default or keep asking whether the customer wants to swipe, tap never becomes the norm. A quick note at training time to tell customers they can tap makes adoption smoother."
+      ],
+      "steps": [
+        "Confirm your current terminal supports contactless, and if not, request quotes for replacements.",
+        "Compare buy versus lease, including term and termination fees.",
+        "Confirm that your processor and POS software support the new hardware.",
+        "Test with a card and with phone wallets before launch.",
+        "Add a visible contactless symbol at the entrance and counter."
+      ]
+    },
+    {
+      "h2": "Where to get help",
+      "paragraphs": [
+        "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement reviews, competitive pricing, and modern terminals with POS integration, which can include tap acceptance. A review can show whether your current terminals and rates make sense for how customers pay today. Savings and availability are not guaranteed and depend on your contract and volume.",
+        "If new hardware is a stretch for your budget, equipment financing may help spread the cost. A Fidelity Funding specialist can walk through options after a short application and soft credit pull; approval and terms vary by funding partner and underwriting."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Contactless uses NFC to send an encrypted, one-time payment code.",
+    "Most modern terminals support tap; older chip-and-swipe readers may need replacing.",
+    "Tap is usually priced like other card-present sales; hardware is the main new cost.",
+    "Check lease terms and transaction limits before signing.",
+    "PayPilot by MCCPS can review your setup and discuss modern terminals with POS integration."
+  ],
+  "faq": [
+    {
+      "q": "Do I pay higher fees for contactless payments?",
+      "a": "Often no, because tap is typically priced like other card-present transactions. Your total cost depends on your pricing model and card mix, not the tap itself. Review your statement or ask your processor to confirm, and watch for hardware or monthly fees on new terminals."
+    },
+    {
+      "q": "Is tap-to-pay secure?",
+      "a": "Generally yes. Each transaction uses an encrypted, one-time code, and mobile wallets add device unlocking. Practical risks include unattended terminals and stolen cards. Use your processor's fraud tools, keep software updated and protect your devices."
+    },
+    {
+      "q": "Can I accept tap payments on my phone?",
+      "a": "On compatible devices, certain payment apps and processors let a phone act as a reader with no extra hardware. Availability depends on the phone, the app and your processor, so ask what is supported and what fees apply."
+    },
+    {
+      "q": "Do I need a new terminal to accept contactless?",
+      "a": "Only if your current one lacks an NFC reader. Many terminals sold in recent years include it. Check your model, and if a replacement is needed, compare buying versus leasing and ask whether it works with your current processor."
+    },
+    {
+      "q": "Is there a limit on tap transactions?",
+      "a": "Some issuers and regions require a PIN or chip insertion above a certain amount, and limits vary. Your terminal handles this automatically by prompting the customer. Ask your processor if you have questions about limits for your setup."
+    }
+  ],
+  "related": [
+    "choosing-a-pos-system",
+    "upgrade-pos-systems",
+    "credit-card-processing-fees-explained",
+    "pci-compliance-basics",
+    "food-trucks",
+    "coffee-shops"
+  ],
+  "icon": "card",
+  "read_minutes": 6
+}

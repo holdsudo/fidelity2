@@ -1,0 +1,115 @@
+{
+  "slug": "gross-margin-vs-net-margin",
+  "title": "Gross Margin vs. Net Margin",
+  "seo_title": "Gross Margin vs. Net Margin: What Owners Should Know",
+  "meta_description": "Gross margin and net margin tell very different stories about your business. Learn the definitions, the formulas and how funding partners read both numbers.",
+  "primary_keyword": "gross margin vs net margin",
+  "keywords": [
+    "gross profit margin",
+    "net profit margin formula",
+    "operating margin",
+    "cost of goods sold",
+    "small business profitability",
+    "margin analysis",
+    "profit and loss statement"
+  ],
+  "eyebrow": "Financial basics",
+  "dek": "One margin tells you whether your product earns money. The other tells you whether your business does. You need both.",
+  "intro": [
+    "Owners often say the business has a good margin without specifying which one. That small omission hides a lot. A restaurant can have a healthy gross margin on every plate and still lose money after rent and labor. A software shop can have a thin net margin and still be a very healthy company. The two numbers answer different questions.",
+    "Understanding them is not just an accounting exercise. They shape how you price, how you control costs and how a funding specialist or any financial professional reads your business. This guide defines gross, operating and net margin in plain English, shows a worked example and explains how to use them. For your own filings and statements, rely on your CPA."
+  ],
+  "sections": [
+    {
+      "h2": "Gross margin: what you keep after direct costs",
+      "paragraphs": [
+        "Gross profit is revenue minus the cost of goods sold, or COGS. COGS includes the direct costs of producing what you sell: materials, products purchased for resale, direct labor and freight. Gross margin is gross profit divided by revenue, shown as a percentage.",
+        "Say a bakery sells $200,000 in a year and spends $70,000 on ingredients, packaging and the bakers who produce the goods. Gross profit is $130,000 and gross margin is 65 percent. That is the pool of money available to pay for everything else the business needs.",
+        "Be consistent about what you put in COGS from month to month. If one month a delivery driver's pay sits in COGS and the next it sits in operating expenses, your gross margin will bounce around for no real reason. Your accountant can set the classification once so that trends mean something.",
+        "Service businesses sometimes assume they have no COGS. In practice, the labor and materials directly tied to delivering the service often belong there, which is why a plumber's gross margin looks very different once technician wages are counted."
+      ]
+    },
+    {
+      "h2": "Operating and net margin: what is left after everything",
+      "paragraphs": [
+        "Operating expenses sit below gross profit: rent, utilities, insurance, administration, marketing, software and indirect labor. Subtract them and you reach operating income. Subtract interest, taxes and other non-operating items to reach net income, and divide by revenue to get net margin.",
+        "Continue the bakery example. Operating expenses are $95,000, so operating income is $35,000, a 17.5 percent operating margin. After $4,000 of interest and $6,000 of taxes, net income is $25,000, a 12.5 percent net margin. Same business, three different margins, each useful for a different decision."
+      ]
+    },
+    {
+      "h2": "What each margin tells you",
+      "paragraphs": [
+        "Gross margin tells you about pricing and production efficiency. If it is shrinking, your costs are rising faster than your prices or your waste is increasing. Net margin tells you whether the whole structure, including overhead and financing, is sustainable.",
+        "Used together, they locate problems:"
+      ],
+      "bullets": [
+        "Healthy gross margin, weak net margin: overhead is too high for the sales volume.",
+        "Weak gross margin, healthy volume: pricing or direct costs need attention.",
+        "Both strong but cash is tight: look at timing, which is a cash flow question, not a margin one.",
+        "Net margin falling while gross margin is stable: operating costs are creeping up."
+      ]
+    },
+    {
+      "h2": "Margins vary widely by business",
+      "paragraphs": [
+        "There is no universal good margin, and comparing yourself to a different type of business is misleading. A grocery store and a consulting firm have fundamentally different structures. Rather than chasing a generic benchmark, compare your margins to your own history and to peers in your specific industry, and watch the direction.",
+        "A trusted accountant can show you what is typical for your type of business based on the data they see, without you needing to rely on a headline figure.",
+        "Seasonality also distorts margins. A landscaping company's winter months carry fixed costs with little revenue, so a single month's net margin can be misleading. Look at trailing twelve months where you can, and compare the same month year over year."
+      ]
+    },
+    {
+      "h2": "Improving each margin",
+      "paragraphs": [
+        "To lift gross margin, raise prices where the market allows, negotiate better supplier terms, reduce waste and shrinkage and reconsider low-margin items that consume time. To lift net margin, review overhead line by line, renegotiate recurring contracts, improve staff scheduling and keep an eye on the cost of financing.",
+        "The cost of funding is part of this picture. If you take working capital, the cost of the capital reduces net income, so the investment should produce more gross profit than the financing costs. Our guide on funding ROI walks through the calculation."
+      ]
+    },
+    {
+      "h2": "How funding partners may read your margins",
+      "paragraphs": [
+        "Many funding decisions rely heavily on bank deposits, but margins add context. A business with thin margins has less room to absorb a daily or weekly repayment than one with generous margins, even if the deposits look identical. A specialist who understands your margin structure can help you size a request that fits.",
+        "At Fidelity Funding, a specialist reviews options with you after a short application and a soft credit pull. You do not need to produce perfect financial statements, but knowing your gross and net margin lets you ask better questions. Approval, terms and timing vary by funding partner and underwriting, and a CPA can help you interpret your statements."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Gross margin is revenue minus direct costs, divided by revenue.",
+    "Net margin is what remains after all operating costs, interest and taxes.",
+    "Comparing the two shows whether the problem is pricing or overhead.",
+    "Benchmark against your own history and your own industry.",
+    "Thin margins leave less room to carry a repayment."
+  ],
+  "faq": [
+    {
+      "q": "What is the difference between gross margin and net margin?",
+      "a": "Gross margin is revenue minus the direct cost of goods sold, divided by revenue. Net margin subtracts all operating costs, interest and taxes too. Gross margin shows pricing and production efficiency, while net margin shows the overall profitability of the whole business."
+    },
+    {
+      "q": "What costs are included in COGS?",
+      "a": "COGS covers the direct costs of producing or buying what you sell, such as materials, products purchased for resale, direct labor and inbound freight. Which costs belong in COGS can depend on your business and accounting method, so confirm the classification with your accountant."
+    },
+    {
+      "q": "What is a good profit margin for a small business?",
+      "a": "It varies enormously by industry, so there is no single good number. Compare your margins to your own past performance and to peers in your field. A CPA familiar with your industry can give you a realistic range, and the trend matters as much as the level."
+    },
+    {
+      "q": "Can I have a high gross margin and still lose money?",
+      "a": "Yes. If operating expenses such as rent, payroll and marketing exceed your gross profit, you will show a net loss despite a strong gross margin. That points to overhead or volume problems rather than a pricing problem, and it calls for a different set of fixes."
+    },
+    {
+      "q": "Do margins affect my ability to get funding?",
+      "a": "They can inform how much repayment your business can comfortably carry, though many funding partners focus on bank deposits and revenue. Thin margins mean less room for payments, so a specialist may suggest a smaller amount or a different structure. Nothing is guaranteed."
+    }
+  ],
+  "related": [
+    "pricing-for-profit",
+    "profit-vs-cash-flow",
+    "funding-roi-calculation",
+    "debt-service-coverage-ratio",
+    "working-capital-formula",
+    "business-cash-flow-forecasting"
+  ],
+  "icon": "trend",
+  "read_minutes": 7,
+  "category": "blog"
+}

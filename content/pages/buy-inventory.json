@@ -1,0 +1,108 @@
+{
+  "slug": "buy-inventory",
+  "category": "use-cases",
+  "title": "Funding to Buy Inventory",
+  "seo_title": "Funding to Buy Inventory: Bulk Deals, No Overstock | Fidelity",
+  "meta_description": "Buying stock ahead of demand ties up cash. See how to weigh bulk discounts against turn rates and when inventory funding helps your cash flow.",
+  "primary_keyword": "funding to buy inventory",
+  "keywords": [
+    "inventory financing",
+    "bulk purchase discount",
+    "inventory turnover",
+    "working capital for stock",
+    "avoid overstock",
+    "buy inventory loan",
+    "reorder point planning"
+  ],
+  "eyebrow": "Inventory funding",
+  "dek": "Bulk pricing and well-timed orders can lift margin, but only if stock sells before the bill comes due. Here is how to buy smart and fund the gap.",
+  "intro": [
+    "Your supplier offers a better unit price at a higher order quantity, or a popular item is about to sell out, or your busy season is a few weeks away. Every one of those situations asks the same question: can you tie up that much cash in stock and still make rent, payroll and vendor payments until it sells?",
+    "Inventory is cash wearing a different outfit. It does nothing for you on a shelf, and the cost of carrying it adds up quietly. This guide covers how to judge a purchase using turn rate and margin, how to avoid the overstock trap, and where funding can responsibly bridge the time between paying the supplier and getting paid by customers."
+  ],
+  "sections": [
+    {
+      "h2": "Know your turn rate before you chase a discount",
+      "paragraphs": [
+        "Inventory turnover tells you how many times a year you sell through your average stock. A fast-turning item can justify larger orders because the cash comes back quickly. A slow-turning item turns a discount into a trap, because the savings per unit are small compared with months of locked-up cash and storage.",
+        "Pull sales for each product line over the last six to twelve months and calculate how many weeks of supply a proposed order represents. If the order covers four weeks of sales, the risk is modest. If it covers nine months, you are making a long-term bet on demand, and the discount needs to be large enough to pay for that."
+      ]
+    },
+    {
+      "h2": "Do the bulk-discount arithmetic",
+      "paragraphs": [
+        "Suppose a supplier sells an item at $20 a unit in lots of 100, or $17 a unit in lots of 400. The larger order saves $3 per unit, or $1,200 across 400 units, but it also puts $6,800 on the table instead of $2,000. If you sell 100 units a month, the extra 300 units sit for three months, and that cash could have covered other things.",
+        "Add the carrying costs: storage space, insurance, shrinkage, spoilage or obsolescence, and the interest or fee cost of whatever funds the purchase. If the savings remain meaningfully larger than all of those, the bulk order works. If they are close, the smaller order keeps you flexible."
+      ],
+      "steps": [
+        "Savings per unit multiplied by units",
+        "Storage, insurance and handling cost",
+        "Risk of spoilage, theft or obsolescence",
+        "Financing cost over the holding period",
+        "Cash left over for operating expenses"
+      ]
+    },
+    {
+      "h2": "Avoiding the overstock trap",
+      "paragraphs": [
+        "Overstock usually does not look like a mistake when you place the order. It looks like a deal, a sure seller or a fear of missing out. The warning signs are ordering based on last year's peak, buying a whole season at once, or adding new variants without a plan for what happens if they do not sell.",
+        "Set a reorder point for each key item based on lead time and weekly sales, and write down a maximum weeks-of-supply rule. When a purchase breaks the rule, require a reason you can defend. Discipline here protects you more than any financing product can."
+      ]
+    },
+    {
+      "h2": "Matching funding to the inventory cycle",
+      "paragraphs": [
+        "The right funding length matches how fast the stock turns into cash. Inventory you will sell in six to eight weeks fits a short-term working capital product or a line of credit you can repay quickly. Seasonal stock that sells over a full quarter may suit a longer term. Slow-moving or specialty goods may need to be funded from profit instead.",
+        "Remember that many short-term products start payments right away, often daily or weekly, while your stock is still in the box. Build that into your cash flow forecast so early payments do not squeeze you before the first sales land. Costs and payment schedules vary by funding partner and underwriting."
+      ]
+    },
+    {
+      "h2": "Seasonal and pre-order buying",
+      "paragraphs": [
+        "Retailers, wholesalers and e-commerce sellers frequently need to place orders months before peak demand, and suppliers may ask for deposits or payment in advance. In that window your cash is out and revenue has not started.",
+        "Work backwards from your peak. Identify the order deadline, the freight and customs timing if you import, the date goods reach the shelf, and the typical date customers pay. The gap between the first and last of those dates is the amount of time you need funding to cover, and it is a much more useful figure than a round number."
+      ]
+    },
+    {
+      "h2": "How Fidelity Funding fits in",
+      "paragraphs": [
+        "Fidelity Funding is a broker that connects you with funding partners rather than lending directly. The application is short and the initial review uses a soft credit pull, so it does not affect your score. A funding specialist then walks through options with you, and decisions can often come within hours once the picture is clear, though nothing is guaranteed.",
+        "Come prepared with the supplier quote, your expected sell-through and the date cash returns. That helps the specialist compare working capital, a line of credit or other options against your actual cycle. When you are ready, start the application and get a specialist's read on the order."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Calculate weeks of supply before accepting a bulk discount.",
+    "Count carrying costs and financing cost against the savings.",
+    "Match repayment speed to how fast the stock sells.",
+    "Set reorder points so deals do not drive your buying."
+  ],
+  "faq": [
+    {
+      "q": "Is it smart to borrow money to buy inventory?",
+      "a": "It can be when the stock is proven to sell and the margin comfortably covers the financing cost. It is risky for slow movers or speculative items. Model the sell-through timeline first, and make sure payments will not strain cash before sales arrive."
+    },
+    {
+      "q": "What type of funding is used for inventory?",
+      "a": "Common options include working capital loans, business lines of credit, short-term loans and, for some businesses, purchase order or inventory financing. Availability and cost vary by funding partner and underwriting. A funding specialist can compare these against your turnover and timing."
+    },
+    {
+      "q": "How do I know if I am overstocked?",
+      "a": "Look at weeks of supply by item, aging stock that has not moved in a long time, and cash tied up compared with monthly sales. If a product would take more than a few months to sell at its current pace, or you are discounting just to free space, you likely hold too much."
+    },
+    {
+      "q": "Will a bulk discount always improve my margin?",
+      "a": "No. A lower unit cost helps only if you sell the extra units before carrying costs, markdowns and financing eat the gain. Compare the total savings with total costs of holding the larger order, and keep enough cash for rent, payroll and other bills."
+    }
+  ],
+  "related": [
+    "inventory-financing",
+    "retail-holiday-inventory-planning",
+    "ecommerce-q4-inventory-funding",
+    "purchase-order-financing",
+    "seasonal-business-funding",
+    "working-capital-loans"
+  ],
+  "icon": "cart",
+  "read_minutes": 6
+}

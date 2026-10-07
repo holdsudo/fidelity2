@@ -1,0 +1,1402 @@
+[
+{
+"category": "industries",
+"slug": "trucking",
+"title": "Trucking Company Funding",
+"angle": "fuel/driver costs vs 30-90 day broker pay; owner-operators vs fleets",
+"url": "/industries/trucking/"
+},
+{
+"category": "industries",
+"slug": "restaurants",
+"title": "Restaurant Funding",
+"angle": "equipment, renovations, card-heavy revenue, seasonality",
+"url": "/industries/restaurants/"
+},
+{
+"category": "industries",
+"slug": "retail-stores",
+"title": "Retail Store Funding",
+"angle": "inventory cycles, holiday stocking, foot-traffic swings",
+"url": "/industries/retail-stores/"
+},
+{
+"category": "industries",
+"slug": "construction",
+"title": "Construction Company Funding",
+"angle": "project draws, retainage, materials, payroll between milestones",
+"url": "/industries/construction/"
+},
+{
+"category": "industries",
+"slug": "hvac",
+"title": "HVAC Business Funding",
+"angle": "seasonal demand spikes, van fleets, equipment inventory, service agreements",
+"url": "/industries/hvac/"
+},
+{
+"category": "industries",
+"slug": "plumbing",
+"title": "Plumbing Business Funding",
+"angle": "emergency-call economics, vans, tooling, hiring licensed techs",
+"url": "/industries/plumbing/"
+},
+{
+"category": "industries",
+"slug": "electrical-contractors",
+"title": "Electrical Contractor Funding",
+"angle": "bid bonds, materials price swings, commercial job cash gaps",
+"url": "/industries/electrical-contractors/"
+},
+{
+"category": "industries",
+"slug": "roofing",
+"title": "Roofing Company Funding",
+"angle": "storm season surges, insurance-claim payment delays, crews",
+"url": "/industries/roofing/"
+},
+{
+"category": "industries",
+"slug": "landscaping",
+"title": "Landscaping Business Funding",
+"angle": "spring ramp-up, equipment, winter slowdown/snow removal pivot",
+"url": "/industries/landscaping/"
+},
+{
+"category": "industries",
+"slug": "auto-repair-shops",
+"title": "Auto Repair Shop Funding",
+"angle": "lifts, diagnostic tools, parts inventory, bay expansion",
+"url": "/industries/auto-repair-shops/"
+},
+{
+"category": "industries",
+"slug": "medical-practices",
+"title": "Medical Practice Funding",
+"angle": "insurance reimbursement lag, EHR, equipment, new providers",
+"url": "/industries/medical-practices/"
+},
+{
+"category": "industries",
+"slug": "dental-practices",
+"title": "Dental Practice Funding",
+"angle": "imaging/chairs, build-outs, insurance lag, associate hiring",
+"url": "/industries/dental-practices/"
+},
+{
+"category": "industries",
+"slug": "chiropractors",
+"title": "Chiropractic Practice Funding",
+"angle": "equipment, marketing to new patients, PI-case payment delays",
+"url": "/industries/chiropractors/"
+},
+{
+"category": "industries",
+"slug": "veterinary-clinics",
+"title": "Veterinary Clinic Funding",
+"angle": "surgical/imaging equipment, boarding expansion, staffing",
+"url": "/industries/veterinary-clinics/"
+},
+{
+"category": "industries",
+"slug": "pharmacies",
+"title": "Independent Pharmacy Funding",
+"angle": "PBM reimbursement timing, inventory, compounding equipment",
+"url": "/industries/pharmacies/"
+},
+{
+"category": "industries",
+"slug": "hair-salons",
+"title": "Hair Salon Funding",
+"angle": "stations, build-outs, product inventory, booth vs commission",
+"url": "/industries/hair-salons/"
+},
+{
+"category": "industries",
+"slug": "barbershops",
+"title": "Barbershop Funding",
+"angle": "chairs, second location, POS, walk-in volatility",
+"url": "/industries/barbershops/"
+},
+{
+"category": "industries",
+"slug": "spas-and-wellness",
+"title": "Spa & Wellness Center Funding",
+"angle": "treatment equipment, memberships, renovations",
+"url": "/industries/spas-and-wellness/"
+},
+{
+"category": "industries",
+"slug": "gyms-and-fitness",
+"title": "Gym & Fitness Studio Funding",
+"angle": "equipment leases vs buy, membership revenue, January surge",
+"url": "/industries/gyms-and-fitness/"
+},
+{
+"category": "industries",
+"slug": "ecommerce",
+"title": "E-commerce Business Funding",
+"angle": "inventory ahead of Q4, ad spend ROAS, marketplace payout timing",
+"url": "/industries/ecommerce/"
+},
+{
+"category": "industries",
+"slug": "wholesale-distribution",
+"title": "Wholesale & Distribution Funding",
+"angle": "large POs, net-60 customers, warehouse, freight",
+"url": "/industries/wholesale-distribution/"
+},
+{
+"category": "industries",
+"slug": "manufacturing",
+"title": "Manufacturing Company Funding",
+"angle": "raw materials, machinery, order backlog, PO financing",
+"url": "/industries/manufacturing/"
+},
+{
+"category": "industries",
+"slug": "staffing-agencies",
+"title": "Staffing Agency Funding",
+"angle": "weekly payroll vs net-30/60 client invoices, factoring",
+"url": "/industries/staffing-agencies/"
+},
+{
+"category": "industries",
+"slug": "cleaning-services",
+"title": "Cleaning & Janitorial Business Funding",
+"angle": "commercial contracts, supplies, crews, vehicles",
+"url": "/industries/cleaning-services/"
+},
+{
+"category": "industries",
+"slug": "it-services",
+"title": "IT Services & MSP Funding",
+"angle": "hardware for client projects, recurring contracts, hiring engineers",
+"url": "/industries/it-services/"
+},
+{
+"category": "industries",
+"slug": "marketing-agencies",
+"title": "Marketing Agency Funding",
+"angle": "client retainers, contractor costs, slow-paying clients",
+"url": "/industries/marketing-agencies/"
+},
+{
+"category": "industries",
+"slug": "law-firms",
+"title": "Law Firm Funding",
+"angle": "contingency case costs, long settlement timelines, staffing",
+"url": "/industries/law-firms/"
+},
+{
+"category": "industries",
+"slug": "accounting-firms",
+"title": "Accounting & Bookkeeping Firm Funding",
+"angle": "tax-season staffing, software, acquiring books of business",
+"url": "/industries/accounting-firms/"
+},
+{
+"category": "industries",
+"slug": "real-estate-brokerages",
+"title": "Real Estate Brokerage Funding",
+"angle": "commission timing, agent recruiting, marketing",
+"url": "/industries/real-estate-brokerages/"
+},
+{
+"category": "industries",
+"slug": "property-management",
+"title": "Property Management Company Funding",
+"angle": "maintenance float, software, growth via new doors",
+"url": "/industries/property-management/"
+},
+{
+"category": "industries",
+"slug": "hotels-and-motels",
+"title": "Hotel & Motel Funding",
+"angle": "PIP renovations, seasonal occupancy, FF&E",
+"url": "/industries/hotels-and-motels/"
+},
+{
+"category": "industries",
+"slug": "bars-and-nightclubs",
+"title": "Bar & Nightclub Funding",
+"angle": "liquor inventory, sound/lighting, renovations, weekend-heavy revenue",
+"url": "/industries/bars-and-nightclubs/"
+},
+{
+"category": "industries",
+"slug": "coffee-shops",
+"title": "Coffee Shop & Cafe Funding",
+"angle": "espresso equipment, second location, thin margins",
+"url": "/industries/coffee-shops/"
+},
+{
+"category": "industries",
+"slug": "bakeries",
+"title": "Bakery Funding",
+"angle": "ovens, wholesale accounts, holiday surges",
+"url": "/industries/bakeries/"
+},
+{
+"category": "industries",
+"slug": "food-trucks",
+"title": "Food Truck Funding",
+"angle": "truck build/repair, commissary, event season",
+"url": "/industries/food-trucks/"
+},
+{
+"category": "industries",
+"slug": "catering",
+"title": "Catering Business Funding",
+"angle": "deposits vs upfront costs, vans, event seasonality",
+"url": "/industries/catering/"
+},
+{
+"category": "industries",
+"slug": "convenience-stores",
+"title": "Convenience & Grocery Store Funding",
+"angle": "inventory turns, coolers, lottery/EBT cash timing",
+"url": "/industries/convenience-stores/"
+},
+{
+"category": "industries",
+"slug": "liquor-stores",
+"title": "Liquor Store Funding",
+"angle": "high-value inventory, holiday stocking, distributor terms",
+"url": "/industries/liquor-stores/"
+},
+{
+"category": "industries",
+"slug": "gas-stations",
+"title": "Gas Station Funding",
+"angle": "fuel deliveries, c-store inventory, pump upgrades",
+"url": "/industries/gas-stations/"
+},
+{
+"category": "industries",
+"slug": "daycare-centers",
+"title": "Daycare & Child Care Center Funding",
+"angle": "licensing upgrades, staff ratios, subsidy payment delays",
+"url": "/industries/daycare-centers/"
+},
+{
+"category": "industries",
+"slug": "tutoring-and-education",
+"title": "Tutoring & Education Business Funding",
+"angle": "back-to-school ramp, curriculum, locations",
+"url": "/industries/tutoring-and-education/"
+},
+{
+"category": "industries",
+"slug": "home-health-care",
+"title": "Home Health Care Agency Funding",
+"angle": "Medicaid/insurance billing lag, caregiver payroll",
+"url": "/industries/home-health-care/"
+},
+{
+"category": "industries",
+"slug": "security-companies",
+"title": "Security Company Funding",
+"angle": "guard payroll, contracts, vehicles, licensing",
+"url": "/industries/security-companies/"
+},
+{
+"category": "industries",
+"slug": "event-and-wedding-businesses",
+"title": "Event & Wedding Business Funding",
+"angle": "deposits, rentals inventory, peak-season staffing",
+"url": "/industries/event-and-wedding-businesses/"
+},
+{
+"category": "industries",
+"slug": "printing-and-signs",
+"title": "Printing & Sign Company Funding",
+"angle": "large-format equipment, materials, B2B terms",
+"url": "/industries/printing-and-signs/"
+},
+{
+"category": "industries",
+"slug": "florists",
+"title": "Florist Funding",
+"angle": "perishable inventory, Valentine's/Mother's Day spikes, delivery vans",
+"url": "/industries/florists/"
+},
+{
+"category": "industries",
+"slug": "pet-grooming",
+"title": "Pet Grooming & Boarding Funding",
+"angle": "mobile grooming vans, kennels, expansion",
+"url": "/industries/pet-grooming/"
+},
+{
+"category": "industries",
+"slug": "towing-companies",
+"title": "Towing Company Funding",
+"angle": "wreckers/flatbeds, motor-club payment timing, insurance",
+"url": "/industries/towing-companies/"
+},
+{
+"category": "industries",
+"slug": "courier-and-logistics",
+"title": "Courier & Last-Mile Logistics Funding",
+"angle": "vans, contractor pay, contract onboarding",
+"url": "/industries/courier-and-logistics/"
+},
+{
+"category": "industries",
+"slug": "farms-and-agriculture",
+"title": "Farm & Agriculture Business Funding",
+"angle": "planting-to-harvest gap, equipment, livestock feed",
+"url": "/industries/farms-and-agriculture/"
+},
+{
+"category": "funding",
+"slug": "merchant-cash-advance",
+"title": "Merchant Cash Advance",
+"angle": "how MCAs work, factor rates, holdback, who they fit",
+"url": "/funding/merchant-cash-advance/"
+},
+{
+"category": "funding",
+"slug": "working-capital-loans",
+"title": "Working Capital Loans",
+"angle": "short-term operating capital; vs MCA vs LOC",
+"url": "/funding/working-capital-loans/"
+},
+{
+"category": "funding",
+"slug": "small-business-loans",
+"title": "Small Business Loans",
+"angle": "term structures, what underwriters review",
+"url": "/funding/small-business-loans/"
+},
+{
+"category": "funding",
+"slug": "short-term-business-loans",
+"title": "Short-Term Business Loans",
+"angle": "3-24 month terms, daily/weekly payments, uses",
+"url": "/funding/short-term-business-loans/"
+},
+{
+"category": "funding",
+"slug": "business-line-of-credit",
+"title": "Business Line of Credit",
+"angle": "revolving draws, interest only on used funds",
+"url": "/funding/business-line-of-credit/"
+},
+{
+"category": "funding",
+"slug": "equipment-financing",
+"title": "Equipment Financing",
+"angle": "equipment as collateral, loan vs lease, Section 179 mention (consult CPA)",
+"url": "/funding/equipment-financing/"
+},
+{
+"category": "funding",
+"slug": "invoice-factoring",
+"title": "Invoice Factoring",
+"angle": "selling receivables, recourse vs non-recourse, advance rates",
+"url": "/funding/invoice-factoring/"
+},
+{
+"category": "funding",
+"slug": "revenue-based-financing",
+"title": "Revenue-Based Financing",
+"angle": "payments flex with revenue; vs MCA",
+"url": "/funding/revenue-based-financing/"
+},
+{
+"category": "funding",
+"slug": "sba-loans",
+"title": "SBA Loans Explained",
+"angle": "7(a)/504 basics, timelines; when faster options make sense as a bridge",
+"url": "/funding/sba-loans/"
+},
+{
+"category": "funding",
+"slug": "bad-credit-business-loans",
+"title": "Business Funding with Bad Credit",
+"angle": "revenue-first underwriting, realistic expectations, cost",
+"url": "/funding/bad-credit-business-loans/"
+},
+{
+"category": "funding",
+"slug": "startup-business-funding",
+"title": "Startup Business Funding",
+"angle": "what's realistic under 6-12 months in business",
+"url": "/funding/startup-business-funding/"
+},
+{
+"category": "funding",
+"slug": "same-day-business-funding",
+"title": "Same-Day Business Funding",
+"angle": "what makes speed possible, docs ready, trade-offs",
+"url": "/funding/same-day-business-funding/"
+},
+{
+"category": "funding",
+"slug": "inventory-financing",
+"title": "Inventory Financing",
+"angle": "stocking ahead, inventory-backed vs unsecured options",
+"url": "/funding/inventory-financing/"
+},
+{
+"category": "funding",
+"slug": "payroll-funding",
+"title": "Payroll Funding",
+"angle": "bridging payroll gaps safely",
+"url": "/funding/payroll-funding/"
+},
+{
+"category": "funding",
+"slug": "seasonal-business-funding",
+"title": "Seasonal Business Funding",
+"angle": "pre-season capital, payment structures that fit",
+"url": "/funding/seasonal-business-funding/"
+},
+{
+"category": "funding",
+"slug": "business-expansion-loans",
+"title": "Business Expansion Loans",
+"angle": "second locations, build-outs, ROI planning",
+"url": "/funding/business-expansion-loans/"
+},
+{
+"category": "funding",
+"slug": "mca-consolidation",
+"title": "MCA Consolidation",
+"angle": "consolidating multiple advances, when it helps vs hurts",
+"url": "/funding/mca-consolidation/"
+},
+{
+"category": "funding",
+"slug": "purchase-order-financing",
+"title": "Purchase Order Financing",
+"angle": "funding supplier costs for confirmed orders",
+"url": "/funding/purchase-order-financing/"
+},
+{
+"category": "funding",
+"slug": "business-term-loans",
+"title": "Business Term Loans",
+"angle": "fixed schedules, longer horizons, qualification",
+"url": "/funding/business-term-loans/"
+},
+{
+"category": "funding",
+"slug": "unsecured-business-loans",
+"title": "Unsecured Business Loans",
+"angle": "no specific collateral, personal guarantees explained",
+"url": "/funding/unsecured-business-loans/"
+},
+{
+"category": "funding",
+"slug": "business-cash-advance-vs-loan",
+"title": "Business Cash Advance vs. Loan",
+"angle": "side-by-side decision guide",
+"url": "/funding/business-cash-advance-vs-loan/"
+},
+{
+"category": "funding",
+"slug": "fast-business-loans",
+"title": "Fast Business Loans",
+"angle": "fast vs cheap trade-off, how to move quickly",
+"url": "/funding/fast-business-loans/"
+},
+{
+"category": "funding",
+"slug": "low-doc-business-loans",
+"title": "Low-Documentation Business Funding",
+"angle": "bank-statement-based underwriting",
+"url": "/funding/low-doc-business-loans/"
+},
+{
+"category": "funding",
+"slug": "commercial-vehicle-financing",
+"title": "Commercial Vehicle Financing",
+"angle": "trucks, vans, trailers",
+"url": "/funding/commercial-vehicle-financing/"
+},
+{
+"category": "funding",
+"slug": "restaurant-equipment-financing",
+"title": "Restaurant Equipment Financing",
+"angle": "kitchen gear, hoods, POS",
+"url": "/funding/restaurant-equipment-financing/"
+},
+{
+"category": "funding",
+"slug": "medical-equipment-financing",
+"title": "Medical Equipment Financing",
+"angle": "imaging, chairs, lasers",
+"url": "/funding/medical-equipment-financing/"
+},
+{
+"category": "funding",
+"slug": "construction-equipment-financing",
+"title": "Construction Equipment Financing",
+"angle": "excavators, skid steers, used vs new",
+"url": "/funding/construction-equipment-financing/"
+},
+{
+"category": "funding",
+"slug": "emergency-business-funding",
+"title": "Emergency Business Funding",
+"angle": "sudden repairs, losses; avoiding panic decisions",
+"url": "/funding/emergency-business-funding/"
+},
+{
+"category": "funding",
+"slug": "business-funding-for-women",
+"title": "Business Funding for Women Entrepreneurs",
+"angle": "options, grants vs financing, preparation",
+"url": "/funding/business-funding-for-women/"
+},
+{
+"category": "funding",
+"slug": "minority-business-funding",
+"title": "Funding for Minority-Owned Businesses",
+"angle": "programs, CDFIs, private financing options",
+"url": "/funding/minority-business-funding/"
+},
+{
+"category": "use-cases",
+"slug": "hire-employees",
+"title": "Funding to Hire Employees",
+"angle": "cost of a hire, ramp time, payback math",
+"url": "/use-cases/hire-employees/"
+},
+{
+"category": "use-cases",
+"slug": "buy-inventory",
+"title": "Funding to Buy Inventory",
+"angle": "bulk discounts, turn rates, avoiding overstock",
+"url": "/use-cases/buy-inventory/"
+},
+{
+"category": "use-cases",
+"slug": "open-a-second-location",
+"title": "Funding a Second Location",
+"angle": "site costs, ramp period, risk checks",
+"url": "/use-cases/open-a-second-location/"
+},
+{
+"category": "use-cases",
+"slug": "renovate-your-business",
+"title": "Funding Business Renovations",
+"angle": "remodel ROI, permits, staying open during work",
+"url": "/use-cases/renovate-your-business/"
+},
+{
+"category": "use-cases",
+"slug": "marketing-and-advertising",
+"title": "Funding Marketing & Advertising",
+"angle": "CAC/payback, testing before scaling",
+"url": "/use-cases/marketing-and-advertising/"
+},
+{
+"category": "use-cases",
+"slug": "cover-payroll",
+"title": "Funding to Cover Payroll",
+"angle": "bridging gaps, root causes, legal obligations",
+"url": "/use-cases/cover-payroll/"
+},
+{
+"category": "use-cases",
+"slug": "pay-tax-bills",
+"title": "Funding Business Tax Bills",
+"angle": "IRS payment plans vs financing (consult a tax pro)",
+"url": "/use-cases/pay-tax-bills/"
+},
+{
+"category": "use-cases",
+"slug": "emergency-repairs",
+"title": "Funding Emergency Repairs",
+"angle": "downtime cost vs financing cost",
+"url": "/use-cases/emergency-repairs/"
+},
+{
+"category": "use-cases",
+"slug": "buy-a-commercial-truck",
+"title": "Funding a Commercial Truck Purchase",
+"angle": "new vs used, down payment, authority",
+"url": "/use-cases/buy-a-commercial-truck/"
+},
+{
+"category": "use-cases",
+"slug": "upgrade-pos-systems",
+"title": "Funding POS & Technology Upgrades",
+"angle": "modern POS, payments, PayPilot link",
+"url": "/use-cases/upgrade-pos-systems/"
+},
+{
+"category": "use-cases",
+"slug": "bridge-cash-flow-gaps",
+"title": "Bridging Cash Flow Gaps",
+"angle": "receivables timing, forecasting",
+"url": "/use-cases/bridge-cash-flow-gaps/"
+},
+{
+"category": "use-cases",
+"slug": "seasonal-hiring",
+"title": "Funding Seasonal Hiring",
+"angle": "peak staffing, timing payments to peak revenue",
+"url": "/use-cases/seasonal-hiring/"
+},
+{
+"category": "use-cases",
+"slug": "insurance-premiums",
+"title": "Funding Business Insurance Premiums",
+"angle": "premium financing vs working capital",
+"url": "/use-cases/insurance-premiums/"
+},
+{
+"category": "use-cases",
+"slug": "partner-buyout",
+"title": "Funding a Business Partner Buyout",
+"angle": "valuation basics, structuring",
+"url": "/use-cases/partner-buyout/"
+},
+{
+"category": "use-cases",
+"slug": "government-contracts",
+"title": "Funding Government Contract Mobilization",
+"angle": "net-30+ gov payments, mobilization costs",
+"url": "/use-cases/government-contracts/"
+},
+{
+"category": "use-cases",
+"slug": "buy-equipment",
+"title": "Funding to Buy Equipment",
+"angle": "buy vs lease vs finance",
+"url": "/use-cases/buy-equipment/"
+},
+{
+"category": "use-cases",
+"slug": "expand-product-lines",
+"title": "Funding New Product Lines",
+"angle": "testing demand, inventory risk",
+"url": "/use-cases/expand-product-lines/"
+},
+{
+"category": "use-cases",
+"slug": "website-and-ecommerce",
+"title": "Funding a Website or E-commerce Build",
+"angle": "digital storefront ROI",
+"url": "/use-cases/website-and-ecommerce/"
+},
+{
+"category": "use-cases",
+"slug": "hire-a-sales-team",
+"title": "Funding a Sales Team",
+"angle": "quota ramp, commission structures",
+"url": "/use-cases/hire-a-sales-team/"
+},
+{
+"category": "use-cases",
+"slug": "refinance-expensive-debt",
+"title": "Refinancing Expensive Business Debt",
+"angle": "when refinancing lowers total cost",
+"url": "/use-cases/refinance-expensive-debt/"
+},
+{
+"category": "use-cases",
+"slug": "take-on-a-big-order",
+"title": "Funding a Large Customer Order",
+"angle": "PO vs working capital",
+"url": "/use-cases/take-on-a-big-order/"
+},
+{
+"category": "use-cases",
+"slug": "relocate-your-business",
+"title": "Funding a Business Relocation",
+"angle": "moving costs, downtime, lease deposits",
+"url": "/use-cases/relocate-your-business/"
+},
+{
+"category": "use-cases",
+"slug": "buy-a-business",
+"title": "Funding a Business Acquisition",
+"angle": "acquisition financing basics, due diligence",
+"url": "/use-cases/buy-a-business/"
+},
+{
+"category": "use-cases",
+"slug": "franchise-funding",
+"title": "Franchise Funding",
+"angle": "franchise fees, build-out, FDD Item 7",
+"url": "/use-cases/franchise-funding/"
+},
+{
+"category": "use-cases",
+"slug": "vehicle-fleet-expansion",
+"title": "Funding Fleet Expansion",
+"angle": "utilization math, insurance, drivers",
+"url": "/use-cases/vehicle-fleet-expansion/"
+},
+{
+"category": "use-cases",
+"slug": "software-and-automation",
+"title": "Funding Software & Automation",
+"angle": "productivity ROI",
+"url": "/use-cases/software-and-automation/"
+},
+{
+"category": "use-cases",
+"slug": "trade-show-and-events",
+"title": "Funding Trade Shows & Events",
+"angle": "booth costs, lead ROI",
+"url": "/use-cases/trade-show-and-events/"
+},
+{
+"category": "use-cases",
+"slug": "security-and-compliance-upgrades",
+"title": "Funding Security & Compliance Upgrades",
+"angle": "PCI, cameras, licensing",
+"url": "/use-cases/security-and-compliance-upgrades/"
+},
+{
+"category": "use-cases",
+"slug": "slow-season-survival",
+"title": "Surviving the Slow Season",
+"angle": "planning, cutting vs funding",
+"url": "/use-cases/slow-season-survival/"
+},
+{
+"category": "use-cases",
+"slug": "disaster-recovery",
+"title": "Funding Disaster Recovery",
+"angle": "after storms/fires; insurance gaps; SBA disaster loans mention",
+"url": "/use-cases/disaster-recovery/"
+},
+{
+"category": "blog",
+"slug": "factor-rate-explained",
+"title": "What Is a Factor Rate? MCA Pricing Explained",
+"angle": "how to convert to total payback; why it isn't APR",
+"url": "/blog/factor-rate-explained/"
+},
+{
+"category": "blog",
+"slug": "total-payback-vs-apr",
+"title": "Total Payback vs. APR: Comparing Funding Offers",
+"angle": "apples-to-apples comparison method",
+"url": "/blog/total-payback-vs-apr/"
+},
+{
+"category": "blog",
+"slug": "how-mca-holdback-works",
+"title": "How MCA Holdback Percentages Work",
+"angle": "split vs ACH remittance",
+"url": "/blog/how-mca-holdback-works/"
+},
+{
+"category": "blog",
+"slug": "daily-vs-weekly-payments",
+"title": "Daily vs. Weekly Payments: Which Is Better?",
+"angle": "cash flow effects",
+"url": "/blog/daily-vs-weekly-payments/"
+},
+{
+"category": "blog",
+"slug": "bank-statements-underwriters-review",
+"title": "What Underwriters Look For in Your Bank Statements",
+"angle": "deposits, balances, NSFs, other lenders",
+"url": "/blog/bank-statements-underwriters-review/"
+},
+{
+"category": "blog",
+"slug": "nsf-and-negative-days",
+"title": "NSFs and Negative Days: Why They Matter",
+"angle": "fixing patterns before applying",
+"url": "/blog/nsf-and-negative-days/"
+},
+{
+"category": "blog",
+"slug": "mca-stacking-risks",
+"title": "The Real Risks of MCA Stacking",
+"angle": "multiple positions, payment burden",
+"url": "/blog/mca-stacking-risks/"
+},
+{
+"category": "blog",
+"slug": "improve-business-funding-approval-odds",
+"title": "10 Ways to Improve Your Funding Approval Odds",
+"angle": "practical prep",
+"url": "/blog/improve-business-funding-approval-odds/"
+},
+{
+"category": "blog",
+"slug": "time-in-business-requirements",
+"title": "Time in Business Requirements Explained",
+"angle": "why lenders care",
+"url": "/blog/time-in-business-requirements/"
+},
+{
+"category": "blog",
+"slug": "minimum-revenue-for-business-funding",
+"title": "Revenue Requirements for Business Funding",
+"angle": "how revenue drives amounts (no invented minimums\u2014say varies)",
+"url": "/blog/minimum-revenue-for-business-funding/"
+},
+{
+"category": "blog",
+"slug": "soft-pull-vs-hard-pull",
+"title": "Soft Pull vs. Hard Pull Credit Checks",
+"angle": "what each means for owners",
+"url": "/blog/soft-pull-vs-hard-pull/"
+},
+{
+"category": "blog",
+"slug": "personal-guarantee-explained",
+"title": "Personal Guarantees Explained",
+"angle": "what you're signing",
+"url": "/blog/personal-guarantee-explained/"
+},
+{
+"category": "blog",
+"slug": "ucc-filings-explained",
+"title": "What Is a UCC Filing?",
+"angle": "UCC-1 basics",
+"url": "/blog/ucc-filings-explained/"
+},
+{
+"category": "blog",
+"slug": "confession-of-judgment",
+"title": "Confessions of Judgment: What Owners Should Know",
+"angle": "state law varies; read contracts",
+"url": "/blog/confession-of-judgment/"
+},
+{
+"category": "blog",
+"slug": "early-payoff-discounts",
+"title": "Early Payoff Discounts on Merchant Cash Advances",
+"angle": "ask before signing",
+"url": "/blog/early-payoff-discounts/"
+},
+{
+"category": "blog",
+"slug": "reconciliation-clause-mca",
+"title": "The MCA Reconciliation Clause",
+"angle": "adjusting payments when sales drop",
+"url": "/blog/reconciliation-clause-mca/"
+},
+{
+"category": "blog",
+"slug": "predatory-lending-red-flags",
+"title": "Red Flags of Predatory Business Lenders",
+"angle": "protect yourself",
+"url": "/blog/predatory-lending-red-flags/"
+},
+{
+"category": "blog",
+"slug": "how-to-compare-funding-offers",
+"title": "How to Compare Business Funding Offers",
+"angle": "checklist",
+"url": "/blog/how-to-compare-funding-offers/"
+},
+{
+"category": "blog",
+"slug": "business-cash-flow-forecasting",
+"title": "Cash Flow Forecasting for Small Businesses",
+"angle": "13-week forecast how-to",
+"url": "/blog/business-cash-flow-forecasting/"
+},
+{
+"category": "blog",
+"slug": "seasonal-cash-flow-planning",
+"title": "Planning Cash Flow for a Seasonal Business",
+"angle": "reserve building",
+"url": "/blog/seasonal-cash-flow-planning/"
+},
+{
+"category": "blog",
+"slug": "working-capital-formula",
+"title": "Working Capital: Formula and Why It Matters",
+"angle": "current assets - liabilities",
+"url": "/blog/working-capital-formula/"
+},
+{
+"category": "blog",
+"slug": "cash-conversion-cycle",
+"title": "The Cash Conversion Cycle Explained",
+"angle": "DIO+DSO-DPO",
+"url": "/blog/cash-conversion-cycle/"
+},
+{
+"category": "blog",
+"slug": "accounts-receivable-tips",
+"title": "How to Get Paid Faster: Accounts Receivable Tips",
+"angle": "invoicing hygiene",
+"url": "/blog/accounts-receivable-tips/"
+},
+{
+"category": "blog",
+"slug": "business-credit-score-basics",
+"title": "Business Credit Scores: The Basics",
+"angle": "D&B, Experian, Equifax business",
+"url": "/blog/business-credit-score-basics/"
+},
+{
+"category": "blog",
+"slug": "build-business-credit",
+"title": "How to Build Business Credit",
+"angle": "steps",
+"url": "/blog/build-business-credit/"
+},
+{
+"category": "blog",
+"slug": "separate-business-personal-finances",
+"title": "Why You Must Separate Business and Personal Finances",
+"angle": "underwriting + legal",
+"url": "/blog/separate-business-personal-finances/"
+},
+{
+"category": "blog",
+"slug": "business-bank-account-tips",
+"title": "Business Banking Habits That Help Your Funding",
+"angle": "balances, deposits",
+"url": "/blog/business-bank-account-tips/"
+},
+{
+"category": "blog",
+"slug": "documents-needed-for-business-funding",
+"title": "Documents You Need for Business Funding",
+"angle": "complete checklist",
+"url": "/blog/documents-needed-for-business-funding/"
+},
+{
+"category": "blog",
+"slug": "how-long-business-funding-takes",
+"title": "How Long Does Business Funding Take?",
+"angle": "timeline by product",
+"url": "/blog/how-long-business-funding-takes/"
+},
+{
+"category": "blog",
+"slug": "what-is-a-funding-broker",
+"title": "What Does a Business Funding Broker Do?",
+"angle": "how brokers work, transparency",
+"url": "/blog/what-is-a-funding-broker/"
+},
+{
+"category": "blog",
+"slug": "broker-vs-direct-lender",
+"title": "Broker vs. Direct Lender: Pros and Cons",
+"angle": "when each fits",
+"url": "/blog/broker-vs-direct-lender/"
+},
+{
+"category": "blog",
+"slug": "sba-vs-alternative-lending",
+"title": "SBA Loans vs. Alternative Lending",
+"angle": "speed vs cost",
+"url": "/blog/sba-vs-alternative-lending/"
+},
+{
+"category": "blog",
+"slug": "line-of-credit-vs-term-loan",
+"title": "Line of Credit vs. Term Loan",
+"angle": "choosing",
+"url": "/blog/line-of-credit-vs-term-loan/"
+},
+{
+"category": "blog",
+"slug": "equipment-lease-vs-loan",
+"title": "Equipment Lease vs. Equipment Loan",
+"angle": "ownership, tax (consult CPA)",
+"url": "/blog/equipment-lease-vs-loan/"
+},
+{
+"category": "blog",
+"slug": "invoice-factoring-vs-mca",
+"title": "Invoice Factoring vs. Merchant Cash Advance",
+"angle": "B2B vs card-heavy",
+"url": "/blog/invoice-factoring-vs-mca/"
+},
+{
+"category": "blog",
+"slug": "credit-card-processing-fees-explained",
+"title": "Credit Card Processing Fees Explained",
+"angle": "interchange, assessments, markup; PayPilot by MCCPS",
+"url": "/blog/credit-card-processing-fees-explained/"
+},
+{
+"category": "blog",
+"slug": "interchange-plus-vs-flat-rate",
+"title": "Interchange-Plus vs. Flat-Rate Processing",
+"angle": "which saves more; PayPilot",
+"url": "/blog/interchange-plus-vs-flat-rate/"
+},
+{
+"category": "blog",
+"slug": "cash-discount-and-surcharging",
+"title": "Cash Discount Programs and Surcharging",
+"angle": "rules vary by state and card brand; PayPilot",
+"url": "/blog/cash-discount-and-surcharging/"
+},
+{
+"category": "blog",
+"slug": "pci-compliance-basics",
+"title": "PCI Compliance Basics for Small Businesses",
+"angle": "SAQ, fees",
+"url": "/blog/pci-compliance-basics/"
+},
+{
+"category": "blog",
+"slug": "reduce-chargebacks",
+"title": "How to Reduce Chargebacks",
+"angle": "prevention",
+"url": "/blog/reduce-chargebacks/"
+},
+{
+"category": "blog",
+"slug": "choosing-a-pos-system",
+"title": "How to Choose a POS System",
+"angle": "features; PayPilot",
+"url": "/blog/choosing-a-pos-system/"
+},
+{
+"category": "blog",
+"slug": "read-your-merchant-statement",
+"title": "How to Read Your Merchant Processing Statement",
+"angle": "effective rate calc; PayPilot audit",
+"url": "/blog/read-your-merchant-statement/"
+},
+{
+"category": "blog",
+"slug": "contactless-and-tap-to-pay",
+"title": "Contactless & Tap-to-Pay for Small Businesses",
+"angle": "adoption, hardware",
+"url": "/blog/contactless-and-tap-to-pay/"
+},
+{
+"category": "blog",
+"slug": "hidden-processing-fees",
+"title": "Hidden Credit Card Processing Fees to Watch For",
+"angle": "PCI non-compliance, batch, monthly minimums",
+"url": "/blog/hidden-processing-fees/"
+},
+{
+"category": "blog",
+"slug": "trucking-fuel-costs-cash-flow",
+"title": "Managing Fuel Costs in a Trucking Business",
+"angle": "fuel cards, factoring, capital",
+"url": "/blog/trucking-fuel-costs-cash-flow/"
+},
+{
+"category": "blog",
+"slug": "owner-operator-funding-guide",
+"title": "The Owner-Operator's Guide to Funding",
+"angle": "authority, truck, insurance",
+"url": "/blog/owner-operator-funding-guide/"
+},
+{
+"category": "blog",
+"slug": "restaurant-cash-flow-tips",
+"title": "Restaurant Cash Flow: 12 Practical Tips",
+"angle": "prime cost, inventory",
+"url": "/blog/restaurant-cash-flow-tips/"
+},
+{
+"category": "blog",
+"slug": "restaurant-renovation-planning",
+"title": "Planning a Restaurant Renovation Without Closing",
+"angle": "phasing",
+"url": "/blog/restaurant-renovation-planning/"
+},
+{
+"category": "blog",
+"slug": "retail-holiday-inventory-planning",
+"title": "Holiday Inventory Planning for Retailers",
+"angle": "open-to-buy",
+"url": "/blog/retail-holiday-inventory-planning/"
+},
+{
+"category": "blog",
+"slug": "contractor-cash-flow-retainage",
+"title": "Contractor Cash Flow and Retainage",
+"angle": "managing retainage",
+"url": "/blog/contractor-cash-flow-retainage/"
+},
+{
+"category": "blog",
+"slug": "medical-practice-reimbursement-gap",
+"title": "Bridging the Insurance Reimbursement Gap",
+"angle": "practices",
+"url": "/blog/medical-practice-reimbursement-gap/"
+},
+{
+"category": "blog",
+"slug": "ecommerce-q4-inventory-funding",
+"title": "Funding E-commerce Inventory for Q4",
+"angle": "timeline",
+"url": "/blog/ecommerce-q4-inventory-funding/"
+},
+{
+"category": "blog",
+"slug": "salon-business-growth",
+"title": "Growing a Salon: When Financing Makes Sense",
+"angle": "chairs, products",
+"url": "/blog/salon-business-growth/"
+},
+{
+"category": "blog",
+"slug": "hvac-off-season-planning",
+"title": "HVAC Off-Season Cash Planning",
+"angle": "service agreements",
+"url": "/blog/hvac-off-season-planning/"
+},
+{
+"category": "blog",
+"slug": "landscaping-winter-cash-flow",
+"title": "Landscaping Cash Flow Through Winter",
+"angle": "snow pivot",
+"url": "/blog/landscaping-winter-cash-flow/"
+},
+{
+"category": "blog",
+"slug": "staffing-agency-payroll-gap",
+"title": "Solving the Staffing Agency Payroll Gap",
+"angle": "factoring",
+"url": "/blog/staffing-agency-payroll-gap/"
+},
+{
+"category": "blog",
+"slug": "construction-bid-cash-needs",
+"title": "Cash Needs When Bidding Bigger Construction Jobs",
+"angle": "bonding",
+"url": "/blog/construction-bid-cash-needs/"
+},
+{
+"category": "blog",
+"slug": "is-a-merchant-cash-advance-a-loan",
+"title": "Is a Merchant Cash Advance a Loan?",
+"angle": "purchase of future receivables",
+"url": "/blog/is-a-merchant-cash-advance-a-loan/"
+},
+{
+"category": "blog",
+"slug": "mca-myths",
+"title": "7 Merchant Cash Advance Myths",
+"angle": "balanced",
+"url": "/blog/mca-myths/"
+},
+{
+"category": "blog",
+"slug": "when-not-to-take-funding",
+"title": "When You Should NOT Take Business Funding",
+"angle": "honest guide",
+"url": "/blog/when-not-to-take-funding/"
+},
+{
+"category": "blog",
+"slug": "funding-roi-calculation",
+"title": "How to Calculate the ROI of Business Funding",
+"angle": "simple model",
+"url": "/blog/funding-roi-calculation/"
+},
+{
+"category": "blog",
+"slug": "debt-service-coverage-ratio",
+"title": "Debt Service Coverage Ratio (DSCR) Explained",
+"angle": "formula",
+"url": "/blog/debt-service-coverage-ratio/"
+},
+{
+"category": "blog",
+"slug": "business-debt-management",
+"title": "Managing Multiple Business Debts",
+"angle": "priority, communication",
+"url": "/blog/business-debt-management/"
+},
+{
+"category": "blog",
+"slug": "negotiating-with-lenders",
+"title": "How to Negotiate with Lenders and Funders",
+"angle": "levers",
+"url": "/blog/negotiating-with-lenders/"
+},
+{
+"category": "blog",
+"slug": "business-plan-for-funding",
+"title": "Do You Need a Business Plan to Get Funded?",
+"angle": "when and what",
+"url": "/blog/business-plan-for-funding/"
+},
+{
+"category": "blog",
+"slug": "startup-funding-options",
+"title": "Startup Funding Options Compared",
+"angle": "savings, friends, SBA microloans, revenue-based",
+"url": "/blog/startup-funding-options/"
+},
+{
+"category": "blog",
+"slug": "grants-vs-loans",
+"title": "Small Business Grants vs. Loans",
+"angle": "realistic view",
+"url": "/blog/grants-vs-loans/"
+},
+{
+"category": "blog",
+"slug": "business-credit-cards-vs-loans",
+"title": "Business Credit Cards vs. Business Loans",
+"angle": "use cases",
+"url": "/blog/business-credit-cards-vs-loans/"
+},
+{
+"category": "blog",
+"slug": "ein-and-business-structure",
+"title": "EIN, LLC, S-Corp: Structure and Funding",
+"angle": "why structure matters (consult professionals)",
+"url": "/blog/ein-and-business-structure/"
+},
+{
+"category": "blog",
+"slug": "tax-liens-and-funding",
+"title": "Can You Get Funding with a Tax Lien?",
+"angle": "options, disclosure",
+"url": "/blog/tax-liens-and-funding/"
+},
+{
+"category": "blog",
+"slug": "funding-after-bankruptcy",
+"title": "Business Funding After Bankruptcy",
+"angle": "timelines, expectations",
+"url": "/blog/funding-after-bankruptcy/"
+},
+{
+"category": "blog",
+"slug": "judgments-and-funding",
+"title": "How Judgments Affect Business Funding",
+"angle": "disclosure",
+"url": "/blog/judgments-and-funding/"
+},
+{
+"category": "blog",
+"slug": "renewals-and-repeat-funding",
+"title": "Funding Renewals: How Repeat Funding Works",
+"angle": "paydown thresholds",
+"url": "/blog/renewals-and-repeat-funding/"
+},
+{
+"category": "blog",
+"slug": "prepare-for-funding-call",
+"title": "How to Prepare for Your Funding Specialist Call",
+"angle": "questions to ask",
+"url": "/blog/prepare-for-funding-call/"
+},
+{
+"category": "blog",
+"slug": "questions-to-ask-a-funder",
+"title": "15 Questions to Ask Before Accepting Funding",
+"angle": "list",
+"url": "/blog/questions-to-ask-a-funder/"
+},
+{
+"category": "blog",
+"slug": "business-emergency-fund",
+"title": "Building a Business Emergency Fund",
+"angle": "target months",
+"url": "/blog/business-emergency-fund/"
+},
+{
+"category": "blog",
+"slug": "inflation-small-business-strategies",
+"title": "Small Business Strategies for High Costs",
+"angle": "pricing, purchasing",
+"url": "/blog/inflation-small-business-strategies/"
+},
+{
+"category": "blog",
+"slug": "pricing-for-profit",
+"title": "Pricing for Profit: A Small Business Guide",
+"angle": "markup vs margin",
+"url": "/blog/pricing-for-profit/"
+},
+{
+"category": "blog",
+"slug": "gross-margin-vs-net-margin",
+"title": "Gross Margin vs. Net Margin",
+"angle": "definitions",
+"url": "/blog/gross-margin-vs-net-margin/"
+},
+{
+"category": "blog",
+"slug": "profit-vs-cash-flow",
+"title": "Why Profitable Businesses Still Run Out of Cash",
+"angle": "timing",
+"url": "/blog/profit-vs-cash-flow/"
+},
+{
+"category": "blog",
+"slug": "hiring-your-first-employee",
+"title": "Hiring Your First Employee: The Real Costs",
+"angle": "payroll taxes, onboarding (general)",
+"url": "/blog/hiring-your-first-employee/"
+},
+{
+"category": "blog",
+"slug": "commercial-lease-negotiation",
+"title": "Negotiating a Commercial Lease",
+"angle": "TI allowances",
+"url": "/blog/commercial-lease-negotiation/"
+},
+{
+"category": "blog",
+"slug": "second-location-checklist",
+"title": "The Second-Location Readiness Checklist",
+"angle": "signals",
+"url": "/blog/second-location-checklist/"
+},
+{
+"category": "blog",
+"slug": "customer-acquisition-cost",
+"title": "Customer Acquisition Cost and Payback",
+"angle": "for funding marketing",
+"url": "/blog/customer-acquisition-cost/"
+},
+{
+"category": "blog",
+"slug": "ach-explained",
+"title": "How ACH Payments Work for Businesses",
+"angle": "debits, timing",
+"url": "/blog/ach-explained/"
+},
+{
+"category": "blog",
+"slug": "business-funding-glossary-guide",
+"title": "Business Funding Terms Every Owner Should Know",
+"angle": "narrative glossary",
+"url": "/blog/business-funding-glossary-guide/"
+},
+{
+"category": "blog",
+"slug": "year-end-financial-checklist",
+"title": "Year-End Financial Checklist for Small Businesses",
+"angle": "prep",
+"url": "/blog/year-end-financial-checklist/"
+},
+{
+"category": "blog",
+"slug": "quarterly-tax-planning",
+"title": "Quarterly Estimated Taxes and Cash Flow",
+"angle": "set-asides (consult CPA)",
+"url": "/blog/quarterly-tax-planning/"
+},
+{
+"category": "blog",
+"slug": "bank-statement-loans-explained",
+"title": "Bank Statement Business Loans Explained",
+"angle": "underwriting on deposits instead of tax returns",
+"url": "/blog/bank-statement-loans-explained/"
+},
+{
+"category": "blog",
+"slug": "small-business-cybersecurity-payments",
+"title": "Payment Security Basics for Small Businesses",
+"angle": "fraud, PCI; PayPilot",
+"url": "/blog/small-business-cybersecurity-payments/"
+}
+]

@@ -1,0 +1,124 @@
+{
+  "slug": "reconciliation-clause-mca",
+  "category": "blog",
+  "title": "The MCA Reconciliation Clause",
+  "seo_title": "The MCA Reconciliation Clause Explained | Fidelity Funding",
+  "meta_description": "A reconciliation clause can lower your merchant cash advance payments when sales drop. Learn how it works, what funders ask for and how to use it.",
+  "primary_keyword": "MCA reconciliation clause",
+  "keywords": [
+    "merchant cash advance reconciliation",
+    "adjust MCA payments when sales drop",
+    "reconciliation provision",
+    "MCA payment reduction",
+    "MCA true-up",
+    "MCA contract terms",
+    "slow sales payment adjustment"
+  ],
+  "eyebrow": "Contract terms",
+  "dek": "If your advance is repaid as a share of sales, the payment should follow your sales. The reconciliation clause is how that promise gets honored.",
+  "intro": [
+    "The basic pitch of a merchant cash advance is that you repay with a percentage of your future sales. In good months that means a bigger payment. In slow months it should mean a smaller one. Yet most advances are collected through fixed daily or weekly ACH debits, which do not know whether you had a good week or a terrible one.",
+    "The bridge between the fixed debit and the sales-based promise is the reconciliation clause. Not every contract has one, and not every funder processes requests quickly, but where it exists it can protect your cash flow when revenue falls. Here is how it works and how to use it."
+  ],
+  "sections": [
+    {
+      "h2": "What reconciliation means",
+      "paragraphs": [
+        "Reconciliation is a process in which the funder compares the payments collected with the agreed percentage of your actual receipts for a period, then adjusts. If your fixed debits took out more than the agreed share of what you really sold, the funder can reduce future payments or credit the difference. In some contracts the adjustment can go the other way as well.",
+        "The idea is to keep the arrangement aligned with its stated nature as a purchase of a share of receivables, rather than a loan with fixed installments. How it actually works depends on the contract language, and funders differ in how readily they apply it."
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Say you take an advance with a 10 percent holdback, repaid through a fixed $600 weekly ACH debit, set when your weekly sales averaged $6,000. Then an unexpected slow stretch hits and your weekly sales fall to $4,000. A true 10 percent share would be $400, but $600 is still leaving your account every week.",
+        "Under a reconciliation clause, you can ask the funder to adjust the payment to reflect the lower sales, perhaps bringing it to $400 for the period, subject to the funder's verification. Over several weeks, that saves $200 each week of cash you needed for payroll or rent. These numbers are hypothetical; terms differ by contract."
+      ]
+    },
+    {
+      "h2": "How to request one",
+      "paragraphs": [
+        "The contract usually specifies the process. Read it before you need it, and gather documents as soon as sales start slipping, not after payments begin to bounce."
+      ],
+      "steps": [
+        "Find the reconciliation or adjustment section of your agreement and note the notice method and deadlines.",
+        "Collect proof of reduced receipts: bank statements, processor reports or sales summaries for the period.",
+        "Write to the funder using the method the contract requires, stating the period and requested adjustment.",
+        "Ask for confirmation of the new payment amount and the effective date in writing.",
+        "Keep records of all communication and re-request if circumstances continue."
+      ]
+    },
+    {
+      "h2": "Why clauses are not all equal",
+      "paragraphs": [
+        "Some contracts promise reconciliation clearly, with a defined timeline. Others mention it vaguely, make it discretionary or place heavy documentation burdens on the owner. A few omit it entirely, which means fixed payments continue regardless of sales. The distinction can matter enormously in a downturn.",
+        "Watch for conditions such as requirements that you be current on payments, limits on how often you can request a change, or definitions of \"receipts\" that exclude certain deposits. Details like these decide whether the clause is a practical safety valve or mostly decoration."
+      ],
+      "bullets": [
+        "Is adjustment mandatory or at the funder's discretion?",
+        "How quickly must the funder respond?",
+        "What documentation is required, and for what period?",
+        "Does it apply to all payment types, split and ACH?",
+        "Are there limits on frequency or conditions for eligibility?"
+      ]
+    },
+    {
+      "h2": "Reconciliation versus a modification",
+      "paragraphs": [
+        "A reconciliation asks the funder to apply a term already in the contract. A modification is a negotiation to change the terms, perhaps by extending the repayment period and lowering payments in exchange for something else. Funders may agree to one without the other.",
+        "If you have no reconciliation right and sales have fallen, you may still be able to request relief, but it is up to the funder. Reach out before you miss a payment, since bounced debits can trigger fees and default provisions. A frank conversation with documents in hand is more productive than silence."
+      ]
+    },
+    {
+      "h2": "What to expect from the process",
+      "paragraphs": [
+        "Even with a clear clause, the process is rarely instant. Funders typically review your documents, may take several business days to respond and often adjust payments going forward rather than refunding money already collected. Some require that you submit requests on a regular schedule, such as monthly. Plan for that delay in your cash forecast by building in a buffer, and do not wait until the account is nearly empty to ask. If a funder is slow or unresponsive, keep your written requests and consult an attorney about your options under the agreement rather than simply stopping payments."
+      ]
+    },
+    {
+      "h2": "Ask before you sign",
+      "paragraphs": [
+        "The best time to learn how reconciliation works is before the first debit. Request the clause in writing and ask for an example of how an adjustment would be calculated. When you review offers with a Fidelity Funding specialist, ask them to point out which partners include clear reconciliation language and how their processes tend to work, recognizing that terms vary by partner and underwriting. If your income is seasonal or lumpy, make that part of the conversation. For disputes or questions about your rights under a specific contract, consult an attorney."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Reconciliation aligns payments with actual receipts when sales fall.",
+    "Fixed ACH debits do not adjust unless you request it under the contract.",
+    "Gather statements and send written requests early.",
+    "Clauses range from clear and mandatory to vague or absent.",
+    "Ask how it works before signing, not after sales drop."
+  ],
+  "faq": [
+    {
+      "q": "What is reconciliation in a merchant cash advance?",
+      "a": "It is a process where payments collected are compared with the agreed percentage of your actual sales, and then adjusted. If you paid more than your share during a slow period, the funder may lower future debits or credit the difference. The contract controls how it works."
+    },
+    {
+      "q": "Do all MCAs have a reconciliation clause?",
+      "a": "No. Many include one, but language and practice vary, and some do not provide an enforceable right to adjustment. Read the agreement and ask the funder to explain, in writing, how adjustments are requested and calculated before you sign. Details vary by funding partner and product, so confirm the specifics before you decide."
+    },
+    {
+      "q": "What documents do I need to request an adjustment?",
+      "a": "Typically bank statements and processor or sales reports for the period in question, showing your actual receipts. Follow the notice method in your contract. The funder will usually verify the figures before changing the payment, so organized records speed the process."
+    },
+    {
+      "q": "Can I stop payments if sales drop?",
+      "a": "Stopping payments on your own can put you in default under many agreements and may lead to fees or legal action. A safer approach is to contact the funder, document the decline and request a reconciliation or modification. Consult an attorney if you are unsure of your rights."
+    },
+    {
+      "q": "How does reconciliation affect my total payback?",
+      "a": "Typically the total payback stays the same, but the schedule stretches when payments shrink, so it takes longer to repay. Ask whether a longer period changes anything else, such as fees, and request the revised schedule in writing. It is worth confirming the exact terms in writing before you commit to anything."
+    }
+  ],
+  "related": [
+    "how-mca-holdback-works",
+    "daily-vs-weekly-payments",
+    "early-payoff-discounts",
+    "merchant-cash-advance",
+    "mca-stacking-risks",
+    "slow-season-survival"
+  ],
+  "icon": "gear",
+  "read_minutes": 7
+}

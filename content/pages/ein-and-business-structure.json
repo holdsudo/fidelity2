@@ -1,0 +1,117 @@
+{
+  "slug": "ein-and-business-structure",
+  "title": "EIN, LLC, S-Corp: Structure and Funding",
+  "seo_title": "EIN, LLC & S-Corp: How Structure Affects Funding",
+  "meta_description": "Your EIN and entity type shape how funding partners review your business. Learn what sole proprietors, LLCs and S-corps should know before applying.",
+  "primary_keyword": "business structure and funding",
+  "keywords": [
+    "EIN for business funding",
+    "LLC vs S-corp",
+    "sole proprietor business funding",
+    "business entity types",
+    "separate business and personal finances",
+    "business funding application documents"
+  ],
+  "eyebrow": "Business basics",
+  "dek": "How your EIN and entity type show up in a funding review, and which structure questions belong with your CPA or attorney.",
+  "intro": [
+    "Most owners pick a business structure once, usually in a hurry, and then forget about it until a lender, landlord or processor asks for paperwork. At that point the questions get specific. Whose name is on the bank account? Does the EIN on your tax filings match the one on your application? Is the legal name on your deposits the same as the name on your lease?",
+    "Structure does not decide, by itself, whether you can get funded. But it shapes the documents a funding partner asks for, how your income is read, and what you personally stand behind. This guide explains the common structures in plain English so you walk into an application with clean, consistent paperwork. It is general information, not tax or legal advice, and the right entity for you is a decision to make with a CPA or business attorney."
+  ],
+  "sections": [
+    {
+      "h2": "What an EIN actually is",
+      "paragraphs": [
+        "An Employer Identification Number is a nine-digit number the IRS assigns to identify a business for tax purposes. Think of it as a Social Security number for your company. You can apply for one for free through the IRS, and corporations, partnerships and any business with employees generally need one. Many sole proprietors can operate under their own Social Security number, but plenty choose to get an EIN anyway so they are not handing out their SSN to every vendor.",
+        "For funding, the EIN is the thread that ties everything together. It appears on your tax returns, your payroll filings, your business bank account and often your merchant processing agreement. When the name and number on your application match the name and number on your statements, review moves faster. When they do not, a specialist has to stop and ask why."
+      ]
+    },
+    {
+      "h2": "The four structures you will run into",
+      "paragraphs": [
+        "Every structure has trade-offs that a professional should walk you through. At a high level, here is how each tends to look from the funding side."
+      ],
+      "bullets": [
+        "Sole proprietorship: you and the business are the same legal person. Simple to run, but there is no separation between business and personal liability.",
+        "Single-member or multi-member LLC: a state-registered entity that can separate personal and business liability, subject to state law and how you operate it. Taxed by default as a sole proprietorship or partnership unless you elect otherwise.",
+        "S-corporation: not a business type so much as a tax election that an LLC or corporation can make. Owners who work in the business typically pay themselves a reasonable salary through payroll, which leaves a visible payroll history.",
+        "C-corporation: a separate taxpaying entity, more common with outside investors or larger plans. Less typical for small main-street businesses."
+      ]
+    },
+    {
+      "h2": "How structure shows up in an application",
+      "paragraphs": [
+        "A funding partner wants to confirm who they are dealing with and where the money moves. Expect to provide the legal business name, any DBA, the entity type, the EIN, the state of formation and the ownership percentages. Owners with 20 percent or more are typically asked to sign, and the person signing will often be asked for a government ID.",
+        "If you are an LLC taxed as a partnership, your K-1 and Form 1065 tell one story. If you are a sole proprietor, your Schedule C on your personal return tells it. If you are an S-corp, Form 1120-S plus payroll records do. The structure does not change what a funding specialist is looking for, which is steady deposits and an operating business, but it changes which documents prove it."
+      ]
+    },
+    {
+      "h2": "Personal liability and personal guarantees",
+      "paragraphs": [
+        "A common misunderstanding is that forming an LLC means you can never be personally responsible for business funding. In practice, many funding agreements include a personal guarantee, or a guaranty of performance, that sits on top of the entity. Whether and how that applies depends on the funding partner and the product, so read it closely and ask what it covers.",
+        "Separately, liability protection from an entity can weaken if business and personal money are mixed, which is one reason attorneys and CPAs insist on a dedicated business account. If you want to dig into guarantees themselves, our guide on personal guarantees explains the language you are likely to see."
+      ]
+    },
+    {
+      "h2": "Keep the paper trail consistent",
+      "paragraphs": [
+        "Inconsistency causes more friction than any particular structure. A few examples we see owners trip over: deposits arriving under a DBA while the bank account is in the LLC name, an old EIN on a processing agreement after a restructure, or customer payments landing in a personal Venmo or Zelle account. None of these is fatal, but each leads to extra questions and delays.",
+        "Before you apply, line up the basics so they all match:"
+      ],
+      "steps": [
+        "Confirm the exact legal name on your formation documents and EIN confirmation letter (IRS CP 575 or 147C).",
+        "Check that your business bank account, merchant account and payroll provider use that same name and EIN.",
+        "Route all customer revenue through the business account, not a personal one.",
+        "Keep your most recent tax return and three to six months of statements ready to share.",
+        "Write down ownership percentages and who has signing authority."
+      ]
+    },
+    {
+      "h2": "When to talk to a professional about changing structure",
+      "paragraphs": [
+        "Moving from sole proprietor to LLC, or electing S-corp status, can change your taxes, your payroll obligations and your liability exposure. The decision should be driven by your tax situation and risk, not by funding. Changing entity right before an application can also reset parts of your history, since a new EIN means a new account trail, so plan the timing with your CPA.",
+        "If you are already in the middle of a structure change, tell your funding specialist early. Fidelity Funding connects businesses with funding partners nationwide, and being upfront about a recent restructure lets the specialist explain your history accurately instead of leaving a partner to puzzle over it. When you are ready, a short application with a soft credit pull for the initial review is a low-pressure way to see what options exist."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Your EIN and legal name should match across tax filings, bank statements and your application.",
+    "Structure changes which documents prove your income, not whether a funding review is possible.",
+    "An LLC or corporation does not automatically remove personal guarantees from a funding agreement.",
+    "Choose your entity with a CPA or attorney based on taxes and liability, not just funding.",
+    "Mixing personal and business money creates avoidable questions."
+  ],
+  "faq": [
+    {
+      "q": "Do I need an EIN to apply for business funding?",
+      "a": "Sole proprietors can often use a Social Security number, but most funding partners prefer or require an EIN for a business account and tax records. Corporations and LLCs with employees generally need one anyway. Getting an EIN from the IRS is free and usually quick, and it keeps your SSN off vendor paperwork."
+    },
+    {
+      "q": "Does an LLC make it easier to get funded?",
+      "a": "Not by itself. Funding partners focus on deposits, time in business and the overall health of the operation. An LLC may make your records cleaner, but you may still be asked for a personal guarantee. Ask your CPA or attorney whether an LLC fits your liability and tax needs."
+    },
+    {
+      "q": "Can I get funding as a sole proprietor?",
+      "a": "Often yes. Sole proprietors with steady business deposits, a business bank account and enough time in business can be considered by some funding partners. Expect to provide a personal ID and your recent bank statements. Availability and terms vary by partner and underwriting, and nothing is guaranteed."
+    },
+    {
+      "q": "What is the difference between an LLC and an S-corp?",
+      "a": "An LLC is a legal structure created under state law. An S-corp is a federal tax election that eligible LLCs or corporations can make, often changing how owner pay and profits are taxed. They are not opposites, and many S-corps are LLCs. A CPA can model which setup suits you."
+    },
+    {
+      "q": "Should I change my business structure before applying?",
+      "a": "Usually not for funding reasons alone. Changing structure can alter your tax treatment and reset parts of your record. Talk to your CPA first, and if a change is already underway, tell your funding specialist so your history can be explained accurately."
+    }
+  ],
+  "related": [
+    "personal-guarantee-explained",
+    "separate-business-personal-finances",
+    "documents-needed-for-business-funding",
+    "business-bank-account-tips",
+    "time-in-business-requirements",
+    "startup-business-funding"
+  ],
+  "icon": "building",
+  "read_minutes": 6,
+  "category": "blog"
+}

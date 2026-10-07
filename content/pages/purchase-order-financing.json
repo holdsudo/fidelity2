@@ -1,0 +1,125 @@
+{
+  "slug": "purchase-order-financing",
+  "category": "funding",
+  "title": "Purchase Order Financing",
+  "seo_title": "Purchase Order Financing: Fund Supplier Costs | Fidelity Funding",
+  "meta_description": "Purchase order financing helps you pay suppliers for confirmed customer orders. See how it works, what it costs, and when it beats other options.",
+  "primary_keyword": "purchase order financing",
+  "keywords": [
+    "purchase order financing",
+    "PO financing",
+    "fund supplier costs",
+    "financing confirmed orders",
+    "purchase order funding for small business",
+    "PO financing vs factoring",
+    "pay suppliers upfront",
+    "large order financing"
+  ],
+  "eyebrow": "Funding options",
+  "dek": "You landed the big order but your supplier wants payment first. Purchase order financing bridges that gap, and it works very differently from a loan.",
+  "intro": [
+    "A distributor gets a purchase order for 4,000 units from a retail chain. It is the largest order in the company's history. The catch: the manufacturer wants 50 percent up front and the balance before shipping, while the retailer will pay net-45 after delivery. The business has the customer and the margin, but not the cash to start.",
+    "This is the situation purchase order financing, often called PO financing, was designed for. Instead of funding the business in general, it funds a specific, confirmed order. The order itself is the basis for the deal.",
+    "Below we explain how it works, how fees are typically structured, who it suits, what can go wrong, and how it compares to factoring and working capital. Availability and terms vary by funding partner and by the details of the order."
+  ],
+  "sections": [
+    {
+      "h2": "How PO financing works step by step",
+      "paragraphs": [
+        "Although structures differ, most transactions follow a similar flow. The common thread is that funds are tied to a particular order and a particular supplier, rather than handed to you as general-purpose cash."
+      ],
+      "steps": [
+        "You receive a purchase order from a creditworthy customer.",
+        "You submit the PO and your supplier's quote to a funding partner for review.",
+        "The partner evaluates the customer's credit, the supplier's reliability, and your margin on the deal.",
+        "If approved, funds are paid to the supplier, often directly, so goods can be produced or shipped.",
+        "Goods are delivered and the customer is invoiced.",
+        "The customer pays, and the funding partner takes its fee and any advanced amount from those proceeds, with the remainder going to you."
+      ]
+    },
+    {
+      "h2": "What gets evaluated",
+      "paragraphs": [
+        "Unlike a traditional loan, the decision leans on the transaction rather than only on your credit history. Funding partners commonly look at who your customer is and whether they pay reliably, whether the supplier can deliver on time and to spec, and whether the profit margin is large enough to cover the financing cost and still leave you something.",
+        "Thin-margin orders are the hardest to finance. If your gross margin on the order is 8 percent and the financing fee is 5 percent, there may not be enough left to be worth it. Conversely, margins of 25 to 40 percent leave more room. Partners vary in what they accept."
+      ]
+    },
+    {
+      "h2": "A worked example",
+      "paragraphs": [
+        "Say you resell goods and have a confirmed $100,000 purchase order. Your supplier costs are $65,000, leaving a hypothetical $35,000 gross margin before other costs. A funding partner agrees to pay the supplier $65,000. If the partner charges a fee of, say, 3 percent per 30 days on the funded amount and your customer pays in 60 days, the fee would be roughly $65,000 x 0.03 x 2 = $3,900. After the customer pays $100,000, the partner recovers $65,000 plus $3,900, and you keep about $31,100 before your own overhead. The percentages are purely illustrative; actual pricing varies by funding partner, order, and timing.",
+        "The example shows why speed of payment matters. If the customer pays in 90 days instead of 60, the cost rises. Always ask how fees accrue over time and whether there are minimum fees."
+      ]
+    },
+    {
+      "h2": "Who PO financing fits",
+      "paragraphs": [
+        "It tends to suit resellers, distributors, wholesalers, importers and some product-based startups that sell finished goods to established buyers such as retailers, government agencies or large companies. It is less suited to service businesses, because there is typically no supplier to pay and no physical goods to track."
+      ],
+      "bullets": [
+        "Your customer is creditworthy and the order is confirmed in writing",
+        "Your supplier is established and can deliver as promised",
+        "Your gross margin is healthy enough to absorb financing costs",
+        "You lack the cash or credit to pay the supplier on your own",
+        "The order is larger than anything you have handled before"
+      ]
+    },
+    {
+      "h2": "Risks and trade-offs",
+      "paragraphs": [
+        "PO financing can be more expensive than a conventional loan on an annualized basis, since fees accrue on short timelines. It also introduces dependencies: if the supplier delivers late or defective goods, or the customer disputes the shipment, your payment can be delayed and your costs can climb.",
+        "Some arrangements involve the funding partner collecting directly from your customer, which means your customer learns you used financing. Ask whether the structure is disclosed to the buyer and how that fits your relationship. Also read the contract carefully for personal guarantees, fees for delays and what happens if the order is cancelled."
+      ]
+    },
+    {
+      "h2": "PO financing vs. factoring vs. working capital",
+      "paragraphs": [
+        "Purchase order financing pays for goods before they exist as an invoice. Invoice factoring advances cash against an invoice after you have delivered. Many businesses use both in sequence: PO financing to produce the order, then factoring to speed up payment while waiting for the customer. A general working capital loan or line of credit offers flexibility but depends more heavily on your own financial profile and is not tied to one order. Your options depend on your profile and the partner."
+      ]
+    },
+    {
+      "h2": "Next steps with Fidelity Funding",
+      "paragraphs": [
+        "Fidelity Funding is a broker that connects businesses with funding partners, and depending on your profile and the order, partners may offer order-based structures or alternatives that fit better. A funding specialist can review the numbers, including margin, timing and fees, so you can see whether the order is worth financing. Have the purchase order, the supplier quote and recent bank statements ready, then start the application."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "PO financing funds a specific confirmed order by paying your supplier, not by giving you general-purpose cash.",
+    "Approval leans on your customer's credit, your supplier's reliability and your margin.",
+    "Fees accrue over time, so slower customer payment costs more.",
+    "Many businesses follow PO financing with invoice factoring once goods are delivered."
+  ],
+  "faq": [
+    {
+      "q": "Is purchase order financing a loan?",
+      "a": "It is a transaction-based funding structure rather than a conventional loan. The funding partner usually pays your supplier directly and is repaid from your customer's payment, with a fee. Terms and legal structure vary by partner, so read the agreement closely."
+    },
+    {
+      "q": "Do I need good credit?",
+      "a": "Your own credit is often less central than your customer's credit and your supplier's reliability, though partners still review your business. Requirements vary by funding partner, and approval is never guaranteed. Strong customer credit can offset a thinner owner profile, but expect questions about the supplier and how delivery will be verified."
+    },
+    {
+      "q": "What margins do I need for it to make sense?",
+      "a": "Healthy margins leave room to cover fees and still profit. Very thin margins may not work. Run the numbers using an estimated fee and timeline, and have a specialist review them with you before committing to the order. Fee schedules differ, so ask for a worked example on your actual order."
+    },
+    {
+      "q": "Can service businesses use it?",
+      "a": "It is mostly designed for businesses that buy and resell physical goods. Service firms typically use other tools, such as invoice factoring, working capital loans or lines of credit, depending on their cash flow. A specialist can suggest which tool matches your cash cycle."
+    },
+    {
+      "q": "How is it different from invoice factoring?",
+      "a": "PO financing helps pay for goods before delivery, based on a confirmed order. Invoice factoring advances cash after delivery, based on an issued invoice. They address different points in the cash cycle and are sometimes used one after the other."
+    }
+  ],
+  "related": [
+    "invoice-factoring",
+    "take-on-a-big-order",
+    "inventory-financing",
+    "working-capital-loans",
+    "invoice-factoring-vs-mca",
+    "government-contracts"
+  ],
+  "icon": "file",
+  "read_minutes": 7
+}

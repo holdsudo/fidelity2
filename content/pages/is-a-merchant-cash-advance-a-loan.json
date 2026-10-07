@@ -1,0 +1,97 @@
+{
+  "slug": "is-a-merchant-cash-advance-a-loan",
+  "category": "blog",
+  "title": "Is a Merchant Cash Advance a Loan?",
+  "seo_title": "Is a Merchant Cash Advance a Loan? | Fidelity Funding",
+  "meta_description": "A merchant cash advance is structured as a purchase of future receivables, not a loan. Learn what that means for repayment, risk, regulation and your books.",
+  "primary_keyword": "is a merchant cash advance a loan",
+  "keywords": ["merchant cash advance vs loan", "purchase of future receivables", "MCA legal structure", "MCA factor rate", "MCA reconciliation", "MCA accounting", "cash advance business funding"],
+  "eyebrow": "Funding basics",
+  "dek": "The honest answer is that it depends on who you ask: the contract says no, the cash feels like yes. Here is how the structure really works.",
+  "intro": [
+    "Ask five business owners whether a merchant cash advance is a loan and you will get five answers. Some say yes because they received a lump sum and pay it back with a premium. Others say no because their contract says so. Both are partly right, and the difference matters when you read the paperwork, plan your cash flow or talk to your accountant.",
+    "This article explains how an MCA is structured, why the paperwork calls it a purchase of future receivables rather than a loan, what that changes in practice, and where the label does not change the economics. The goal is to help you compare it fairly with other options, not to sell you on any of them."
+  ],
+  "sections": [
+    {
+      "h2": "What the contract actually says",
+      "paragraphs": [
+        "In a typical MCA agreement, the funding company agrees to buy a specified amount of your future receivables, for example a share of future card sales or deposits, at a discount. You receive the purchase price now, and the company collects the purchased amount over time. The contract commonly states that this is a sale of assets, not a loan, and that the company is not charging interest.",
+        "Because of that structure, the price is expressed as a factor rate rather than an annual percentage rate. Say you receive a $50,000 advance at a 1.30 factor rate. The purchased receivables total $65,000, so total payback is $65,000, and the cost of the funding is $15,000. That is a hypothetical example, and actual factor rates, which are commonly quoted around 1.1 to 1.5, vary by funding partner and underwriting."
+      ]
+    },
+    {
+      "h2": "How repayment differs from a traditional loan",
+      "paragraphs": [
+        "The defining feature of the receivables-purchase structure is that repayment is tied to your revenue. Depending on the agreement, funders collect either a fixed daily or weekly amount through ACH debits, or a percentage of card sales, sometimes called a holdback or split. Many agreements also include a reconciliation provision allowing the payment to be adjusted if your sales fall, though the terms vary and you should read them carefully.",
+        "A bank term loan, in contrast, has a fixed repayment schedule, a stated interest rate and a defined term, and you owe the payment whether or not sales were strong that month. The MCA's risk is shared with the funder in theory, but in practice fixed daily debits can still be heavy during a slow week."
+      ],
+      "bullets": [
+        "Loan: principal plus stated interest, fixed schedule, quoted as APR.",
+        "MCA: purchased receivables at a discount, quoted as a factor rate, with payments linked to sales or set as fixed debits.",
+        "Loan: term measured in months or years.",
+        "MCA: term is often short, commonly months, and varies by agreement."
+      ]
+    },
+    {
+      "h2": "Why the legal label matters, and where it stops mattering",
+      "paragraphs": [
+        "The structure affects which laws apply. Because an MCA is not usually treated as a loan, rules such as state usury limits and certain consumer-style lending disclosures may not apply in the same way. Regulation of commercial financing is evolving, and some states require disclosure of total cost for certain commercial financing products. Rules differ by state, so ask a qualified attorney about your situation.",
+        "Courts have sometimes looked past the label. Factors cited in disputes include whether repayment is truly contingent on your revenue, whether there is a reconciliation right, and whether the term is indefinite. The label alone does not settle the question, and neither does it change what you owe in practical terms, so treat the contract language as what governs."
+      ]
+    },
+    {
+      "h2": "Comparing the true cost apples to apples",
+      "paragraphs": [
+        "Because MCAs use factor rates and loans use APR, owners often compare incorrectly. A factor rate looks small, but the funding may be repaid over a few months. Consider the hypothetical $15,000 cost above: if it is repaid over six months rather than a year, the equivalent annualized cost is higher than the factor suggests.",
+        "The cleanest comparison is total dollars repaid and the time over which you repay them, then what the payment is as a share of your revenue. Ask any funder for the total payback amount, payment amount and frequency, the term, any fees, and whether early payoff is discounted."
+      ]
+    },
+    {
+      "h2": "Accounting and tax questions to ask your CPA",
+      "paragraphs": [
+        "How you record an MCA on your books depends on the agreement and on accounting guidance, and tax treatment can differ from a loan. Some businesses record the obligation as a liability and the premium as a financing cost, while others treat it differently. This is a question for your CPA, who can look at the specific contract.",
+        "It also helps to know how other lenders will view it. A bank reviewing your finances may count the daily debits when assessing your cash flow, which can matter if you later apply for an SBA loan or a line of credit."
+      ]
+    },
+    {
+      "h2": "When an MCA fits, and when to look elsewhere",
+      "paragraphs": [
+        "An MCA tends to suit businesses with steady card or deposit revenue that need cash quickly, may not meet bank requirements, and can comfortably absorb the payment. It tends to be a poor fit when margins are thin, when the funds would not generate a return that covers the premium, or when you already carry several advances.",
+        "Fidelity Funding is a broker, not a direct lender. After a short application and a soft credit pull for the initial review, a funding specialist can walk through MCAs alongside term loans, lines of credit and other options from our funding partners. Terms, amounts and timing vary by partner and underwriting, and nothing is guaranteed. If you are unsure which structure fits, ask for the total payback on each side by side before choosing."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "An MCA is legally structured as a purchase of future receivables, not a loan, though the cash arrives up front and costs more than it receives.",
+    "Cost is expressed as a factor rate, so total payback and repayment time matter more than the headline number.",
+    "Payments can be a percentage of sales or fixed debits, and reconciliation terms vary, so read them closely.",
+    "Legal treatment varies by state, and the label does not always control in a dispute.",
+    "Compare any MCA with other options using total dollars repaid, term and payment as a share of revenue."
+  ],
+  "faq": [
+    {
+      "q": "Is a merchant cash advance considered debt?",
+      "a": "Legally it is usually structured as a sale of receivables rather than a loan, but practically it creates an obligation to remit a fixed amount. How it is recorded in your books and how other lenders view it can vary, so ask your CPA and expect lenders to consider the payments when reviewing your finances."
+    },
+    {
+      "q": "Does an MCA have an interest rate or APR?",
+      "a": "Typically not in the contract. Cost is stated as a factor rate, such as 1.3, applied to the amount advanced to give a total payback. Because the term is often short, the equivalent annualized cost can be high. Compare total dollars repaid and timing rather than the factor alone."
+    },
+    {
+      "q": "Do usury laws apply to merchant cash advances?",
+      "a": "That depends on whether the transaction is treated as a loan, which turns on the contract and the facts, and on state law. Because rules vary and are evolving, talk with a qualified attorney about your agreement. Do not assume that the label in the contract decides the legal question."
+    },
+    {
+      "q": "What happens if my sales drop while I owe an advance?",
+      "a": "It depends on the agreement. Some include a reconciliation clause that lets payments be adjusted to reflect lower receivables, while others use fixed debits. Ask how and when reconciliation works before signing, and contact the funder early if sales fall rather than missing payments."
+    },
+    {
+      "q": "How can Fidelity Funding help me compare an MCA with a loan?",
+      "a": "Fidelity Funding is a broker that connects you with funding partners offering different structures. A funding specialist can review your options after a short application with a soft credit pull for the initial review. Approvals, amounts, terms and timing vary by partner and underwriting, and nothing is guaranteed."
+    }
+  ],
+  "related": ["merchant-cash-advance", "factor-rate-explained", "total-payback-vs-apr", "business-cash-advance-vs-loan", "reconciliation-clause-mca", "how-mca-holdback-works"],
+  "icon": "scale",
+  "read_minutes": 7
+}

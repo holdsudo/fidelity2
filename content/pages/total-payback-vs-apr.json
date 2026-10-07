@@ -1,0 +1,111 @@
+{
+  "slug": "total-payback-vs-apr",
+  "category": "blog",
+  "title": "Total Payback vs. APR: Comparing Funding Offers",
+  "seo_title": "Total Payback vs. APR: Comparing Offers | Fidelity Funding",
+  "meta_description": "APR, factor rates and flat fees do not line up on their own. Learn a step-by-step method to compare business funding offers by total payback and real cost.",
+  "primary_keyword": "total payback vs APR",
+  "keywords": [
+    "compare business funding offers",
+    "APR vs factor rate",
+    "total cost of business loan",
+    "effective cost of funding",
+    "business loan comparison",
+    "cost per dollar borrowed",
+    "true cost of financing"
+  ],
+  "eyebrow": "Offer comparison",
+  "dek": "Two offers can look wildly different on paper and cost nearly the same, or the reverse. Here is a clean method for comparing them.",
+  "intro": [
+    "One offer says 14 percent APR over three years. Another says a 1.18 factor rate with weekly payments. A third has a flat fee and no stated rate at all. They are all legitimate ways to price business funding, and they are almost impossible to compare by eye. Owners who try often fixate on whichever number looks smallest, which is rarely the number that tells the truth.",
+    "The fix is to stop comparing the labels and start comparing the money. Total payback, net funded amount, and time are three things every offer has, regardless of how it is dressed up. Once those are lined up in a table, the right choice usually becomes much easier to see."
+  ],
+  "sections": [
+    {
+      "h2": "Why the headline number misleads",
+      "paragraphs": [
+        "APR is built for a declining balance. It assumes you owe less each month and charges accordingly, expressed as a yearly rate. A factor rate is a single multiplier on the original amount, with no sense of duration. A flat fee is a single charge with no sense of either. Putting 14 percent next to 1.18 and asking which is smaller is like comparing miles to minutes.",
+        "There is a second trap: APR and factor rates can both be accurate and still hide something. A low rate with a large origination fee, or a long term with a prepayment penalty, can cost more than a higher rate with fewer strings. That is why the full picture needs several columns, not one."
+      ]
+    },
+    {
+      "h2": "The four numbers every offer must give you",
+      "paragraphs": [
+        "Before you compare anything, get these four figures in writing for each option. If a funder cannot provide them, that is information in itself."
+      ],
+      "bullets": [
+        "Net funded amount: what actually reaches your bank account after fees",
+        "Total payback: every dollar you will repay across the full term",
+        "Payment schedule: amount, frequency (daily, weekly, monthly) and number of payments",
+        "Term: how long until the obligation ends if payments go as planned"
+      ]
+    },
+    {
+      "h2": "A worked side-by-side example",
+      "paragraphs": [
+        "Say you need about $60,000. Offer A is a term-style product: you receive $59,000 after a $1,000 fee, repay $2,100 monthly for 36 months, and your total payback is $75,600. Offer B is an advance: you receive $60,000 with no separate fee, the factor is 1.20, total payback is $72,000, and you repay roughly $2,770 weekly over about six months. These numbers are hypothetical.",
+        "Offer B has the lower total payback by $3,600, which makes it look cheaper. But the cost of $12,000 is incurred over six months for B, while A's $16,600 is spread across three years. Per year of use, B is much more expensive, and its weekly payment of $2,770 will weigh on cash flow far more than A's $2,100 a month. The cheaper total is not the cheaper deal, which is exactly why you need both views."
+      ]
+    },
+    {
+      "h2": "Cost per dollar, per year",
+      "paragraphs": [
+        "A handy equalizer is cost per dollar borrowed per year. Take the cost of funding (total payback minus net funded), divide by the net funded amount, then divide by the term in years. For Offer A, $16,600 divided by $59,000 is about 0.28, over three years is roughly 9 percent per year. For Offer B, $12,000 divided by $60,000 is 0.20, over half a year is roughly 40 percent per year.",
+        "This is an approximation and is not a legal APR. Because balances shrink as you pay, true APR on both would be higher. But it is consistent across offers, so the ranking is meaningful even if the precise figure is not. A funding specialist can walk you through an exact calculation if the stakes are high."
+      ]
+    },
+    {
+      "h2": "What the spreadsheet cannot show",
+      "paragraphs": [
+        "Cost is only half of a decision. Speed, flexibility and risk matter too, and sometimes they should win. If a repair has to be done this week to keep a revenue-producing machine running, a faster product at a higher cost can be the rational pick. If you are building something that pays back slowly, cheaper long-term money fits better.",
+        "Check the fine print for items that change the math: personal guarantees, UCC liens, early payoff discounts or penalties, reconciliation provisions that adjust payments when sales fall, and whether renewal is encouraged before the current balance is paid down."
+      ]
+    },
+    {
+      "h2": "Putting it into a simple comparison table",
+      "paragraphs": [
+        "Open a sheet with one column per offer and rows for net funded, total payback, cost, term, payment size, payment frequency, annualized cost estimate, fees, collateral or liens, and early payoff terms. Add a final row labeled \"what could go wrong,\" and fill it in honestly, for example a slow month or a delayed customer payment.",
+        "When you work with Fidelity Funding, your specialist reviews options from different funding partners with you and can help populate that table so the comparison stays honest. If you already hold offers from elsewhere, share them during your call and ask for help translating them into the same terms. Taking an hour to compare in dollars is far cheaper than living with a payment that does not fit your cash flow."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Compare net funded, total payback, payment schedule and term, not headline rates.",
+    "A lower total payback can still be the more expensive product per year of use.",
+    "Annualize the cost to put different pricing formats on one scale.",
+    "Weigh payment size against your actual cash flow, not just cost.",
+    "Read for liens, guarantees, early payoff and reconciliation terms."
+  ],
+  "faq": [
+    {
+      "q": "Which is better, a low APR or a low total payback?",
+      "a": "Neither alone. APR reflects the annual cost of holding the money, while total payback shows the dollars you hand over. A short product can have a small payback but a high annualized cost. Look at both, plus payment size and how fast you need the funds. A specialist can help you weigh them."
+    },
+    {
+      "q": "How do I convert a factor rate to an APR?",
+      "a": "Estimate it by dividing the cost of funding by the net amount received, then adjusting for the term in years. This gives an approximation, since true APR accounts for balances shrinking over time. Ask the funder or a specialist for an exact figure when you need one for budgeting or lender comparison."
+    },
+    {
+      "q": "Do origination fees count in the comparison?",
+      "a": "Yes. Fees reduce the amount you actually receive while leaving the payback unchanged, so they raise your real cost. Always compare using net funded amount rather than the headline advance. Some fees are added on top instead of deducted, so confirm which way each offer handles them."
+    },
+    {
+      "q": "Why do daily and weekly payments matter in a comparison?",
+      "a": "Frequent payments pull money from your account before the end of the month, which can strain cash flow even when the total cost looks reasonable. Match the payment rhythm to when your revenue actually arrives, and check that your lowest-balance days can absorb it."
+    },
+    {
+      "q": "Can Fidelity Funding help me compare offers I already have?",
+      "a": "Often, yes. Fidelity Funding is a broker, so a funding specialist can walk through offers from our network of funding partners with you and help translate competing terms into total dollars. Terms and availability vary by partner and underwriting. Details vary by funding partner and product, so confirm the specifics before you decide."
+    }
+  ],
+  "related": [
+    "factor-rate-explained",
+    "how-to-compare-funding-offers",
+    "business-cash-advance-vs-loan",
+    "short-term-business-loans",
+    "questions-to-ask-a-funder",
+    "funding-roi-calculation"
+  ],
+  "icon": "scale",
+  "read_minutes": 6
+}

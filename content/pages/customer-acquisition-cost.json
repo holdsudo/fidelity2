@@ -1,0 +1,115 @@
+{
+  "slug": "customer-acquisition-cost",
+  "title": "Customer Acquisition Cost and Payback",
+  "seo_title": "Customer Acquisition Cost and Payback | Fidelity Funding",
+  "meta_description": "Know what a new customer really costs and how long they take to pay it back. Learn CAC, payback and lifetime value before you fund a marketing push.",
+  "primary_keyword": "customer acquisition cost",
+  "keywords": [
+    "CAC calculation",
+    "CAC payback period",
+    "customer lifetime value",
+    "marketing ROI small business",
+    "cost per lead",
+    "fund marketing campaign",
+    "LTV to CAC"
+  ],
+  "eyebrow": "Marketing math",
+  "dek": "Before you spend borrowed money on advertising, find out what a customer costs and how many months it takes to earn that cost back.",
+  "intro": [
+    "Marketing is the use of funding owners are most excited about and least prepared to measure. Money goes into ads, signage, a new website or a sales rep, and a few weeks later the phone rings more. It feels like it worked. Whether it actually worked, in the sense that each dollar produced more than a dollar of profit, is a different question that requires numbers.",
+    "Customer acquisition cost, or CAC, is the starting point. Paired with payback period and lifetime value, it tells you whether a marketing push is a good use of money, especially money you must repay. This guide explains how to calculate each figure with a small-business lens, works through an example and shows how to use it when deciding on funding. These are planning tools, not guarantees of results."
+  ],
+  "sections": [
+    {
+      "h2": "What CAC is, and what goes into it",
+      "paragraphs": [
+        "CAC is the total cost of winning new customers in a period divided by the number of new customers won in that period. The numerator should include ad spend, agency or freelancer fees, marketing software, commissions or salary for sales staff, and any discounts or free offers used to close the deal.",
+        "Say you spend $4,500 on advertising, $1,200 on a part-time marketer and $300 on tools in a month, and you win 30 new customers. Total cost is $6,000 and CAC is $200 per customer. Owners often forget their own time and discounts, which makes CAC look better than it is.",
+        "Be consistent about the period. A campaign that runs in March may produce customers in April or May, so match spend to the customers it eventually produces, or use a rolling quarter to smooth out the lag between spending and winning."
+      ]
+    },
+    {
+      "h2": "Cost per lead is not CAC",
+      "paragraphs": [
+        "A lead is an inquiry. A customer is someone who pays. If you spend $6,000 and get 120 leads, your cost per lead is $50. If one in four becomes a customer, you have 30 customers and a $200 CAC. Improving close rate can lower CAC as effectively as improving the ad.",
+        "Track the whole funnel: impressions, clicks, leads, quotes, closed sales. A weak step tells you where to fix things, whether that is the ad, the website, the response time or the sales conversation."
+      ]
+    },
+    {
+      "h2": "Payback period",
+      "paragraphs": [
+        "Payback period is how long it takes the gross profit from a new customer to recover the CAC. It uses gross profit, not revenue, because revenue still has to cover the cost of delivering the product or service.",
+        "If the average customer generates $90 of gross profit in the first month and $60 of gross profit monthly after that, the $200 CAC is recovered in about two and a half months. A short payback means the cash returns quickly and can be reinvested. A long payback means the business is financing its customers, which strains working capital."
+      ]
+    },
+    {
+      "h2": "Lifetime value and the ratio",
+      "paragraphs": [
+        "Customer lifetime value, or LTV, estimates the total gross profit a customer will produce over the relationship. A simple version multiplies average gross profit per period by the average number of periods a customer stays. If a customer stays an average of 18 months at $60 gross profit per month, LTV is about $1,080.",
+        "Comparing LTV to CAC shows how much room you have. Rules of thumb exist, but they vary by industry, and what matters is that LTV comfortably exceeds CAC after accounting for how long you must wait. Use your own conservative data rather than a benchmark, and recalculate as results come in.",
+        "Remember that LTV is an estimate. A business with only a year of data cannot know a five-year customer lifetime, so use conservative assumptions and update them as real behavior comes in. Overestimating lifetime value is the most common way CAC math goes wrong."
+      ]
+    },
+    {
+      "h2": "Using CAC to decide on a marketing push",
+      "paragraphs": [
+        "Before you scale spend, run a test and watch the numbers. A short checklist:",
+        "Keep in mind capacity as well. A campaign that fills the calendar before you have staff to serve customers damages reviews and referrals, raising your effective CAC later."
+      ],
+      "steps": [
+        "Calculate CAC by channel, not just overall, since channels differ widely.",
+        "Confirm the payback period fits your cash. If payback is six months, you must fund six months of customers up front.",
+        "Start with a small budget, then increase it only while CAC holds steady.",
+        "Track repeat purchases and referrals, which lower the effective CAC.",
+        "Re-run the math monthly, because costs drift as you saturate a channel."
+      ]
+    },
+    {
+      "h2": "When funding marketing makes sense",
+      "paragraphs": [
+        "Marketing funded with borrowed money has to earn back both its own cost and the financing cost. That can work when you have a proven channel with a known CAC and fast payback, and you are limited by cash rather than by demand. It works poorly when the channel is unproven or the payback is long.",
+        "If the numbers hold up, Fidelity Funding can connect you with funding partners offering working capital options. After a short application and a soft credit pull for the initial review, a specialist helps you consider what fits. Terms vary by funding partner and underwriting, so factor total payback into your CAC math and talk to your CPA about how marketing spend is treated for tax purposes."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "CAC equals total acquisition cost divided by new customers won.",
+    "Include sales time, tools, discounts and fees, not just ad spend.",
+    "Payback uses gross profit, not revenue.",
+    "LTV should comfortably exceed CAC after accounting for time.",
+    "Fund marketing only when a channel is proven and payback is quick."
+  ],
+  "faq": [
+    {
+      "q": "How do I calculate customer acquisition cost?",
+      "a": "Add up everything you spent to win new customers in a period, including advertising, software, agency fees, commissions and discounts, then divide by the number of new customers. Track it by channel so you can see which sources are efficient and which are not."
+    },
+    {
+      "q": "What is a good CAC payback period?",
+      "a": "It depends on your industry and cash position. Shorter payback frees cash faster and reduces the amount you need to finance. Calculate it using gross profit, and make sure the business can fund new customers for the full payback period without straining payroll or inventory."
+    },
+    {
+      "q": "What is the difference between CAC and cost per lead?",
+      "a": "A lead is someone who inquires, while a customer is someone who buys. Cost per lead divides spend by inquiries; CAC divides spend by paying customers. Improving your close rate lowers CAC even if the cost per lead does not change."
+    },
+    {
+      "q": "Should I borrow money for advertising?",
+      "a": "Only when you have a proven channel with a known CAC and a quick payback, and the extra profit exceeds the cost of funding. Unproven channels are risky to fund with debt. Talk to your CPA and test with a small budget first."
+    },
+    {
+      "q": "How does repeat business affect CAC?",
+      "a": "Repeat customers and referrals spread one acquisition cost across more revenue, improving lifetime value and effective payback. Track repeat rate and referral sources, and consider marketing to existing customers, which is typically cheaper than finding new ones from scratch. Test small."
+    }
+  ],
+  "related": [
+    "marketing-and-advertising",
+    "funding-roi-calculation",
+    "website-and-ecommerce",
+    "pricing-for-profit",
+    "gross-margin-vs-net-margin",
+    "hire-a-sales-team"
+  ],
+  "icon": "target",
+  "read_minutes": 7,
+  "category": "blog"
+}

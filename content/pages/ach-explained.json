@@ -1,0 +1,114 @@
+{
+  "slug": "ach-explained",
+  "title": "How ACH Payments Work for Businesses",
+  "seo_title": "How ACH Payments Work for Businesses | Fidelity Funding",
+  "meta_description": "ACH moves money between bank accounts, but timing, returns and authorizations catch owners off guard. Learn how debits and credits work and how to plan cash.",
+  "primary_keyword": "how ACH payments work",
+  "keywords": [
+    "ACH debit",
+    "ACH credit",
+    "ACH return codes",
+    "same-day ACH",
+    "ACH authorization",
+    "NACHA rules",
+    "ACH repayment business funding"
+  ],
+  "eyebrow": "Payments",
+  "dek": "ACH is the quiet workhorse behind payroll, vendor payments and many funding repayments. Know how it moves money and why timing matters.",
+  "intro": [
+    "Most owners use ACH every week without thinking about it. Payroll direct deposits, tax payments, utility bills, vendor payments and customer subscriptions often travel over the Automated Clearing House network. It is cheap, reliable and largely invisible, which is exactly why it causes confusion the one time something goes wrong: a debit lands on a Friday you did not expect, a payment bounces, or a deposit shows as pending for days.",
+    "This guide explains what ACH is, how credits and debits differ, how long things take, what return codes mean and how to plan cash around the schedule. It also covers why ACH matters when you take on funding with scheduled repayments. General information only; your bank can explain its own cutoff times and fees."
+  ],
+  "sections": [
+    {
+      "h2": "What ACH is",
+      "paragraphs": [
+        "ACH is an electronic network that moves money between U.S. bank accounts in batches. It is governed by rules set by Nacha, the organization that manages the network, and operated through the Federal Reserve and The Clearing House. Instead of money moving one transaction at a time, banks collect payments and send them in batches at set times, which is why settlement is not instant.",
+        "There is no card network in the middle, which is part of why ACH is inexpensive compared to card payments. The tradeoff is speed and the way errors are handled, since returns can arrive days after a payment appears to have gone through."
+      ]
+    },
+    {
+      "h2": "Credits versus debits",
+      "paragraphs": [
+        "An ACH credit is a push: the sender initiates the payment and sends money to the receiver. Payroll direct deposit and paying a vendor from your bank portal are credits. An ACH debit is a pull: the receiver initiates and withdraws money from the payer's account, with the payer's authorization. Utility autopay, subscription billing and many loan or funding repayments are debits.",
+        "The distinction matters for control. With a credit, you decide when to send. With a debit, someone else pulls on a schedule, so you must make sure the balance is there. That is why overdrafts and returned items usually involve debits.",
+        "Many business accounts also have ACH debit blocks and filters. If you want to control who can pull money from your account, ask your bank to restrict debits to approved company IDs. That protects against unauthorized pulls, but it also means a new legitimate debit, such as a funding repayment, must be added to the approved list or it will be rejected."
+      ]
+    },
+    {
+      "h2": "How long ACH takes",
+      "paragraphs": [
+        "Standard ACH historically settled in one to three business days, depending on cutoff times and the banks involved. Same-day ACH exists and, for eligible payments submitted before the daily cutoffs, can settle the same business day, though banks may charge extra for it. Weekends and federal holidays do not process, which compresses the calendar around them.",
+        "A payment submitted late on a Friday may not settle until the following Tuesday if Monday is a bank holiday. Funds posted as available can differ from funds fully settled, so understand how your bank treats incoming ACH credits."
+      ]
+    },
+    {
+      "h2": "Returns, NSF and unauthorized debits",
+      "paragraphs": [
+        "If an ACH debit cannot be paid, it is returned with a reason code. Common reasons include insufficient funds (often shown as R01), a closed account (R02), no account found (R03) and a stop payment (R08). Consumers have longer windows to dispute an unauthorized debit than businesses do, and the time limits differ, so check your bank's rules for business accounts.",
+        "A returned debit can mean a fee from your bank, a fee from the originator and potential consequences under your agreement. If you are paying through ACH debit, a short balance for even one day can ripple.",
+        "Some businesses collect from customers by ACH instead of cards to avoid card fees. That works well for recurring invoices, but remember a customer's ACH payment can still be returned days later, so treat it as cleared only after the return window passes."
+      ]
+    },
+    {
+      "h2": "Planning your cash around ACH",
+      "paragraphs": [
+        "A few habits keep ACH from surprising you:"
+      ],
+      "bullets": [
+        "Keep a calendar of recurring debits and their amounts, including funding repayments, insurance, software and utilities.",
+        "Maintain a buffer in the account that receives debits, rather than running it near zero.",
+        "Remember bank holidays when scheduling payroll and tax payments.",
+        "Set up bank alerts for large debits and low balances.",
+        "Review authorizations periodically and cancel ones you no longer need."
+      ]
+    },
+    {
+      "h2": "ACH and business funding repayments",
+      "paragraphs": [
+        "Many funding products collect repayment by ACH debit from your business bank account, daily, weekly or monthly. Say a repayment is $450 per business day. Over a five-day week that is $2,250 leaving the account, and it needs to be covered regardless of whether your deposits arrived that day. Payment timing, deposit timing and bank holidays interact, so test the schedule against your actual weekly cash pattern.",
+        "Fidelity Funding connects businesses with funding partners, and a specialist can walk through how repayments are collected on any offer. Ask which account is debited, how often, what happens on a holiday and what happens if a debit fails. Terms vary by funding partner and underwriting. If you also accept cards, Fidelity's card-processing partner, PayPilot by MCCPS, offers statement review and competitive pricing, and the timing of card settlements into your account is part of the same cash planning picture."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "ACH moves money in batches between bank accounts, so it is not instant.",
+    "Credits push money out; debits pull money in with authorization.",
+    "Holidays and weekends stretch settlement times.",
+    "Returns can arrive days later and carry fees.",
+    "Plan a buffer for scheduled debits, including funding repayments."
+  ],
+  "faq": [
+    {
+      "q": "How long does an ACH payment take?",
+      "a": "Standard ACH typically settles in one to three business days, while same-day ACH can settle on the same business day if submitted before cutoffs. Weekends and bank holidays do not process, so plan around them and check your bank's cutoff times and fees."
+    },
+    {
+      "q": "What is the difference between an ACH debit and an ACH credit?",
+      "a": "A credit is a push, where the sender initiates a payment to the receiver, such as payroll. A debit is a pull, where the receiver withdraws funds from the payer's account with authorization, such as autopay or scheduled repayments. Debits require you to keep enough balance."
+    },
+    {
+      "q": "What happens if an ACH debit fails?",
+      "a": "It is returned with a reason code, such as insufficient funds. You may owe fees to your bank and the originator, and your agreement may include consequences for failed payments. Contact the originator quickly if you expect a shortfall rather than waiting."
+    },
+    {
+      "q": "Is ACH cheaper than accepting cards?",
+      "a": "Often yes, because ACH has no card network interchange. But customers must provide bank details and the payment is slower and can be returned later. For card acceptance, Fidelity's partner PayPilot by MCCPS can review your statement and quote competitive pricing."
+    },
+    {
+      "q": "Can I stop an ACH debit?",
+      "a": "You can typically revoke authorization with the originator and ask your bank about a stop payment, but your contract obligations continue. Do not cancel a funding repayment debit without talking to the funding partner, since that may be treated as a default."
+    }
+  ],
+  "related": [
+    "daily-vs-weekly-payments",
+    "how-mca-holdback-works",
+    "nsf-and-negative-days",
+    "business-bank-account-tips",
+    "credit-card-processing-fees-explained",
+    "business-cash-flow-forecasting"
+  ],
+  "icon": "bolt",
+  "read_minutes": 7,
+  "category": "blog"
+}

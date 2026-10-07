@@ -1,0 +1,119 @@
+{
+  "slug": "factor-rate-explained",
+  "category": "blog",
+  "title": "What Is a Factor Rate? MCA Pricing Explained",
+  "seo_title": "What Is a Factor Rate? MCA Pricing Explained | Fidelity Funding",
+  "meta_description": "A factor rate is a fixed multiplier that sets what you repay on a merchant cash advance. Learn to calculate total payback and why it is not an APR.",
+  "primary_keyword": "factor rate",
+  "keywords": [
+    "what is a factor rate",
+    "factor rate vs interest rate",
+    "merchant cash advance factor rate",
+    "how to calculate factor rate",
+    "factor rate to APR",
+    "MCA total payback",
+    "typical factor rates"
+  ],
+  "eyebrow": "Pricing basics",
+  "dek": "A factor rate is a simple multiplier, not an interest rate. Here is how to turn it into dollars and compare it fairly with other offers.",
+  "intro": [
+    "You get an offer for a merchant cash advance and the pricing line says \"1.32.\" No percent sign, no APR, no mention of years. If you are used to bank loans, that single number looks strangely small and strangely opaque at the same time. It is a factor rate, and once you know what it multiplies, it is actually one of the more straightforward pricing formats in business funding.",
+    "The trouble is that a factor rate is easy to misread. Owners sometimes treat 1.32 as if it were 32 percent interest, or as if it were a tiny 1.32 percent charge. Neither is right. This guide walks through what the number really means, how to convert it into total payback, and why it cannot be compared directly with an APR without a bit of extra work."
+  ],
+  "sections": [
+    {
+      "h2": "What a factor rate actually is",
+      "paragraphs": [
+        "A factor rate is a fixed multiplier applied once to the amount of funding you receive. Multiply the advance by the factor and you get the total amount you agree to repay. There is no compounding and no interest accruing day by day on a declining balance. The cost is set at the moment you sign.",
+        "Factor rates on merchant cash advances are commonly quoted somewhere around 1.1 to 1.5, but where an individual offer lands varies by funding partner, the strength of your deposits, your time in business, and how much risk the underwriter sees. Treat any range you read online, including this one, as a rough orientation rather than a promise of what you will be offered."
+      ]
+    },
+    {
+      "h2": "Turning the multiplier into dollars",
+      "paragraphs": [
+        "The math is one line. Total payback equals the advance amount times the factor rate. The cost of the funding is the total payback minus the advance. Here is a clearly hypothetical example: say you take a $50,000 advance at a 1.30 factor rate. Total payback is $65,000, and the cost of the money is $15,000.",
+        "Most offers also list a fee, such as an origination or underwriting charge, that is either deducted from the advance or added on top. If $1,500 is withheld from that $50,000, you receive $48,500 in your account but still owe $65,000. That is why the number to focus on is what lands in the bank compared with what leaves it over the term."
+      ],
+      "bullets": [
+        "Advance amount: the headline funding figure",
+        "Net funded: the advance minus any fees taken out of it",
+        "Total payback: advance times the factor rate",
+        "Cost of funding: total payback minus the net amount you actually received"
+      ]
+    },
+    {
+      "h2": "Why a factor rate is not an APR",
+      "paragraphs": [
+        "APR expresses cost as a yearly percentage and accounts for how long you hold the money. A factor rate says nothing about time. Take that same $65,000 payback. If you repay it over twelve months, the funding is comparatively cheap per day. If you repay it over four months, the identical factor rate hides a much higher annualized cost, because you gave the funder the same dollars of profit in a third of the time.",
+        "Because MCAs are typically repaid through daily or weekly remittances that shrink the balance quickly, the effective annualized figure can look large when converted. That does not automatically make the product wrong for you. A short, fast-moving purchase that pays for itself in weeks can justify a high annualized cost, while a long-term improvement usually should not be financed this way."
+      ]
+    },
+    {
+      "h2": "A rough way to estimate the annualized cost",
+      "paragraphs": [
+        "You do not need a finance degree to get a ballpark. Divide the cost of funding by the net amount you received, then scale it by how many times the term fits into a year. Using the example, say you net $48,500, the cost is $16,500 including the fee, and you repay across six months. The cost is about 34 percent of what you received. Two six-month periods fit in a year, so the rough annualized figure is around 68 percent.",
+        "Because the balance is being paid down throughout the term, a true APR calculation would come out higher than this shortcut. Use the estimate only to build intuition, and ask the funder or a specialist to show you the full numbers if you need an exact figure for budgeting or for comparing against a term loan."
+      ]
+    },
+    {
+      "h2": "What moves the factor rate up or down",
+      "paragraphs": [
+        "Funding partners price risk. Several inputs usually influence where your factor rate lands, and some of them are in your hands before you apply."
+      ],
+      "bullets": [
+        "Consistent monthly deposits and a healthy average daily balance",
+        "Few or no NSF fees and negative-balance days on your statements",
+        "Longer time in business",
+        "Whether you already carry other advances or loans",
+        "Advance size relative to monthly revenue",
+        "Term length and the remittance schedule you choose"
+      ]
+    },
+    {
+      "h2": "Questions to ask before you accept a factor rate",
+      "paragraphs": [
+        "A good offer sheet makes the cost visible. If something is unclear, ask for it in writing before you sign.",
+        "Ask for the total payback in dollars, the net amount you will receive, the expected remittance amount and frequency, and whether there is any discount for paying early. Ask whether the factor rate changes if the term runs longer than expected, and whether the agreement includes a reconciliation provision if your sales dip. When you apply through Fidelity Funding, a funding specialist can lay several partner offers side by side in plain dollars so you are not decoding multipliers alone. If you are weighing a factor-rate product against something with a stated APR, take a few minutes to talk it through with a specialist before you commit."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A factor rate is a one-time multiplier: advance times factor equals total payback.",
+    "It is not an APR, and it ignores how fast you repay.",
+    "Always compare net funded amount against total payback in dollars.",
+    "Faster repayment at the same factor means a higher annualized cost.",
+    "Ask about fees, early payoff and reconciliation before signing."
+  ],
+  "faq": [
+    {
+      "q": "Is a 1.3 factor rate the same as 30 percent interest?",
+      "a": "Not really. A 1.3 factor means you repay 1.3 times the advance, so the cost is 30 percent of the advance in total. But interest rates are annual and decline with the balance, while a factor rate is a flat charge. Depending on how quickly you repay, the equivalent APR could be far higher or lower than 30 percent. Treat the factor as a flat dollar cost rather than an annual percentage, and compare it using total payback."
+    },
+    {
+      "q": "How do I calculate total payback from a factor rate?",
+      "a": "Multiply the advance amount by the factor rate. For example, a $40,000 advance at 1.25 means $50,000 in total payback. Then subtract the advance, and any fees taken from it, to see the real cost. Divide total payback by your remittance schedule to see the expected daily or weekly payment."
+    },
+    {
+      "q": "What is a typical factor rate for a merchant cash advance?",
+      "a": "Commonly quoted factor rates fall roughly between 1.1 and 1.5, but they vary by funding partner, your deposits, time in business and existing obligations. A specific offer depends on underwriting, so a range is only a general guide and not a guarantee of what you will receive."
+    },
+    {
+      "q": "Does the factor rate go down if I pay early?",
+      "a": "Usually not automatically. Because the payback is fixed, paying sooner often saves nothing unless the contract includes an early payoff discount. This is worth asking about before you sign, since some agreements offer a reduction and many do not. Details vary by funding partner and product, so confirm the specifics before you decide."
+    },
+    {
+      "q": "Can I compare a factor rate to a business loan APR?",
+      "a": "Only after converting. Work out total cost in dollars, the net you receive and the repayment period, then estimate an annualized figure for the factor-rate product. A funding specialist can help put offers on the same footing so you can judge cost against speed and flexibility."
+    }
+  ],
+  "related": [
+    "total-payback-vs-apr",
+    "how-mca-holdback-works",
+    "merchant-cash-advance",
+    "how-to-compare-funding-offers",
+    "early-payoff-discounts",
+    "business-cash-advance-vs-loan"
+  ],
+  "icon": "dollar",
+  "read_minutes": 6
+}

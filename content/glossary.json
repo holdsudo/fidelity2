@@ -1,0 +1,257 @@
+[
+{
+"term": "ACH (Automated Clearing House)",
+"def": "The US electronic network that moves money between bank accounts. Most funding payments are collected by ACH debit on a daily, weekly or monthly schedule.",
+"url": "/blog/ach-explained/"
+},
+{
+"term": "APR (Annual Percentage Rate)",
+"def": "The yearly cost of borrowing expressed as a percentage, including interest and certain fees. Useful for comparing loans; MCAs are not loans and are usually quoted with a factor rate instead.",
+"url": "/blog/total-payback-vs-apr/"
+},
+{
+"term": "Advance amount",
+"def": "The lump sum you receive from a merchant cash advance before any fees are deducted.",
+"url": "/funding/merchant-cash-advance/"
+},
+{
+"term": "Amortization",
+"def": "Paying off a loan through scheduled payments that cover both interest and principal, so the balance reaches zero at the end of the term.",
+"url": "/funding/business-term-loans/"
+},
+{
+"term": "Average daily balance",
+"def": "The average amount in your business bank account each day over a statement period. Underwriters use it to gauge cushion and payment capacity.",
+"url": "/blog/bank-statements-underwriters-review/"
+},
+{
+"term": "Bank statement underwriting",
+"def": "Approving funding mainly from recent business bank statements \u2014 deposits, balances and activity \u2014 rather than tax returns or financial statements.",
+"url": "/blog/bank-statement-loans-explained/"
+},
+{
+"term": "Broker",
+"def": "A company that connects businesses with funding partners and helps compare offers, rather than lending its own money. Fidelity Funding is a broker.",
+"url": "/blog/what-is-a-funding-broker/"
+},
+{
+"term": "Business line of credit",
+"def": "A revolving credit limit you can draw from as needed, paying interest only on what you use and regaining access as you repay.",
+"url": "/funding/business-line-of-credit/"
+},
+{
+"term": "Cash conversion cycle",
+"def": "How long cash is tied up between paying for inventory or labor and collecting from customers: days inventory + days receivable \u2212 days payable.",
+"url": "/blog/cash-conversion-cycle/"
+},
+{
+"term": "Chargeback",
+"def": "A card transaction reversed by the customer's bank after a dispute. Frequent chargebacks raise processing costs and can concern underwriters.",
+"url": "/blog/reduce-chargebacks/"
+},
+{
+"term": "Collateral",
+"def": "An asset pledged to secure financing, which the funder can claim if you don't repay \u2014 for example, the equipment in an equipment loan.",
+"url": "/funding/equipment-financing/"
+},
+{
+"term": "Confession of judgment",
+"def": "A contract clause in which a borrower agrees in advance to a court judgment if they default. Its enforceability varies by state; read contracts carefully and consult an attorney.",
+"url": "/blog/confession-of-judgment/"
+},
+{
+"term": "Consolidation",
+"def": "Combining several advances or loans into one, usually to reduce the number or size of payments. It can lower or raise total cost depending on terms.",
+"url": "/funding/mca-consolidation/"
+},
+{
+"term": "Cost of capital",
+"def": "The total dollar cost of funding: what you repay minus what you actually receive.",
+"url": "/tools/funding-calculator/"
+},
+{
+"term": "Credit utilization",
+"def": "How much of your available credit you're using. Lower utilization generally helps credit scores.",
+"url": "/blog/business-credit-score-basics/"
+},
+{
+"term": "Debt service coverage ratio (DSCR)",
+"def": "Cash available for debt payments divided by required debt payments. A DSCR above 1.0 means income covers payments.",
+"url": "/blog/debt-service-coverage-ratio/"
+},
+{
+"term": "EIN (Employer Identification Number)",
+"def": "The IRS tax ID for a business, used on funding applications in place of an owner's SSN for the business itself.",
+"url": "/blog/ein-and-business-structure/"
+},
+{
+"term": "Early payoff discount",
+"def": "A reduction in the remaining balance offered by some MCA funders if you repay early. Not every contract includes one \u2014 ask before signing.",
+"url": "/blog/early-payoff-discounts/"
+},
+{
+"term": "Effective rate (processing)",
+"def": "Total card-processing fees divided by total card volume for a period \u2014 the clearest measure of what accepting cards costs you.",
+"url": "/tools/processing-fee-calculator/"
+},
+{
+"term": "Equipment financing",
+"def": "Financing for vehicles, machinery or technology where the equipment typically serves as collateral.",
+"url": "/funding/equipment-financing/"
+},
+{
+"term": "Factor rate",
+"def": "A multiplier used to price merchant cash advances. Advance \u00d7 factor rate = total payback; a $50,000 advance at 1.30 repays $65,000.",
+"url": "/blog/factor-rate-explained/"
+},
+{
+"term": "Factoring (invoice)",
+"def": "Selling unpaid customer invoices to a factoring company for an immediate advance, minus a fee.",
+"url": "/funding/invoice-factoring/"
+},
+{
+"term": "Hard credit pull",
+"def": "A credit inquiry that can affect your credit score, usually performed when you move forward with a specific funder.",
+"url": "/blog/soft-pull-vs-hard-pull/"
+},
+{
+"term": "Holdback",
+"def": "The percentage of daily card sales withheld to repay a merchant cash advance in split-funding arrangements.",
+"url": "/blog/how-mca-holdback-works/"
+},
+{
+"term": "Interchange",
+"def": "The fee card-issuing banks charge on each card transaction \u2014 the largest part of processing costs, set by the card networks.",
+"url": "/blog/interchange-plus-vs-flat-rate/"
+},
+{
+"term": "Interchange-plus pricing",
+"def": "A processing pricing model that passes interchange through at cost and adds a disclosed markup, making true costs easier to see.",
+"url": "/blog/interchange-plus-vs-flat-rate/"
+},
+{
+"term": "Merchant cash advance (MCA)",
+"def": "A purchase of a portion of your future sales for an upfront lump sum, repaid through a share of receipts or fixed ACH debits.",
+"url": "/funding/merchant-cash-advance/"
+},
+{
+"term": "Merchant statement",
+"def": "The monthly report from your card processor showing volume, transactions and every fee charged.",
+"url": "/blog/read-your-merchant-statement/"
+},
+{
+"term": "NSF (non-sufficient funds)",
+"def": "A payment returned because the account didn't have enough money. Frequent NSFs can weaken a funding application.",
+"url": "/blog/nsf-and-negative-days/"
+},
+{
+"term": "Negative days",
+"def": "Days your business bank account balance falls below zero. Underwriters watch them closely.",
+"url": "/blog/nsf-and-negative-days/"
+},
+{
+"term": "Net proceeds",
+"def": "The amount that actually reaches your account after origination or other upfront fees are subtracted.",
+"url": "/tools/compare-offers/"
+},
+{
+"term": "Origination fee",
+"def": "An upfront fee charged for setting up financing, often deducted from the amount funded.",
+"url": "/blog/hidden-processing-fees/"
+},
+{
+"term": "PCI DSS",
+"def": "The Payment Card Industry Data Security Standard \u2014 security requirements for any business that accepts card payments.",
+"url": "/blog/pci-compliance-basics/"
+},
+{
+"term": "Personal guarantee",
+"def": "A promise by a business owner to be personally responsible for repaying business funding if the business can't.",
+"url": "/blog/personal-guarantee-explained/"
+},
+{
+"term": "Position",
+"def": "An MCA's place in line when a business has more than one advance \u2014 first position, second position, and so on.",
+"url": "/blog/mca-stacking-risks/"
+},
+{
+"term": "Prepayment penalty",
+"def": "A fee some loans charge if you repay early. Ask whether one applies before you sign.",
+"url": "/blog/questions-to-ask-a-funder/"
+},
+{
+"term": "Purchase order financing",
+"def": "Funding that pays your supplier so you can fulfill a confirmed customer order.",
+"url": "/funding/purchase-order-financing/"
+},
+{
+"term": "Reconciliation",
+"def": "A contract provision allowing MCA payments to be adjusted to reflect actual sales if revenue drops.",
+"url": "/blog/reconciliation-clause-mca/"
+},
+{
+"term": "Renewal",
+"def": "Additional funding offered after you've repaid a meaningful share of an existing advance or loan.",
+"url": "/blog/renewals-and-repeat-funding/"
+},
+{
+"term": "Revenue-based financing",
+"def": "Funding repaid as a share of future revenue, so payments rise and fall with sales.",
+"url": "/funding/revenue-based-financing/"
+},
+{
+"term": "SBA loan",
+"def": "A loan made by a lender and partially guaranteed by the US Small Business Administration, such as the 7(a) and 504 programs. Often low-cost but slower to close.",
+"url": "/funding/sba-loans/"
+},
+{
+"term": "Soft credit pull",
+"def": "A credit check that doesn't affect your credit score. Fidelity's initial review uses a soft pull.",
+"url": "/blog/soft-pull-vs-hard-pull/"
+},
+{
+"term": "Stacking",
+"def": "Taking a new merchant cash advance while existing ones are still being repaid, which can quickly strain cash flow.",
+"url": "/blog/mca-stacking-risks/"
+},
+{
+"term": "Surcharging",
+"def": "Adding a fee to card transactions to offset processing costs. Rules vary by state and card network.",
+"url": "/blog/cash-discount-and-surcharging/"
+},
+{
+"term": "Term",
+"def": "The length of time over which funding is repaid.",
+"url": "/tools/funding-calculator/"
+},
+{
+"term": "Time in business",
+"def": "How long your business has been operating \u2014 a key underwriting factor.",
+"url": "/blog/time-in-business-requirements/"
+},
+{
+"term": "Total payback",
+"def": "The full amount you'll repay over the life of the funding, including all costs.",
+"url": "/blog/total-payback-vs-apr/"
+},
+{
+"term": "UCC-1 filing",
+"def": "A public notice filed by a funder claiming a security interest in business assets.",
+"url": "/blog/ucc-filings-explained/"
+},
+{
+"term": "Underwriting",
+"def": "The funder's review of your business's revenue, history and risk to decide whether to fund and on what terms.",
+"url": "/blog/improve-business-funding-approval-odds/"
+},
+{
+"term": "Unsecured funding",
+"def": "Financing without specific collateral, often backed by a personal guarantee instead.",
+"url": "/funding/unsecured-business-loans/"
+},
+{
+"term": "Working capital",
+"def": "Current assets minus current liabilities \u2014 the cash available to run day-to-day operations.",
+"url": "/blog/working-capital-formula/"
+}
+]

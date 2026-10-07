@@ -1,0 +1,115 @@
+{
+  "slug": "profit-vs-cash-flow",
+  "title": "Why Profitable Businesses Still Run Out of Cash",
+  "seo_title": "Why Profitable Businesses Still Run Out of Cash",
+  "meta_description": "Profit and cash flow are not the same. See how receivables, inventory, taxes and loan principal can drain the bank account of a business that shows a profit.",
+  "primary_keyword": "profit vs cash flow",
+  "keywords": [
+    "profitable business no cash",
+    "cash flow vs profit",
+    "working capital gap",
+    "accounts receivable timing",
+    "inventory cash drain",
+    "cash flow problems small business",
+    "profit and loss vs cash"
+  ],
+  "eyebrow": "Cash flow",
+  "dek": "Your profit and loss statement can say you are winning while your checking account says otherwise. The gap is almost always timing.",
+  "intro": [
+    "Few moments are more confusing for an owner than a strong month on paper and an empty account in practice. The sales were up, the accountant says you made money, and yet payroll is Friday and you are counting dollars. It feels like a mistake, but it usually is not. It is the normal difference between profit, which is an accounting measure, and cash, which is the money you can actually spend.",
+    "Understanding that difference is one of the most useful things an owner can learn, because it changes what you watch and when you act. This article explains why profit and cash diverge, walks through a worked example and lists practical steps for closing the gap. It is general information, and your accountant can show you how it plays out in your own books."
+  ],
+  "sections": [
+    {
+      "h2": "Profit is recorded when earned, cash when received",
+      "paragraphs": [
+        "Most small businesses that keep formal books on an accrual basis record revenue when a sale is made or a job is completed, not when the customer pays. Expenses are recorded when they are incurred. Profit is the difference. Cash, however, moves when money actually lands or leaves your account.",
+        "If you deliver a $25,000 job in March on net-45 terms, March shows $25,000 of revenue. The cash arrives in mid-April or later. In the meantime you paid your crew, your supplier and your fuel bill, so cash fell while profit rose."
+      ]
+    },
+    {
+      "h2": "Where profitable businesses lose cash",
+      "paragraphs": [
+        "Several ordinary things consume cash without touching the profit and loss statement the way you would expect:",
+        "Taxes deserve their own mention. Income tax is calculated on profit, not on cash, so a business can owe tax on income it has not yet collected. Setting aside money regularly and talking to your CPA about estimated payments helps you avoid a bill that arrives when the account is low."
+      ],
+      "bullets": [
+        "Accounts receivable growing: sales that are booked but not collected.",
+        "Inventory purchases: cash leaves when you buy stock, but expense is recorded only when it sells.",
+        "Loan principal payments: repaying principal reduces cash but is not an expense.",
+        "Equipment purchases: cash leaves at once; the cost is spread through depreciation.",
+        "Tax payments and owner draws: real cash outflows that follow a different calendar than earnings.",
+        "Deposits or prepayments to suppliers."
+      ]
+    },
+    {
+      "h2": "A worked example, clearly hypothetical",
+      "paragraphs": [
+        "A small wholesale distributor books $120,000 of sales in a month and makes a $14,000 profit. During that month customers owe $35,000 more than at the start of the month, the owner bought $22,000 of extra inventory for an anticipated order, and $5,000 of loan principal was repaid. Starting from $14,000 of profit, the changes subtract $35,000, $22,000 and $5,000, giving a cash change of about negative $48,000.",
+        "The business earned a profit and still burned nearly $48,000 of cash. Growth makes the effect worse, because more sales need more receivables and more inventory before cash comes back."
+      ]
+    },
+    {
+      "h2": "Growth is the classic cash trap",
+      "paragraphs": [
+        "Rapid growth is the most common reason profitable businesses run short. Each new customer or large order requires you to pay for labor, materials and delivery up front, then wait for payment. The faster you grow, the larger the amount of cash tied up. Owners sometimes call this growing broke.",
+        "The cash conversion cycle, the time between paying for inputs and collecting from customers, measures this directly. Shortening it frees cash without new customers. Our guide on the cash conversion cycle shows how to calculate it.",
+        "Seasonal businesses feel a version of the same thing: they build inventory and hire staff ahead of the busy season, spending cash months before the revenue arrives. The profit shows up in the busy months, but the cash outflow began long before."
+      ]
+    },
+    {
+      "h2": "How to see it coming",
+      "paragraphs": [
+        "A simple 13-week cash flow forecast is the best early-warning tool. List expected cash receipts by week, list scheduled payments and watch the running balance. You will often see a trough weeks before it arrives, which gives you time to act.",
+        "Compare the forecast to your profit and loss each month. If profit looks healthy and the forecast looks thin, the gap is working capital, and you should look at receivables, inventory and payment terms."
+      ]
+    },
+    {
+      "h2": "Closing the gap",
+      "paragraphs": [
+        "Operational fixes come first. Invoice immediately, offer a small early-payment discount where it makes sense, require deposits on large jobs, tighten credit terms with slow payers and negotiate longer payment terms with suppliers where possible. Count inventory carefully and avoid ordering more than you can sell.",
+        "When the gap remains, working capital can bridge the timing. Fidelity Funding connects businesses with funding partners offering options such as working capital loans, lines of credit, invoice factoring and merchant cash advances. After a short application and a soft credit pull for the initial review, a specialist walks through what fits. Terms vary by funding partner and underwriting, so compare total payback, make sure payments suit your cash cycle and talk to your CPA about the tax impact."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Profit is recorded when earned; cash moves when money changes hands.",
+    "Receivables, inventory, principal payments and equipment drain cash without hitting profit.",
+    "Fast growth increases the amount of cash tied up.",
+    "A 13-week cash forecast shows troughs before they arrive.",
+    "Fix timing operationally first, then bridge with working capital if needed."
+  ],
+  "faq": [
+    {
+      "q": "Why am I profitable but have no cash?",
+      "a": "Usually timing. Revenue is recorded when earned, but customers may not have paid yet. Meanwhile you may have paid for inventory, loan principal, equipment, taxes or payroll. These cash outflows or delays do not appear as expenses in the same way, so the account balance lags behind reported profit."
+    },
+    {
+      "q": "What is the difference between profit and cash flow?",
+      "a": "Profit is revenue minus expenses over a period as recorded under accounting rules. Cash flow is the actual movement of money in and out of your accounts. A business can be profitable with negative cash flow, or unprofitable with positive cash flow for a time."
+    },
+    {
+      "q": "Can fast growth cause a cash shortage?",
+      "a": "Yes. Growth requires you to buy materials, pay staff and extend credit before customers pay. The faster you grow, the more cash is tied up in receivables and inventory. Planning working capital in advance helps you grow without squeezing payroll."
+    },
+    {
+      "q": "How can I improve cash flow quickly?",
+      "a": "Invoice sooner, follow up on late payments, ask for deposits, trim slow-moving inventory and negotiate supplier terms. A short-term funding option may also bridge a gap. Each step has trade-offs, so match the tool to the cause of the shortfall."
+    },
+    {
+      "q": "Should I use funding to cover a cash flow gap?",
+      "a": "It can be reasonable if the gap is temporary and the business is sound, but it should not mask a pricing or cost problem. Compare total payback and payments against your margins. A specialist and your CPA can help you decide."
+    }
+  ],
+  "related": [
+    "cash-conversion-cycle",
+    "business-cash-flow-forecasting",
+    "working-capital-formula",
+    "accounts-receivable-tips",
+    "bridge-cash-flow-gaps",
+    "invoice-factoring"
+  ],
+  "icon": "cash",
+  "read_minutes": 7,
+  "category": "blog"
+}

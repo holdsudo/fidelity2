@@ -1,0 +1,115 @@
+{
+  "slug": "small-business-cybersecurity-payments",
+  "title": "Payment Security Basics for Small Businesses",
+  "seo_title": "Payment Security Basics for Small Businesses",
+  "meta_description": "Protect your customers and your cash. A plain-English guide to payment fraud, PCI basics, account takeover, phishing and what to ask your card processor.",
+  "primary_keyword": "small business payment security",
+  "keywords": [
+    "payment fraud prevention",
+    "PCI compliance small business",
+    "business email compromise",
+    "chargeback fraud",
+    "EMV chip terminal",
+    "phishing small business",
+    "secure payment processing"
+  ],
+  "eyebrow": "Payments",
+  "dek": "Small businesses are attractive targets precisely because their defenses are thin. A few habits close the most common doors.",
+  "intro": [
+    "When owners imagine a cyberattack, they picture a dramatic breach. The reality is usually quieter: a convincing email from a supplier asking you to change bank details, a password reused across accounts, a card skimmer on a counter terminal, or a customer who disputes a charge they actually made. These are everyday risks, and they hit small businesses because attackers expect fewer safeguards.",
+    "The costs add up quickly. Fraud losses, chargeback fees, frozen accounts and time lost recovering can take real cash out of a business that was already managing thin margins. This guide covers the basic habits and structures that reduce risk around payments: securing your accounts, handling card data, spotting scams, meeting PCI expectations and choosing a processing partner. It is general information; your bank, processor and insurance agent can advise on your setup."
+  ],
+  "sections": [
+    {
+      "h2": "Know the common threats",
+      "paragraphs": [
+        "Several attacks account for most small business payment losses. Phishing uses fake emails, texts or calls to steal logins or trick staff into acting. Business email compromise targets payments directly, such as a message that appears to be from a vendor or from you asking to change account details. Account takeover happens when stolen credentials let someone access your bank, payroll or processor accounts.",
+        "On the card side, skimming devices can capture data from physical terminals, and card-not-present fraud affects online and phone orders. Friendly fraud, where a customer disputes a legitimate purchase, drives chargebacks even without any breach."
+      ]
+    },
+    {
+      "h2": "Lock down accounts and access",
+      "paragraphs": [
+        "Start with the basics that stop the most common intrusions:",
+        "Train people, not only systems. A one-page rule sheet covering who can approve payments, how to verify a vendor change and where to report a suspicious message does more than a long policy that no one reads. Run a short refresher a couple of times a year and after any attempted scam."
+      ],
+      "bullets": [
+        "Use unique, long passwords stored in a password manager, never reused across systems.",
+        "Turn on multi-factor authentication for banking, payroll, email, accounting and processor portals.",
+        "Give each employee their own login and limit permissions to what the role requires.",
+        "Remove access promptly when someone leaves.",
+        "Set up bank alerts and require dual approval for wires and large payments where possible.",
+        "Keep operating systems, browsers and point-of-sale software updated."
+      ]
+    },
+    {
+      "h2": "Handle card data carefully",
+      "paragraphs": [
+        "If you accept cards, you are responsible for protecting cardholder data in accordance with the PCI Data Security Standard, the set of requirements established by the card networks. The simplest way to reduce your exposure is not to store card numbers at all. Use a processor with tokenization and encryption, so sensitive data never sits in your systems.",
+        "Never write card numbers on paper, email them or text them. Train staff to use the terminal or virtual terminal for entry. Check physical terminals regularly for tampering, and use EMV chip and contactless acceptance, which are harder to counterfeit than magnetic stripes."
+      ]
+    },
+    {
+      "h2": "Spot payment scams",
+      "paragraphs": [
+        "Scammers rely on urgency. A message insists that a payment must go out today to a new account. A customer sends an overpayment and asks you to refund the difference. A caller claims to be from your bank or processor and requests a one-time code. Slow down every time money or credentials are involved.",
+        "Verify changes through a channel you already trust, such as a phone number from your records, not the one in the email. Establish a written rule that no change to payment instructions is made on the strength of an email alone."
+      ]
+    },
+    {
+      "h2": "Chargebacks and fraud controls",
+      "paragraphs": [
+        "Chargebacks are disputes that return money to a cardholder, and they come with fees and can affect your standing with your processor if they become frequent. Reduce them with clear billing descriptors, easy-to-find refund policies, signed receipts or delivery confirmation and prompt customer service.",
+        "Online sellers can use address verification, CVV checks and fraud screening tools. Respond to disputes with documentation on time, since missing deadlines usually means losing automatically. Rules differ by card network, so ask your processor for specifics.",
+        "Keep a short incident plan: who to call at your bank and processor, how to freeze cards and accounts and where your insurance information is. Having phone numbers in one place saves precious hours when something happens."
+      ]
+    },
+    {
+      "h2": "Choose a processing partner who helps",
+      "paragraphs": [
+        "Your processor is a security partner as well as a rate. Ask what encryption and tokenization are offered, how PCI compliance is supported, what fraud tools are included and what support you get when something goes wrong. Cheap pricing that comes with weak support can end up costing more.",
+        "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement review, competitive pricing and modern terminals with POS integration, which is a reasonable place to start if you want a second opinion on your setup. Separately, if a fraud loss or a freeze has created a cash crunch, a specialist can talk through working capital options with you; terms vary by funding partner and underwriting, and nothing is guaranteed. Consider cyber insurance as well, and ask your insurance agent what is covered."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Phishing, business email compromise and account takeover cause many small business payment losses.",
+    "Use multi-factor authentication and unique passwords everywhere money moves.",
+    "Avoid storing card data; use tokenized, encrypted processing.",
+    "Verify any change in payment instructions through a trusted channel.",
+    "Choose a processor that supports PCI, fraud tools and good service."
+  ],
+  "faq": [
+    {
+      "q": "What is PCI compliance and does my small business need it?",
+      "a": "PCI DSS is a set of security requirements from the card networks for businesses that accept cards. If you take card payments, you generally need to meet the requirements that apply to your setup. Your processor can guide you on questionnaires, scans and tools."
+    },
+    {
+      "q": "How do I prevent business email compromise?",
+      "a": "Verify any request to change payment details using a known phone number, require two approvers for large or unusual payments and use multi-factor authentication on email accounts. Train staff to be suspicious of urgent requests and unexpected attachments or links."
+    },
+    {
+      "q": "What should I do if I suspect a breach or fraud?",
+      "a": "Change passwords, enable multi-factor authentication, contact your bank and processor immediately and preserve evidence. Consider notifying your insurance agent and, if customer data may be involved, seek legal advice about notification requirements, which vary by state. Ask your bank or processor for specifics."
+    },
+    {
+      "q": "How can I reduce chargebacks?",
+      "a": "Use clear billing descriptors, publish refund policies, keep receipts and delivery proof, respond quickly to customer issues and answer disputes by the deadline with documentation. Fraud screening helps online sellers. Rules vary by card network, so ask your processor. Ask your bank or processor for specifics."
+    },
+    {
+      "q": "Can my processor help with security?",
+      "a": "Often yes. Ask about encryption, tokenization, PCI support and fraud tools. Fidelity's card-processing partner, PayPilot by MCCPS, offers statement review and modern terminals with POS integration, which can be a useful second look at your current setup. Ask your bank or processor for specifics."
+    }
+  ],
+  "related": [
+    "pci-compliance-basics",
+    "reduce-chargebacks",
+    "choosing-a-pos-system",
+    "contactless-and-tap-to-pay",
+    "read-your-merchant-statement",
+    "security-and-compliance-upgrades"
+  ],
+  "icon": "shield",
+  "read_minutes": 7,
+  "category": "blog"
+}

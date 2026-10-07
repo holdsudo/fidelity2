@@ -1,0 +1,31 @@
+<!--{"title":"Business Funding Calculator: MCA & Loan Payback | Fidelity","desc":"Free business funding calculator. Estimate total payback, daily or weekly payments and an APR-equivalent for a merchant cash advance or term loan in seconds.","nav":"tools","scripts":["tools.js"]}-->
+<section class="page-hero" style="padding-bottom:clamp(48px,7vw,80px)">
+  <div class="hero__bg" aria-hidden="true"><div class="aurora"><i></i><i></i><i></i><i></i></div><div class="hero__grid"></div></div>
+  <div class="container"><nav class="crumbs fade-up" aria-label="Breadcrumb"><a href="/">Home</a><span>/</span><a href="/tools/">Tools</a><span>/</span><span>Funding calculator</span></nav>
+  <h1 class="h1 fade-up d1">Funding calculator</h1><p class="lead fade-up d2">See what an advance or loan really costs — total payback, payment size and an APR-equivalent — before you talk to anyone.</p></div></section>
+<section class="section section--tight"><div class="container">
+<div class="tool-wrap" id="calc">
+  <div class="tool-panel">
+    <div class="seg-light" id="c-mode" role="group" aria-label="Funding type"><button type="button" data-v="mca" aria-pressed="true">Merchant cash advance</button><button type="button" data-v="loan" aria-pressed="false">Term loan</button></div>
+    <div class="slider-field"><div class="top"><label for="c-amt">Funding amount</label><output>$100,000</output></div><input id="c-amt" type="range" min="5000" max="1000000" step="5000" value="100000" data-fmt="money"></div>
+    <div class="slider-field" data-mode="mca"><div class="top"><label for="c-factor">Factor rate</label><output>1.30</output></div><input id="c-factor" type="range" min="1.05" max="1.6" step="0.01" value="1.3" data-fmt="x"></div>
+    <div class="slider-field" data-mode="loan" hidden><div class="top"><label for="c-apr">Interest rate (APR)</label><output>18.0%</output></div><input id="c-apr" type="range" min="5" max="60" step="0.5" value="18" data-fmt="pct"></div>
+    <div class="slider-field"><div class="top"><label for="c-term">Term</label><output>9 months</output></div><input id="c-term" type="range" min="3" max="60" step="1" value="9" data-suffix=" months"></div>
+    <div data-mode="mca" style="margin-top:22px"><span class="label" style="font-size:14px;font-weight:600">Payment frequency</span><div class="seg-light" id="c-freq" role="group" aria-label="Payment frequency" style="margin-top:10px"><button type="button" data-v="daily" aria-pressed="true">Daily</button><button type="button" data-v="weekly" aria-pressed="false">Weekly</button><button type="button" data-v="monthly" aria-pressed="false">Monthly</button></div></div>
+  </div>
+  <div class="tool-out" aria-live="polite">
+    <div class="big" id="o-payback">$130,000</div><div class="lbl">Total payback</div>
+    <div class="kv"><div><b id="o-pay">—</b><span id="o-per">per day</span></div><div><b id="o-cost">—</b><span>Cost of capital</span></div><div><b id="o-apr">—</b><span>Est. APR equivalent</span></div><div><b id="o-n">—</b><span>Over the term</span></div></div>
+    <div class="bar-viz"><i id="bar-p" style="background:#48D6E4"></i><i id="bar-c" style="background:#3B5BFF"></i></div>
+    <div class="bar-legend"><span style="--c:#48D6E4">Principal</span><span style="--c:#3B5BFF">Cost</span></div>
+    <a class="btn btn--white btn--lg" id="o-go" href="/apply/">See my real offers {{i:arrow}}</a>
+    <p class="tool-note">Illustrative estimate only — not an offer. Real terms depend on underwriting. The APR equivalent assumes level payments over the full term and excludes fees; MCAs are not loans and aren't priced in APR, but the figure helps you compare.</p>
+  </div>
+</div>
+<div class="prose" style="margin:72px auto 0">
+  <h2>How to use this calculator</h2>
+  <p>Merchant cash advances are priced with a <strong>factor rate</strong> rather than an interest rate. Multiply the amount by the factor rate to get your total payback: a $100,000 advance at 1.30 means $130,000 repaid. The shorter the term, the higher the effective annual cost — which is why the APR-equivalent rises when you shorten the term at the same factor rate.</p>
+  <p>For term loans, the calculator uses standard amortization: a fixed monthly payment covering interest and principal. Compare <strong>total payback</strong> and <strong>payment size</strong> against your cash flow, not just the headline rate. Learn more in our guides to <a href="/blog/factor-rate-explained/">factor rates</a>, <a href="/blog/total-payback-vs-apr/">total payback vs. APR</a> and <a href="/blog/how-to-compare-funding-offers/">comparing offers</a>.</p>
+</div>
+</div></section>
+{{cta-band}}

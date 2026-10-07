@@ -1,0 +1,122 @@
+{
+  "slug": "pci-compliance-basics",
+  "category": "blog",
+  "title": "PCI Compliance Basics for Small Businesses",
+  "seo_title": "PCI Compliance Basics for Small Business | Fidelity Funding",
+  "meta_description": "PCI compliance basics for small businesses: what PCI DSS is, how the self-assessment questionnaires work, typical fees, and practical steps to stay compliant.",
+  "primary_keyword": "PCI compliance for small business",
+  "keywords": [
+    "PCI compliance for small business",
+    "PCI DSS",
+    "self-assessment questionnaire SAQ",
+    "PCI non-compliance fee",
+    "card data security",
+    "point-to-point encryption",
+    "tokenization"
+  ],
+  "eyebrow": "Security",
+  "dek": "PCI compliance is not a trap and not optional. It is a yearly security checklist tied to how you take cards, and it affects fees on your statement.",
+  "intro": [
+    "Somewhere on your merchant statement there may be a line reading PCI fee or PCI non-compliance fee. Most owners pay it, shrug, and never find out what it refers to. It refers to a real set of security rules, and not being compliant can mean extra charges and, after a breach, much larger consequences.",
+    "This overview explains what the standard is, how small businesses typically validate compliance, what the fees mean, and what practical habits keep card data safe. It is general guidance, and your processor or a qualified security professional can advise on your specific setup."
+  ],
+  "sections": [
+    {
+      "h2": "What PCI DSS actually is",
+      "paragraphs": [
+        "PCI DSS stands for Payment Card Industry Data Security Standard. It is a set of security requirements created by the major card brands and maintained by an industry council, and it applies to any business that stores, processes or transmits cardholder data. It is a contractual obligation through your merchant agreement, not a government law, though breaches can also trigger state and federal legal obligations.",
+        "The requirements cover things like keeping networks secure, protecting stored data, restricting access, monitoring systems and maintaining security policies. How much of that applies to you depends largely on how you accept cards.",
+        "Keep in mind that compliance is a snapshot. Passing the questionnaire in January does not protect you in June if a staff member installs unapproved software on your register or reuses a default password. The yearly form is a checkpoint, and the daily habits are what actually keep you safe."
+      ]
+    },
+    {
+      "h2": "Self-assessment questionnaires and your merchant level",
+      "paragraphs": [
+        "Small merchants usually validate compliance by completing a Self-Assessment Questionnaire, or SAQ, once a year. Different SAQ types fit different setups. A business that uses a standalone terminal connected through a payment processor has a short form, while one that takes payments on its own website or stores card data has a longer one.",
+        "Your processor typically provides a portal or partner service to complete the SAQ and sometimes a network vulnerability scan if your setup requires it. Merchant levels depend on transaction volume, and smaller levels generally validate with the SAQ. Which form you need is a question for your processor.",
+        "If you run an online store, the way you accept cards changes your burden significantly. A hosted payment page from a reputable provider, where the customer is redirected to enter card data, generally leaves less in scope than a custom checkout that handles card numbers on your own server."
+      ],
+      "bullets": [
+        "Standalone terminals using encrypted connections usually have the lightest requirements",
+        "Integrated POS and online checkout have different forms and sometimes scans",
+        "Never store full card numbers, security codes or magnetic stripe data",
+        "Complete and submit your validation every year, even if nothing changed"
+      ]
+    },
+    {
+      "h2": "The fees: annual, monthly and non-compliance",
+      "paragraphs": [
+        "Processors often charge a monthly or annual PCI fee for the compliance portal and support. If you do not complete validation, many also add a non-compliance fee that can be considerably higher, sometimes billed monthly until you finish. Merchants regularly pay that penalty for years simply because no one told them to complete a form.",
+        "Check your statement for both. If you see a non-compliance charge, completing the SAQ is often the quickest way to stop it, though policies differ by processor. A statement review, like the one offered by Fidelity Funding's card-processing partner PayPilot by MCCPS, can flag whether you are paying fees that proper validation would remove."
+      ]
+    },
+    {
+      "h2": "Practical habits that reduce risk",
+      "paragraphs": [
+        "Compliance paperwork matters, but real security matters more. The simplest strategy is to keep card data away from your systems entirely."
+      ],
+      "steps": [
+        "Use terminals and payment software with point-to-point encryption or tokenization, so card numbers never sit on your network.",
+        "Keep terminal and POS software updated and change default passwords.",
+        "Restrict who can process refunds or access the payment system, and use individual logins.",
+        "Never write card numbers on paper, email them or text them.",
+        "Keep customer Wi-Fi separate from the network that handles payments.",
+        "Train staff to spot tampered terminals and suspicious requests."
+      ]
+    },
+    {
+      "h2": "What a breach can cost",
+      "paragraphs": [
+        "If cardholder data is stolen from your systems, the consequences can include forensic investigation costs, fines passed down from the card brands, card replacement costs, notification obligations and reputational harm. For a small business those can be painful. Cyber insurance may offset some of it, and your processor or insurer can explain what is covered.",
+        "Specific amounts vary and depend on circumstances, so treat this as a reason to take prevention seriously, not as a figure to plan around.",
+        "Even a small breach can mean notifying customers, which is a legal requirement in many states and costs both money and trust. Having a simple written plan for who to call, including your processor and, if you have it, your insurer, saves precious hours if something goes wrong."
+      ]
+    },
+    {
+      "h2": "Getting this done without a headache",
+      "paragraphs": [
+        "Ask your processor which SAQ applies, whether a scan is required, what the PCI fees are, and whether there is a non-compliance fee. Put the annual validation date on your calendar. If you are changing terminals or adding online sales, compliance requirements may change too.",
+        "Fidelity Funding's partner, PayPilot by MCCPS, can review your processing statement, quote competitive pricing and discuss modern terminals and POS integration that reduce your exposure. Confirm compliance requirements for your exact setup with your processor or a qualified assessor."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "PCI DSS is a card-brand security standard enforced through your merchant agreement.",
+    "Most small merchants validate yearly with a Self-Assessment Questionnaire.",
+    "Non-compliance fees on your statement are often avoidable by completing validation.",
+    "Encrypted terminals and tokenization keep card data off your systems.",
+    "A statement review from PayPilot by MCCPS can reveal PCI-related fees."
+  ],
+  "faq": [
+    {
+      "q": "Is PCI compliance required by law?",
+      "a": "PCI DSS is an industry standard that you agree to in your merchant agreement, not a federal statute. However, data breach laws and consumer protection rules can apply separately. Not validating can bring fees and, after a breach, larger penalties under your contract."
+    },
+    {
+      "q": "What is an SAQ?",
+      "a": "A Self-Assessment Questionnaire is the yearly form most small merchants use to confirm they follow PCI requirements. The version depends on how you accept cards. Your processor usually provides it through a portal and can tell you which one applies."
+    },
+    {
+      "q": "Why am I charged a PCI non-compliance fee?",
+      "a": "Usually because validation has not been completed or has lapsed. Processors may bill this monthly until you finish the questionnaire. Complete the process through your processor's portal and ask whether the fee will stop. Policies vary by processor."
+    },
+    {
+      "q": "Do I need PCI compliance if I only use a countertop terminal?",
+      "a": "Yes, though the requirements are usually lighter. You still typically need to complete the appropriate questionnaire annually and follow basic security practices. Ask your processor which form applies to your setup."
+    },
+    {
+      "q": "Can PayPilot by MCCPS help with my PCI fees?",
+      "a": "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement reviews that can show what PCI-related fees you currently pay, along with competitive pricing and modern terminals. Savings and specific fee outcomes are not guaranteed and depend on your contract."
+    }
+  ],
+  "related": [
+    "hidden-processing-fees",
+    "credit-card-processing-fees-explained",
+    "small-business-cybersecurity-payments",
+    "choosing-a-pos-system",
+    "reduce-chargebacks",
+    "security-and-compliance-upgrades"
+  ],
+  "icon": "shield",
+  "read_minutes": 7
+}

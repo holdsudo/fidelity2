@@ -1,0 +1,113 @@
+{
+  "slug": "security-and-compliance-upgrades",
+  "category": "use-cases",
+  "title": "Funding Security & Compliance Upgrades",
+  "seo_title": "Funding Security & Compliance Upgrades | Fidelity Funding",
+  "meta_description": "PCI, cameras and licensing can't wait. Plan security and compliance upgrades, compare cost against the risk of fines or breaches, and see funding options.",
+  "primary_keyword": "security and compliance upgrades",
+  "keywords": [
+    "PCI compliance cost",
+    "security camera installation",
+    "business licensing renewal",
+    "cybersecurity for small business",
+    "compliance funding",
+    "payment security upgrade",
+    "alarm and access control"
+  ],
+  "eyebrow": "Compliance funding",
+  "dek": "Security and compliance rarely feel urgent until they are. Plan the upgrade on your schedule, not after the incident.",
+  "intro": [
+    "Nobody opens a business to buy cameras and audit policies. But the day a card breach, a break-in, a failed inspection or a lapsed license lands on your desk, the cost of the upgrade you postponed looks small. Security and compliance spending is insurance-like: it feels optional right up until it is not.",
+    "This page covers the areas that most often drive spending for small businesses: payment card security, physical security, data protection and licensing and regulatory requirements. It explains how to rank them, how to estimate cost against risk and how to fund projects without disrupting operations.",
+    "This is general information. Compliance rules vary by industry, state and card network, so confirm requirements with the relevant authorities and your advisors."
+  ],
+  "sections": [
+    {
+      "h2": "Start with a risk and requirements list",
+      "paragraphs": [
+        "Make two lists. First, what you are required to do: licenses, permits, inspections, industry rules, insurance conditions and payment card standards. Second, what you should do given your risks: break-in history, cash handling, sensitive customer data and reliance on specific systems.",
+        "Rank each item by consequence and likelihood. Required items with deadlines come first, followed by the cheap steps that reduce the most risk, then larger projects.",
+        "Do not forget the human side. Many breaches and thefts begin with a stolen password, a rushed employee or an unlocked door. Short, regular training and clear procedures for opening, closing and handling cash often prevent more loss than expensive equipment."
+      ]
+    },
+    {
+      "h2": "Payment security and PCI basics",
+      "paragraphs": [
+        "If you accept cards, you are expected to follow the Payment Card Industry Data Security Standard. What that means depends on how you process: using validated terminals that encrypt card data and avoiding storing card numbers makes compliance simpler than keeping them in your own systems.",
+        "Fidelity Funding's card-processing partner, PayPilot by MCCPS, can review your processing statement and discuss competitive pricing and modern terminals with POS integration. Ask about encrypted readers, tokenization and any non-compliance fees on your statement. Outdated terminals and unsupported software are common weak points."
+      ],
+      "bullets": [
+        "Encrypted, up-to-date card terminals",
+        "No storage of full card numbers on your systems",
+        "Annual PCI self-assessment as your processor requires",
+        "Staff training on skimming and phishing",
+        "Statement review for non-compliance fees"
+      ]
+    },
+    {
+      "h2": "Physical security",
+      "paragraphs": [
+        "Cameras, alarms, access control, lighting and secure storage for cash and inventory are common upgrades. Consider placement, coverage, retention period for footage, remote access and who can view it. Some insurers offer premium credits for monitored alarms or specific protections, so ask your agent before you buy.",
+        "Match the level of protection to your exposure. A business with high-value inventory or after-hours cash has different needs than a low-cash office. Get several quotes and ask for references.",
+        "Whatever you install, test it. Walk the premises at night to check lighting and camera angles, confirm that footage is actually recorded and retrievable and make sure alarm monitoring reaches the right phone numbers. Systems that fail when needed provide a false sense of security."
+      ]
+    },
+    {
+      "h2": "Data and cybersecurity",
+      "paragraphs": [
+        "Small businesses are frequent targets because defenses are thin. Basic steps include multi-factor authentication, regular software updates, backups tested by restoring them, separate guest and business Wi-Fi, employee training and a plan for what to do after an incident.",
+        "Cyber insurance, endpoint protection and managed IT support can fit larger risk profiles. Ask what is covered, what is excluded and what security measures the insurer requires.",
+        "Keep a basic incident response plan on a single page: who to call, how to isolate affected systems, how to notify your processor, insurer and, where required by law, customers. State breach notification rules vary, so ask an attorney for guidance."
+      ]
+    },
+    {
+      "h2": "Licensing, inspections and industry rules",
+      "paragraphs": [
+        "Many businesses must maintain licenses, certifications, fire safety, health inspections, accessibility upgrades or industry-specific registrations. Fines, closures or lost contracts can follow when they lapse.",
+        "Create a compliance calendar with renewal dates, inspection windows and responsible people. Handle upgrades required by inspectors with priority, and ask the agency about timelines for corrections."
+      ]
+    },
+    {
+      "h2": "Funding the upgrade",
+      "paragraphs": [
+        "Smaller items can often come from operating cash. Larger projects, such as a full camera system, building access control, terminal replacement or a compliance remediation, may call for financing so you can complete the work promptly. Equipment financing or working capital may fit, with repayment matched to the life of the upgrade.",
+        "Fidelity Funding is a broker that connects you with funding partners, not a direct lender. A short application and soft credit pull begin the review, and a funding specialist goes over options with you. Decisions can often come within hours and funding sometimes arrives within about a day after approval, though terms vary and nothing is guaranteed. When you have quotes in hand, start your application.",
+        "Ask vendors for fixed-price quotes and a written scope. Compliance projects tend to grow, so build a contingency into the amount you plan to finance."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "List legal requirements first, then the risks that cost you most.",
+    "Use validated, encrypted payment terminals and request a statement review from PayPilot by MCCPS.",
+    "Ask your insurer about premium credits for protections.",
+    "Keep a compliance calendar so nothing lapses."
+  ],
+  "faq": [
+    {
+      "q": "What is PCI compliance and does my small business need it?",
+      "a": "PCI DSS is the security standard set by the card networks. Any business that accepts cards is expected to follow it, with the specific steps depending on how you process. Your processor can explain your requirements, and a statement review can reveal compliance fees. Your processor can also explain what applies to your setup."
+    },
+    {
+      "q": "Can security cameras lower my insurance premium?",
+      "a": "Sometimes. Some insurers offer credits for monitored alarms or certain protective measures, but it depends on the carrier and policy. Ask your agent before buying to confirm what qualifies and what documentation they require. Keep proof of the installation for the carrier."
+    },
+    {
+      "q": "How should a small business start with cybersecurity?",
+      "a": "Begin with multi-factor authentication, software updates, tested backups, strong passwords and staff training on phishing. These steps cost little relative to their value. Then consider endpoint protection, managed IT and cyber insurance based on your risk. Run a backup restore test every quarter."
+    },
+    {
+      "q": "Can I get funding for compliance or security upgrades?",
+      "a": "Often funding partners can provide equipment financing or working capital for these projects, depending on revenue and bank activity. Approval, amount and cost vary by underwriting and are not guaranteed. Bring your quotes and timeline for the review. Including quotes and deadlines helps."
+    }
+  ],
+  "related": [
+    "pci-compliance-basics",
+    "small-business-cybersecurity-payments",
+    "upgrade-pos-systems",
+    "insurance-premiums",
+    "reduce-chargebacks",
+    "security-companies"
+  ],
+  "icon": "shield",
+  "read_minutes": 6
+}

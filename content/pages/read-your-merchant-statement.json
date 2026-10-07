@@ -1,0 +1,126 @@
+{
+  "slug": "read-your-merchant-statement",
+  "category": "blog",
+  "title": "How to Read Your Merchant Processing Statement",
+  "seo_title": "How to Read Your Merchant Statement | Fidelity Funding",
+  "meta_description": "Learn to read your merchant processing statement: key sections, line items, how to calculate your effective rate, and red flags that you may be overpaying.",
+  "primary_keyword": "read merchant processing statement",
+  "keywords": [
+    "read merchant processing statement",
+    "merchant statement explained",
+    "effective rate calculation",
+    "processing statement audit",
+    "interchange fees",
+    "monthly processing fees",
+    "merchant account statement"
+  ],
+  "eyebrow": "Statement guide",
+  "dek": "Your monthly statement is dense on purpose. Four numbers and a few red flags tell you most of what you need to know.",
+  "intro": [
+    "Merchant statements arrive every month, run several pages, and use vocabulary few owners learned in business school. Most people glance at the deposit total, file the thing, and assume the processor is being fair.",
+    "That is understandable, but it also means the single document that shows what you pay to accept cards often goes unread. With a little structure, you can turn it into a clear picture of your costs in about fifteen minutes."
+  ],
+  "sections": [
+    {
+      "h2": "The anatomy of a statement",
+      "paragraphs": [
+        "Layouts differ between processors, but most statements contain the same building blocks. A summary page shows total volume, number of transactions and total fees. Further pages break volume down by card brand, and then list fees by category. Somewhere near the end are the miscellaneous charges that tend to hide the surprises.",
+        "Find three things first: total processed volume, total fees charged, and the number of transactions. Everything else is detail on how those fees were composed.",
+        "If your statement is only a summary, ask the processor for the detailed version. Some provide a short statement by default and a full one on request, and the detail is where fee categories, card brands and downgrade counts show up."
+      ]
+    },
+    {
+      "h2": "Calculating your effective rate",
+      "paragraphs": [
+        "The effective rate is total fees divided by total card volume, expressed as a percentage. Include everything the processor charged you: discount or markup, interchange, assessments, monthly fees, PCI charges, gateway and batch fees, and equipment rental. Using only the headline rate on the contract tells you what you were promised, not what you paid.",
+        "Say your statement shows $52,000 in volume and $1,586 in total fees. That is about 3.05 percent. If your contract mentioned 2.5 percent, the gap of 0.55 percent, about $286 that month, is made up of fees you may not have focused on. The figures are hypothetical, but the method is exactly what to do with your own statement."
+      ]
+    },
+    {
+      "h2": "Line items worth recognizing",
+      "paragraphs": [
+        "Names vary, but these categories show up on most statements.",
+        "Gateway and online fees may appear separately from in-store ones, so if you sell in more than one channel, split the numbers. An online order with a keyed card may cost more than a chip sale, and the statement can tell you by how much."
+      ],
+      "bullets": [
+        "Interchange or discount fees: percentage-based charges on each sale",
+        "Assessments and network fees: small charges from Visa, Mastercard and others",
+        "Authorization or transaction fees: per-swipe or per-tap amounts",
+        "Monthly, statement and minimum fees: fixed charges regardless of volume",
+        "PCI fees: compliance program and possible non-compliance charges",
+        "Batch, gateway and regulatory fees: smaller recurring items",
+        "Chargeback, retrieval and equipment fees: situational charges"
+      ]
+    },
+    {
+      "h2": "Red flags to look for",
+      "paragraphs": [
+        "Some patterns suggest you may want a second opinion. Tiered categories such as qualified, mid-qualified and non-qualified make it hard to see true markup. Large amounts under vague labels like miscellaneous or other make it hard to know what you are paying for. Rates that creep upward across months, new fees that appear without notice, and monthly minimums that you hit only in slow seasons all deserve questions.",
+        "Also look at the share of transactions classified as non-qualified or downgraded, and at equipment lease payments that continue long after you would expect them to end.",
+        "Compare any rate quoted by a new provider against your effective rate, not the headline rate printed in your old contract, so that the comparison is fair."
+      ]
+    },
+    {
+      "h2": "A fifteen-minute audit routine",
+      "paragraphs": [
+        "Gather your last three statements so you can compare trends, not just one month.",
+        "Keep your audit notes in a simple table by month. After a few statements you will see whether volume, ticket size and fees move together, and any month that breaks the pattern is the one to ask the processor about."
+      ],
+      "steps": [
+        "Write down total volume, transaction count and total fees for each month.",
+        "Compute effective rate and average ticket per month.",
+        "Highlight every fee you cannot explain.",
+        "Check for new or increased charges versus three months earlier.",
+        "Compare your effective rate to quotes from other providers using the same volume and ticket size.",
+        "Call your processor with specific questions about the highlighted items."
+      ]
+    },
+    {
+      "h2": "Getting a professional read",
+      "paragraphs": [
+        "If the statement still reads like a foreign language, you can ask for help. PayPilot by MCCPS, Fidelity Funding's card-processing partner, offers statement reviews and competitive pricing, and can show where your costs sit relative to what they could offer, along with modern terminals and POS integration. There is no obligation to switch, and any savings depend on your volume, card mix and current contract, so none are guaranteed.",
+        "Understanding your processing cost also helps when you seek funding. Some funding partners review processing statements to gauge card volume, and a clear grasp of your own numbers makes conversations with a Fidelity Funding specialist smoother.",
+        "One last habit worth building is to file each statement with a short note on anything unusual that month, such as a promotion, a large catering order or a terminal swap. Months later, those notes explain spikes in volume or fees that would otherwise look like mysteries, and they give you specifics to cite if you decide to renegotiate."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Total fees divided by total card volume gives your true effective rate.",
+    "Include monthly, PCI, batch and equipment fees, not just the headline rate.",
+    "Tiered pricing, vague labels and new unexplained fees are red flags.",
+    "Compare three months of statements to spot upward creep.",
+    "PayPilot by MCCPS offers statement reviews at no obligation to switch."
+  ],
+  "faq": [
+    {
+      "q": "What is a good effective rate?",
+      "a": "It depends on your card mix, ticket size, how cards are accepted and your industry. Rather than aiming for a universal number, compare your effective rate over time and against quotes that use your real volume. A statement review can show how you stack up."
+    },
+    {
+      "q": "Why does my effective rate change from month to month?",
+      "a": "Because card mix, average ticket and the share of keyed-in or premium cards shift, and fixed fees weigh more in slower months. A rate that rises steadily with no change in your business is worth questioning with your processor."
+    },
+    {
+      "q": "What does downgraded or non-qualified mean?",
+      "a": "It usually means the processor classified a transaction into a higher-priced tier, often because of how it was entered or the card type. These labels belong to tiered pricing and can raise costs. Ask what triggers the downgrade and how often it occurs."
+    },
+    {
+      "q": "Can I get a free statement review?",
+      "a": "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement reviews and pricing quotes. You can send a recent statement and see how your costs compare, with no requirement to switch. Results vary and savings are not guaranteed."
+    },
+    {
+      "q": "How many months of statements should I review?",
+      "a": "At least three, ideally six or twelve for seasonal businesses. Multiple months reveal trends, one-time charges and annual fees that a single statement would hide. Keep copies in an organized folder for future comparison."
+    }
+  ],
+  "related": [
+    "credit-card-processing-fees-explained",
+    "hidden-processing-fees",
+    "interchange-plus-vs-flat-rate",
+    "pci-compliance-basics",
+    "cash-discount-and-surcharging",
+    "documents-needed-for-business-funding"
+  ],
+  "icon": "file",
+  "read_minutes": 7
+}

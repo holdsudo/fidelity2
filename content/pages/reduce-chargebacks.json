@@ -1,0 +1,124 @@
+{
+  "slug": "reduce-chargebacks",
+  "category": "blog",
+  "title": "How to Reduce Chargebacks",
+  "seo_title": "How to Reduce Chargebacks: Prevention Tips | Fidelity Funding",
+  "meta_description": "How to reduce chargebacks: why they happen, the habits that prevent them, how to respond with evidence, and how to protect your merchant account.",
+  "primary_keyword": "how to reduce chargebacks",
+  "keywords": [
+    "how to reduce chargebacks",
+    "chargeback prevention",
+    "chargeback representment",
+    "friendly fraud",
+    "reason codes",
+    "chargeback ratio",
+    "merchant dispute evidence"
+  ],
+  "eyebrow": "Disputes",
+  "dek": "A chargeback costs you the sale, the product and a fee. Most are preventable with clear descriptors, good records and fast communication.",
+  "intro": [
+    "A customer disputes a $180 charge with their bank. You ship the goods or deliver the service, and weeks later the funds are pulled back from your account along with a chargeback fee. You also lose the item or the hours you spent. And if disputes pile up, your processor can raise your costs or close your account.",
+    "Chargebacks cannot be eliminated, but they can be reduced significantly by understanding why they happen and building a few routines into how you sell. This guide covers the common causes, prevention steps and what to do when a dispute lands anyway."
+  ],
+  "sections": [
+    {
+      "h2": "What a chargeback actually is",
+      "paragraphs": [
+        "A chargeback is a forced reversal of a card payment, initiated when a cardholder disputes a charge with their issuing bank. The bank sends the dispute through the card network with a reason code, the funds are provisionally withdrawn from you, and you get a chance to respond with evidence, a process often called representment. If the evidence is accepted, the funds can return; if not, the loss stands.",
+        "Fees apply either way in many agreements, so even a won dispute can cost something. That is why prevention beats winning.",
+        "Some disputes are not truly chargebacks yet. An inquiry or retrieval request is the bank asking for information before a formal dispute, and answering it quickly and clearly can sometimes end the matter without any funds being reversed."
+      ]
+    },
+    {
+      "h2": "Why disputes happen",
+      "paragraphs": [
+        "Reason codes vary by card brand, but the real-world causes fall into a few families. Understanding which one affects you most tells you where to focus."
+      ],
+      "bullets": [
+        "Fraud: a stolen card is used, and the real cardholder disputes it",
+        "Unrecognized charges: the descriptor on the statement does not match your business name",
+        "Not as described or not received: delivery problems, delays or quality disputes",
+        "Cancelled or recurring billing confusion: subscriptions the customer forgot or tried to cancel",
+        "Processing errors: duplicate charges or wrong amounts",
+        "Friendly fraud: a customer disputes a legitimate purchase out of regret or confusion"
+      ]
+    },
+    {
+      "h2": "Prevention that works at the counter",
+      "paragraphs": [
+        "In person, the biggest lever is how you take the card. Chip, tap and PIN transactions generally shift fraud liability differently than swiped or keyed ones, so use the most secure entry method available and avoid manual entry unless necessary. Keep signed or digitally captured receipts for large or custom orders.",
+        "Make policies visible: returns, deposits, cancellations and service guarantees. A customer who knew the terms is less likely to dispute them, and your signed copy becomes useful evidence.",
+        "Service businesses should document the work as it is done. Before and after photos, signed work orders, time-stamped messages and written approvals for changes all help show that the customer received what they paid for, and they also protect you from honest misunderstandings."
+      ]
+    },
+    {
+      "h2": "Prevention for phone, online and recurring sales",
+      "paragraphs": [
+        "Card-not-present sales are riskier. Use address verification and the security code check, and consider additional authentication tools offered by your processor. Make sure your billing descriptor shows a name and phone number customers recognize, since many disputes come from people who simply do not remember the charge.",
+        "For recurring billing, send reminders before renewals, make cancellation easy, and confirm cancellations in writing. For shipped goods, use tracking and signature confirmation on higher-value items, and keep photos or proof of delivery."
+      ]
+    },
+    {
+      "h2": "Respond fast and with evidence",
+      "paragraphs": [
+        "When a dispute arrives, the response window is short, so act the same day. Gather what proves the customer received what they paid for.",
+        "Consider a post-sale routine too. A quick thank-you message with your business name and phone number, or a delivery confirmation, reminds customers who you are and gives them an easy way to reach you before they call their bank."
+      ],
+      "steps": [
+        "Read the reason code and notice deadline carefully.",
+        "Pull the transaction record, receipt, invoice and any signed agreement.",
+        "Add proof of delivery or service: tracking, photos, timestamps, emails or texts.",
+        "Show your stated policy and the customer's acceptance of it.",
+        "Write a short, factual summary that responds to the exact reason given.",
+        "Submit before the deadline and keep copies."
+      ]
+    },
+    {
+      "h2": "Watch your ratio and ask for help early",
+      "paragraphs": [
+        "Processors and card networks monitor the share of your transactions that end in disputes. If your ratio climbs, they can impose monitoring programs, extra fees or, in the worst case, terminate your account. Track disputes monthly, categorize them, and fix the cause rather than just fighting each one.",
+        "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement reviews and can discuss terminals and POS integrations that make capturing signatures and receipts easier, as well as competitive pricing. Outcomes depend on your business and contract and are not guaranteed. If chargebacks are straining your cash flow, a funding specialist can also talk through working-capital options.",
+        "Finally, treat each dispute as information. If most of yours come from unrecognized charges, fix the descriptor. If they come from delivery complaints, tighten packing and tracking. If they come from one product, look at quality or the way it is described. A short monthly review of every dispute, grouped by cause, usually points to one or two changes that remove most of them."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Chargebacks cost the sale, the goods and usually a fee, even when you win.",
+    "Recognizable billing descriptors and clear policies prevent many disputes.",
+    "Use chip, tap or PIN in person and fraud checks for card-not-present sales.",
+    "Respond the same day with delivery proof, receipts and signed policies.",
+    "Track your dispute ratio monthly to protect your merchant account."
+  ],
+  "faq": [
+    {
+      "q": "How long do I have to respond to a chargeback?",
+      "a": "Deadlines vary by card network and processor but are often measured in days, not weeks. Your notice will state the exact date. Check it immediately and gather evidence the same day so you do not miss the window."
+    },
+    {
+      "q": "Can I win every chargeback dispute?",
+      "a": "No. Outcomes depend on the reason code, the evidence you can supply and the issuer's decision. Strong records raise your chances, but prevention is more reliable than winning later. Some processors also charge fees whether or not you prevail."
+    },
+    {
+      "q": "What is friendly fraud?",
+      "a": "It happens when a legitimate cardholder disputes a charge they actually made, often from forgetfulness, an unrecognized descriptor or buyer's remorse. Clear descriptors, delivery proof and easy customer service reduce it because customers can resolve issues with you first."
+    },
+    {
+      "q": "What chargeback rate is too high?",
+      "a": "Card networks and processors set their own thresholds and they change, so ask your processor what applies to you. In general, a rising ratio draws monitoring and fees. Track yours monthly and act early on patterns."
+    },
+    {
+      "q": "Can my processor help reduce chargebacks?",
+      "a": "Many offer fraud tools, alerts and representment support. PayPilot by MCCPS, Fidelity Funding's card-processing partner, can review your statement and discuss modern terminals and POS integration. Specific results depend on your business and are not guaranteed."
+    }
+  ],
+  "related": [
+    "hidden-processing-fees",
+    "pci-compliance-basics",
+    "credit-card-processing-fees-explained",
+    "ecommerce",
+    "small-business-cybersecurity-payments",
+    "choosing-a-pos-system"
+  ],
+  "icon": "shield",
+  "read_minutes": 7
+}

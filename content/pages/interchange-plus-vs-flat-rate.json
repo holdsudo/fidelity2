@@ -1,0 +1,115 @@
+{
+  "slug": "interchange-plus-vs-flat-rate",
+  "category": "blog",
+  "title": "Interchange-Plus vs. Flat-Rate Processing",
+  "seo_title": "Interchange-Plus vs. Flat-Rate Processing | Fidelity Funding",
+  "meta_description": "Interchange-plus vs flat-rate card processing: how each pricing model works, who it favors by volume and ticket size, and how to test which costs you less.",
+  "primary_keyword": "interchange-plus vs flat rate",
+  "keywords": [
+    "interchange-plus vs flat rate",
+    "interchange plus pricing",
+    "flat rate processing",
+    "tiered pricing",
+    "payment processing pricing models",
+    "effective rate",
+    "card processing savings"
+  ],
+  "eyebrow": "Pricing models",
+  "dek": "Flat-rate is simple to understand. Interchange-plus is easier to audit. Which saves more depends on your volume, ticket size and card mix.",
+  "intro": [
+    "Ask three processors for a quote and you may get three different pricing models: one flat percentage, one interchange-plus, one tiered. Each can be presented as the best deal, and each can be, for the right kind of business.",
+    "The comparison is not about which model is virtuous. It is arithmetic. Your average ticket, your monthly volume and your mix of debit, credit and rewards cards decide which structure costs you less. Here is how to run that arithmetic yourself."
+  ],
+  "sections": [
+    {
+      "h2": "How flat-rate pricing works",
+      "paragraphs": [
+        "With flat-rate pricing, you pay one percentage, often with a small fixed fee per transaction, on every card sale regardless of card type. The processor absorbs the variation in interchange and keeps the difference. A simple, predictable number is the appeal: you know roughly what you pay without reading a statement.",
+        "The trade-off is that flat pricing is blended. Low-cost transactions, like basic debit cards, effectively subsidize the processor's margin, while expensive cards are priced at the same rate. Merchants with small volume or irregular sales often find that simplicity worth paying for.",
+        "Flat-rate providers also vary in what they include. Some bundle the terminal software, the gateway and basic reporting, which can make the headline price look better than it is, while others charge extra for features. Ask what is and is not included before comparing prices."
+      ]
+    },
+    {
+      "h2": "How interchange-plus pricing works",
+      "paragraphs": [
+        "Interchange-plus passes through the actual interchange and network assessments on each transaction, and adds a stated markup, usually a small percentage plus a per-transaction fee. A statement shows each card's true wholesale cost and exactly what the processor kept.",
+        "Because the markup is visible and fixed, interchange-plus is generally easier to compare between providers and to audit. Businesses with larger volume, bigger tickets or a high share of debit and standard cards often benefit, since they see the actual low cost on those sales instead of a blended rate.",
+        "The statement benefits are real even if the price is similar. When you can see wholesale cost by card type, you can notice when a certain type of transaction costs more and decide whether to change how you accept it, for example by encouraging tap or chip over keyed entry."
+      ]
+    },
+    {
+      "h2": "What about tiered pricing?",
+      "paragraphs": [
+        "Tiered pricing sorts transactions into buckets, often labeled qualified, mid-qualified and non-qualified, with a different rate for each. The processor decides what falls into which bucket, and the categories do not match interchange categories one to one. That opacity makes it hard to know your markup and is a common source of surprise bills. If you see those words on your statement, it deserves a closer look."
+      ]
+    },
+    {
+      "h2": "Which one usually costs less",
+      "paragraphs": [
+        "There is no universal winner, but some patterns show up. Treat them as rules of thumb, not guarantees.",
+        "Whichever model you consider, ask whether the quoted markup covers everything or only some transactions. Online, keyed-in and international cards are sometimes priced separately, and a quote that looks attractive for in-person chip sales can change when the mix includes a lot of card-not-present volume."
+      ],
+      "bullets": [
+        "Low volume and small tickets: flat-rate can win on simplicity and low monthly fees",
+        "Higher volume or larger tickets: interchange-plus often wins because the markup is fixed",
+        "Mostly debit and basic cards: interchange-plus tends to be favorable",
+        "Heavy rewards, premium or keyed-in volume: flat-rate may look better on those transactions",
+        "Seasonal or irregular sales: consider monthly minimums and fixed fees, not just percentages"
+      ]
+    },
+    {
+      "h2": "Run the numbers with hypothetical figures",
+      "paragraphs": [
+        "Suppose a bakery processes $20,000 a month at an average ticket of $12. A flat 2.9 percent plus 30 cents on about 1,667 transactions costs roughly $580 plus $500, or about $1,080, an effective rate of 5.4 percent, which shows how small tickets magnify per-transaction fees. An interchange-plus quote might instead come out well below that with a lower fixed fee, or it might not once monthly fees are added.",
+        "A furniture store with $100,000 monthly volume and a $600 average ticket tells a different story, where the per-item fee barely matters and the percentage dominates. The point is to model your numbers. These examples are invented and not current rates."
+      ]
+    },
+    {
+      "h2": "How to test your current deal",
+      "paragraphs": [
+        "Get your last three statements, total every fee and divide by volume to find your effective rate. Then ask potential processors to quote your actual volume, card mix and average ticket under their model, in writing, including monthly fees, PCI fees, equipment costs and contract length or termination fees.",
+        "PayPilot by MCCPS, Fidelity Funding's card-processing partner, offers statement reviews and competitive pricing, plus modern terminals and POS integration. Sending a recent statement lets them show where you stand under different models. Savings depend on your volume, card mix and existing contract, and nothing is guaranteed.",
+        "Contract length matters as much as the model. A slightly lower rate with a three-year term and a steep termination fee may be worse than a modestly higher rate you can leave at any time, so put the term, renewal and cancellation language next to the price when you compare."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Flat-rate bundles everything into one price; interchange-plus shows wholesale cost and markup separately.",
+    "Small tickets make per-transaction fees a bigger share of the effective rate.",
+    "Higher volume and larger tickets often favor interchange-plus.",
+    "Tiered pricing is the least transparent and deserves scrutiny.",
+    "Compare effective rate across models using your real statements."
+  ],
+  "faq": [
+    {
+      "q": "Is interchange-plus always cheaper than flat-rate?",
+      "a": "No. Interchange-plus tends to be cheaper for many mid-to-high volume merchants, but a low-volume merchant can come out ahead with flat-rate once monthly fees and minimums are counted. Run both models using your own volume, ticket size and card mix."
+    },
+    {
+      "q": "What does 'plus' mean in interchange-plus?",
+      "a": "It is the processor's markup added on top of interchange and network assessments. It is typically stated as a percentage and a per-transaction fee, such as a small fraction of a percent plus a few cents. Ask for the number in writing."
+    },
+    {
+      "q": "Why is tiered pricing considered risky?",
+      "a": "Because the processor chooses which transactions land in which bucket, and non-qualified categories can carry much higher rates. It hides the true markup and can make costs unpredictable. Ask to see how transactions are classified before agreeing."
+    },
+    {
+      "q": "Can I switch pricing models mid-contract?",
+      "a": "Sometimes, depending on the agreement. Some contracts allow repricing; others tie you to terms with early termination fees. Read your current contract, and ask a potential new processor whether they will cover or help with switching costs."
+    },
+    {
+      "q": "How can I find out which model I have?",
+      "a": "Look at your statement. If you see separate lines for interchange, assessments and a markup, it is likely interchange-plus. One blended percentage suggests flat-rate. Words like qualified and non-qualified point to tiered. A PayPilot by MCCPS statement review can confirm it."
+    }
+  ],
+  "related": [
+    "credit-card-processing-fees-explained",
+    "read-your-merchant-statement",
+    "hidden-processing-fees",
+    "cash-discount-and-surcharging",
+    "choosing-a-pos-system",
+    "coffee-shops"
+  ],
+  "icon": "card",
+  "read_minutes": 7
+}

@@ -1,0 +1,113 @@
+{
+  "slug": "software-and-automation",
+  "category": "use-cases",
+  "title": "Funding Software & Automation",
+  "seo_title": "Funding Software & Automation: ROI | Fidelity Funding",
+  "meta_description": "Software and automation can save hours and cut errors, but costs add up. Learn to measure productivity ROI, avoid shelfware and fund the rollout.",
+  "primary_keyword": "funding software and automation",
+  "keywords": [
+    "business software ROI",
+    "automation for small business",
+    "workflow automation",
+    "software subscription costs",
+    "implementation costs",
+    "accounting and CRM software",
+    "productivity gains"
+  ],
+  "eyebrow": "Software funding",
+  "dek": "Good software gives you hours back. Bad software gives you another login. Measure the time saved, then decide how to pay.",
+  "intro": [
+    "Every small business has tasks that eat hours: retyping orders, chasing invoices, scheduling by phone, reconciling spreadsheets. Software and automation promise to take those off your plate, and the best tools do. The worst ones add a subscription, a learning curve and a pile of half-used features.",
+    "The way to tell the difference is to price the work you want to eliminate and compare it to the full cost of the tool, including setup and training. This page shows how to run that comparison, how to roll out new systems without disrupting the business and how funding can help when the upfront cost is larger than monthly cash flow comfortably allows.",
+    "Estimates here are illustrative. Your own time studies and quotes are what matter."
+  ],
+  "sections": [
+    {
+      "h2": "Find the work worth automating",
+      "paragraphs": [
+        "Start with a time audit. For two weeks, ask each person to note repetitive tasks and how long they take: data entry, invoicing, scheduling, follow-ups, reporting, inventory updates. Multiply the hours by the loaded hourly cost to find the annual cost of each task.",
+        "Look for tasks that are frequent, rule-based and error-prone. Those are the strongest candidates. Tasks that require judgment, relationships or frequent exceptions are harder to automate and may not be worth it.",
+        "Be wary of automating a broken process. If your invoicing is confusing or your scheduling has constant exceptions, software will make the confusion faster. Simplify the workflow on paper first, then choose a tool that fits the cleaned-up version."
+      ]
+    },
+    {
+      "h2": "Calculate the return",
+      "paragraphs": [
+        "Compare the annual cost of the task with the annual cost of the tool plus setup. Say a team spends 25 hours a week on manual invoicing and reconciliation at $24 an hour. That is about $31,000 a year. If software costs $6,000 a year plus $4,000 to set up and cuts the time by 60 percent, the first-year savings are roughly $8,600 after costs, with more in later years. This is hypothetical, but it demonstrates the method.",
+        "Count benefits beyond hours: fewer errors, faster payment, better customer response and less dependence on one person who knows how everything works. Be cautious assigning dollar values to soft benefits.",
+        "Track the baseline before you start. Record hours, error counts and turnaround times for the task, so that three months later you can compare against real before-and-after data instead of impressions."
+      ]
+    },
+    {
+      "h2": "Know the full cost",
+      "paragraphs": [
+        "License fees are only the start. Add implementation, data migration, integrations with existing tools, customization, training, ongoing administration and the productivity dip during the transition. Ask the vendor about price changes at renewal and charges for extra users or features.",
+        "Check contract terms: length, auto-renewal, data export rights and cancellation. You want to be able to take your data with you if the tool does not work out."
+      ],
+      "bullets": [
+        "Subscription or license fees per user or location",
+        "Implementation and data migration",
+        "Integrations with accounting, POS or CRM",
+        "Training and ongoing administration",
+        "Renewal pricing and exit terms"
+      ]
+    },
+    {
+      "h2": "Roll it out without disrupting the business",
+      "paragraphs": [
+        "Start with a pilot: one team, one process, a few weeks. Choose someone to own the project, set a clear goal and measure the result before expanding. People adopt tools they helped choose, so involve the staff who will use it.",
+        "Keep the old process available until the new one proves itself. Document the new workflow in a short guide with screenshots, and schedule brief refresher sessions after launch.",
+        "Name a champion for each tool, someone who learns it deeply and helps colleagues. Without a champion, adoption fades and the subscription becomes shelfware that continues to bill every month."
+      ]
+    },
+    {
+      "h2": "Security and data matters",
+      "paragraphs": [
+        "Business software holds customer, financial and sometimes payment data. Ask vendors about encryption, access controls, backups and where data is stored. Use strong, unique passwords and two-factor authentication, and limit who can see what.",
+        "If a tool handles payments, understand how it meets card security standards. Reviewing these questions before you buy is easier than fixing a breach afterward."
+      ]
+    },
+    {
+      "h2": "Paying for it",
+      "paragraphs": [
+        "Many tools are monthly subscriptions that fit within operating cash flow. Larger projects, such as an enterprise system, custom integration or an automation overhaul, may need upfront funding. Working capital or a line of credit can bridge implementation costs while the savings accumulate.",
+        "Fidelity Funding is a broker that connects you with funding partners, not a direct lender. A short application and soft credit pull start the review, and a funding specialist goes over options with you. Decisions can often come within hours and funding sometimes within about a day, though terms vary and nothing is guaranteed. If you have a quote and a savings estimate, start your application.",
+        "If you finance a larger project, ask whether repayment can be timed to when savings begin, rather than the first week of implementation."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "Audit time before shopping for tools.",
+    "Compare yearly task cost with yearly tool cost, including setup.",
+    "Pilot first and keep the old process until the new one works.",
+    "Check data export, renewal terms and security before signing."
+  ],
+  "faq": [
+    {
+      "q": "How do I calculate ROI on business software?",
+      "a": "Estimate the annual cost of the manual work, subtract the annual cost of the tool, setup and training, and include any measurable benefits such as fewer errors or faster payment. Use your own time data rather than vendor claims. Use real time data, not vendor claims."
+    },
+    {
+      "q": "Can I get funding for software and implementation?",
+      "a": "Often funding partners can provide working capital for technology projects, depending on revenue and bank activity. Approval, amount and cost vary by underwriting and are not guaranteed. A quote and savings estimate help the specialist understand the plan. A quote and savings estimate help the review."
+    },
+    {
+      "q": "What are common mistakes with new business software?",
+      "a": "Buying for features you will not use, skipping staff input, underestimating implementation and training, and failing to check contract terms. Start with a clear problem, a pilot and a named owner who tracks results after launch. Name an owner for each tool."
+    },
+    {
+      "q": "How long before software pays for itself?",
+      "a": "It depends on the hours saved, the cost and how quickly staff adopt it. Some tools pay back within months, while larger projects take longer. Set a target payback period before buying and check progress after ninety days. Set a payback target before you buy."
+    }
+  ],
+  "related": [
+    "upgrade-pos-systems",
+    "website-and-ecommerce",
+    "hire-employees",
+    "small-business-cybersecurity-payments",
+    "security-and-compliance-upgrades",
+    "working-capital-loans"
+  ],
+  "icon": "gear",
+  "read_minutes": 6
+}

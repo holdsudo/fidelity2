@@ -1,0 +1,124 @@
+{
+  "slug": "ucc-filings-explained",
+  "category": "blog",
+  "title": "What Is a UCC Filing?",
+  "seo_title": "What Is a UCC Filing? UCC-1 Basics for Owners | Fidelity Funding",
+  "meta_description": "A UCC-1 filing tells the world a funder has a claim on business assets. Learn what blanket liens cover, how to check your record and how to clear one.",
+  "primary_keyword": "UCC filing",
+  "keywords": [
+    "UCC-1 financing statement",
+    "blanket lien business",
+    "UCC lien search",
+    "UCC-3 termination",
+    "UCC filing merchant cash advance",
+    "secured vs unsecured funding",
+    "remove UCC lien"
+  ],
+  "eyebrow": "Contracts",
+  "dek": "A UCC-1 is a public notice that a funder has a claim on your business assets. Here is what it covers and how to keep your record tidy.",
+  "intro": [
+    "Somewhere in your funding paperwork there is often a short line authorizing the funder to file a UCC-1. It reads like a formality, and in a sense it is, but it also becomes a public record attached to your business. It can affect your ability to get other funding, and it sometimes lingers after the debt is long gone.",
+    "This guide explains what a UCC filing is, what a blanket lien covers, why funders file them, and how to check and clean up your own record. As always with legal topics, this is general information and not a replacement for advice from an attorney."
+  ],
+  "sections": [
+    {
+      "h2": "UCC in plain English",
+      "paragraphs": [
+        "UCC stands for the Uniform Commercial Code, a set of rules governing commercial transactions that states have adopted with local variations. Article 9 covers secured transactions: situations where a creditor has a claim on specific property to back a debt.",
+        "To make that claim visible and enforceable against others, the creditor files a financing statement, called a UCC-1, usually with the state's Secretary of State or equivalent office. The filing is a public notice. It does not mean you are in default. It means a creditor has registered its interest, and anyone searching the records can see it."
+      ]
+    },
+    {
+      "h2": "What the filing can cover",
+      "paragraphs": [
+        "A UCC-1 describes the collateral. That description can be narrow, such as a particular piece of equipment, or very broad. A blanket lien covers all or nearly all of the business's assets, which can include equipment, inventory, accounts receivable, deposit accounts and general intangibles, depending on the wording.",
+        "In merchant cash advances, filings often describe the funder's purchased receivables and related proceeds. In equipment financing, the lien typically attaches to the equipment itself. The exact language in your security agreement and filing is what counts, so read both and see that they match."
+      ],
+      "bullets": [
+        "Specific lien: tied to named equipment or assets",
+        "Blanket lien: covers most or all business assets",
+        "Receivables-focused: covers payments owed to the business",
+        "Fixture filings: apply to items attached to real property"
+      ]
+    },
+    {
+      "h2": "Why funders file one",
+      "paragraphs": [
+        "A filing establishes priority. If two creditors claim the same asset, the one who filed first generally takes precedence. That is why funders file promptly, and why a prior blanket lien can make it hard to get new funding secured by the same assets.",
+        "Say your business already has a blanket UCC from an earlier lender. A new funder reviewing your record sees that its claim would be second in line, and may decline, price for the risk or ask for a subordination agreement. This is a hypothetical situation, but it is exactly how liens interact with future funding."
+      ]
+    },
+    {
+      "h2": "How UCC filings affect your options",
+      "paragraphs": [
+        "Open liens can limit new borrowing, complicate selling a business or its equipment, and require payoff letters at the time of a refinance. They can also appear in due diligence when you apply for a lease or a bank facility.",
+        "Importantly, a lien does not vanish when the debt is paid. A filing typically lasts five years unless continued, and some linger until the funder files a termination. Stale filings are common, and they can confuse underwriters about your real obligations."
+      ]
+    },
+    {
+      "h2": "How to check and clean up your record",
+      "paragraphs": [
+        "You can search the UCC records in your state, usually through the Secretary of State's website for a small fee, or ask a professional service to run a search. Do it before applying for funding so nothing surprises you.",
+        "If a filing remains after a debt is paid, request a UCC-3 termination from the secured party. Many states require the secured party to file a termination within a set period after a written demand from the debtor. Rules and timelines vary by state, so ask an attorney how it works where you operate."
+      ],
+      "steps": [
+        "Search your business name in the state UCC database, including likely name variations.",
+        "List each active filing, the secured party and the collateral described.",
+        "Match each filing to a current obligation or payoff letter.",
+        "For paid-off debts, ask the secured party in writing to file a UCC-3 termination.",
+        "Follow up and confirm the termination appears in the public record."
+      ]
+    },
+    {
+      "h2": "Subordination and what it means",
+      "paragraphs": [
+        "Sometimes a new funder will ask an existing secured party to subordinate its lien, meaning the earlier creditor agrees to let the new one take priority on specified collateral. Not every creditor will agree, and the request may take time. In other cases, a funder will accept a second-position claim at a different price, or avoid assets that are already pledged. Knowing about these possibilities helps you plan. If you expect to need more funding in the future, think about how today's lien language will affect tomorrow's options, and ask for narrower collateral descriptions when you can."
+      ]
+    },
+    {
+      "h2": "Before you accept an offer with a lien",
+      "paragraphs": [
+        "Read what collateral is described and whether the language is broader than the deal requires. Ask whether the funder will release the lien at payoff and how quickly, and whether they will narrow the description. Different partners handle liens differently, and some products, such as certain unsecured options, file little or nothing. Fidelity Funding specialists can flag lien language across partner offers so you can compare the true footprint of each deal, not just the price. If a filing looks overreaching, a short conversation with your own attorney is cheap insurance."
+      ]
+    }
+  ],
+  "key_takeaways": [
+    "A UCC-1 is a public notice of a creditor's claim, not an automatic default.",
+    "Blanket liens can cover all or nearly all business assets.",
+    "Filing order sets priority, which affects future funding.",
+    "Liens can outlast the debt; request a UCC-3 termination after payoff.",
+    "Search your own record before applying."
+  ],
+  "faq": [
+    {
+      "q": "Does a UCC filing mean I am in default?",
+      "a": "No. A UCC-1 is simply a public notice that a creditor has a secured interest. It is routine in many funding products. Default is a separate event defined in your contract. Still, read the collateral description so you know what the filing actually covers."
+    },
+    {
+      "q": "How long does a UCC filing last?",
+      "a": "In general a UCC-1 is effective for five years and can be continued for additional periods by the secured party. Many states follow this rule through the Uniform Commercial Code, but details vary. A filing may remain on record after you pay off the debt unless a termination is filed."
+    },
+    {
+      "q": "How do I remove a UCC lien after paying off a debt?",
+      "a": "Ask the secured party in writing to file a UCC-3 termination statement. Many states require them to do so within a set time after you demand it, though rules vary. Confirm it appears in the public record, and consult an attorney if the creditor does not respond."
+    },
+    {
+      "q": "Can a blanket lien stop me from getting more funding?",
+      "a": "It can make it harder, since a new funder would be behind the existing claim on the same assets. Some will decline, price higher, or ask for subordination. Others offer unsecured or differently structured products. A specialist can tell you which options fit when a lien is present."
+    },
+    {
+      "q": "How can I see what UCC filings exist against my business?",
+      "a": "Search your state's UCC records, typically through the Secretary of State website, using your exact legal business name and possible variations. Many states charge a small fee for certified results. A professional search service or attorney can also do this for you."
+    }
+  ],
+  "related": [
+    "personal-guarantee-explained",
+    "confession-of-judgment",
+    "equipment-financing",
+    "unsecured-business-loans",
+    "predatory-lending-red-flags",
+    "tax-liens-and-funding"
+  ],
+  "icon": "file",
+  "read_minutes": 7
+}
