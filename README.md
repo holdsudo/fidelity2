@@ -1,4 +1,4 @@
-# Fidelity Funding v2 — fidelity2.joe-miz.com
+# Fidelity Funding v2 — fidelity2.fastapi.online
 
 SEO-first rebuild of fidelity-funding.com. Static site (no frameworks) on GitHub Pages (`main` → `/docs`).
 

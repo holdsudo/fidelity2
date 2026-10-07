@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /search/
 
-Sitemap: https://fidelity2.joe-miz.com/sitemap.xml
+Sitemap: https://fidelity2.fastapi.online/sitemap.xml

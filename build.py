@@ -11,8 +11,8 @@ from email.utils import format_datetime
 
 ROOT = Path(__file__).parent
 SRC, OUT, CONTENT = ROOT / "src", ROOT / "docs", ROOT / "content"
-SITE = "https://fidelity2.joe-miz.com"
-DOMAIN = "fidelity2.joe-miz.com"
+SITE = "https://fidelity2.fastapi.online"
+DOMAIN = "fidelity2.fastapi.online"
 TODAY = datetime.date.today()
 PAYPILOT = "https://mccp.services"
 
