@@ -46,7 +46,7 @@
       "h2": "Handle card data carefully",
       "paragraphs": [
         "If you accept cards, you are responsible for protecting cardholder data in accordance with the PCI Data Security Standard, the set of requirements established by the card networks. The simplest way to reduce your exposure is not to store card numbers at all. Use a processor with tokenization and encryption, so sensitive data never sits in your systems.",
-        "Never write card numbers on paper, email them or text them. Train staff to use the terminal or virtual terminal for entry. Check physical terminals regularly for tampering, and use EMV chip and contactless acceptance, which are harder to counterfeit than magnetic stripes."
+        "Card numbers should never be jotted on paper or sent through email or text messages. Train staff to use the terminal or virtual terminal for entry. Check physical terminals regularly for tampering, and use EMV chip and contactless acceptance, which are harder to counterfeit than magnetic stripes."
       ]
     },
     {
@@ -81,7 +81,7 @@
   ],
   "faq": [
     {
-      "q": "What is PCI compliance and does my small business need it?",
+      "q": "Does my small shop have to follow PCI compliance rules?",
       "a": "PCI DSS is a set of security requirements from the card networks for businesses that accept cards. If you take card payments, you generally need to meet the requirements that apply to your setup. Your processor can guide you on questionnaires, scans and tools."
     },
     {

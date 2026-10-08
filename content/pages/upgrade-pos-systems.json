@@ -48,7 +48,7 @@
       "h2": "Look at payments together with the POS",
       "paragraphs": [
         "Your point of sale and your card processing are tied together. A system that locks you into a specific processor can quietly set your fees for years, so read the contract carefully for term length, equipment leases and cancellation charges. Learn how to read your merchant statement and spot add-on fees.",
-        "Fidelity Funding's card-processing partner, PayPilot by MCCPS, offers statement reviews and competitive pricing, along with modern terminals and POS integration. Sending in a recent processing statement can show whether your current rates make sense before you commit to new hardware. Results depend on your volume, card mix and current contract.",
+        "PayPilot by MCCPS, the card-processing partner of Fidelity Funding, reviews your statements, quotes competitive pricing and supplies modern terminals with POS integration. Sending in a recent processing statement can show whether your current rates make sense before you commit to new hardware. Results depend on your volume, card mix and current contract.",
         "Security matters as well. Look for encrypted card readers and tokenization so card numbers are not stored on your systems, and ask the vendor how they help with PCI compliance. Fidelity Funding's partner PayPilot by MCCPS can review your setup alongside your statement."
       ]
     },
@@ -70,8 +70,8 @@
     {
       "h2": "How Fidelity Funding can help",
       "paragraphs": [
-        "Fidelity Funding is a broker that connects you with funding partners instead of lending directly. A short application with a soft credit pull begins the review, and a funding specialist goes through options with you. Decisions can often come within hours and funding sometimes within about a day, subject to underwriting and no guarantees.",
-        "Bring your vendor quote and a recent processing statement. A specialist can discuss funding for the project while PayPilot by MCCPS reviews your statement and pricing. When you are ready, start your application."
+        "Fidelity Funding does not lend directly for POS upgrades; it connects you to funding partners. A short application with a soft credit pull begins the review, and a funding specialist goes through options with you. Decisions can often come within hours and funding sometimes within about a day, subject to underwriting and no guarantees.",
+        "Bring your vendor quote and a recent processing statement. A specialist can discuss funding for the project while PayPilot by MCCPS reviews your statement and pricing. Start your application once your POS quote is in hand."
       ]
     }
   ],

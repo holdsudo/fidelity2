@@ -68,9 +68,29 @@ def card(p, small=False):
             f'<div class="vcard__meta"><span class="vcard__ch"><img src="/assets/img/favicon-32.png" alt="" width="28" height="28" loading="lazy"></span><div>'
             f'<div class="vcard__title">{esc(p["title"])}</div><div class="vcard__sub">{CATS[c]["single"]} · Fidelity Funding</div></div></div></a>')
 
+def variant(slug, options):
+    """Deterministically pick template copy per page so repeated chrome varies across the site."""
+    return options[int(hashlib.md5(slug.encode()).hexdigest(), 16) % len(options)]
+
+MID_CTA = [
+    ("See what your business qualifies for", "5-minute application · soft pull only · no obligation", "Check my options"),
+    ("Wondering what you could get approved for?", "A short application and a soft credit pull — your score stays untouched", "See my offers"),
+    ("Put real numbers next to this guide", "A specialist lays out your options side by side, total cost included", "Compare my options"),
+    ("Ready when the timing is right", "Apply in minutes, decide later — there's no obligation to accept", "Start my application"),
+    ("Turn the plan into a funding offer", "Decisions often come within hours once your statements are in", "Get my decision"),
+    ("Talk it through with a specialist", "Real people review your situation — not an algorithm alone", "Talk to a specialist"),
+]
+SIDE_BOX = [
+    ("Ready when you are.", "See your funding options in minutes — soft pull only, no obligation."),
+    ("Questions about your numbers?", "A Fidelity specialist can walk through what fits your business."),
+    ("Funding, minus the guesswork.", "Compare real offers side by side before you commit to anything."),
+    ("Move at your own pace.", "Apply in five minutes, review your options, decide when you're ready."),
+]
+
 def render_content(p, by_slug):
     c = p["category"]; cat = CATS[c]; url = f"/{c}/{p['slug']}/"
     toc, body = [], []
+    cta = variant(p["slug"], MID_CTA); side = variant(p["slug"] + "s", SIDE_BOX)
     for i, s in enumerate(p["sections"]):
         hid = re.sub(r"[^a-z0-9]+", "-", s["h2"].lower()).strip("-")[:60] or f"s{i}"
         toc.append((hid, s["h2"]))
@@ -79,7 +99,7 @@ def render_content(p, by_slug):
         if s.get("steps"): b += '<ol class="steps-list">' + "".join(f"<li>{link_paypilot(esc(x))}</li>" for x in s["steps"]) + "</ol>"
         body.append(b)
         if i == 1:  # mid-article conversion module
-            body.append(f'''<aside class="inline-cta"><div><b>See what your business qualifies for</b><span>5-minute application · soft pull only · no obligation</span></div><a class="btn btn--primary" href="/apply/?ref={esc(p['slug'])}">Check my options {ic("arrow")}</a></aside>''')
+            body.append(f'''<aside class="inline-cta"><div><b>{cta[0]}</b><span>{cta[1]}</span></div><a class="btn btn--primary" href="/apply/?ref={esc(p['slug'])}">{cta[2]} {ic("arrow")}</a></aside>''')
     takeaways = "".join(f"<li>{ic('check')}<span>{esc(t)}</span></li>" for t in p.get("key_takeaways", []))
     faq = "".join(f'<details{" open" if k == 0 else ""}><summary>{esc(f["q"])}<span class="faq__pm" aria-hidden="true"></span></summary><div class="faq__a"><p>{link_paypilot(esc(f["a"]))}</p></div></details>' for k, f in enumerate(p.get("faq", [])))
     rel = [by_slug[s] for s in p.get("related", []) if s in by_slug and s != p["slug"]][:6]
@@ -124,8 +144,8 @@ def render_content(p, by_slug):
   </div>
   <aside class="article-aside"><div class="aside-sticky">
     <div class="side-card">
-      <h3>Ready when you are.</h3>
-      <p>See your funding options in minutes — soft pull only, no obligation.</p>
+      <h3>{side[0]}</h3>
+      <p>{side[1]}</p>
       <a class="btn btn--white" href="/apply/?ref={esc(p['slug'])}">Get Funded {ic("arrow")}</a>
       <button class="btn btn--ghost-dark" type="button" data-ai-open="{esc(p['title'])}" style="width:100%;margin-top:10px">{ic("sparkles")} Ask Fidelity AI</button>
     </div>
